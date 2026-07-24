@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(ls /usr/share/dict/ 2>/dev/null; wc -l /usr/share/dict/words 2>/dev/null; echo \"---\"; which curl wget 2>/dev/null)",
+      "Read(//usr/share/dict/**)"
+    ]
+  }
+}

@@ -1,0 +1,3817 @@
+{
+  "band": 11,
+  "range": [
+    32001,
+    40000
+  ],
+  "label": "32K-40K",
+  "totalWords": 8000,
+  "questions": [
+    {
+      "word": "catgut",
+      "definition": "A cord of great toughness made from the intestines of animals, especially of sheep, used for strings of musical instruments, etc.",
+      "correctIndex": 1,
+      "options": [
+        "Having the characteristics of a sponge, namely being absorbent, squishy or porous.",
+        "A cord of great toughness made from the intestines of animals, especially of sheep, used for strings of musical instruments, etc.",
+        "A seaman who is not prepared to work but hangs around port areas living off the charity of others.",
+        "To steep or dip in any liquid."
+      ]
+    },
+    {
+      "word": "dogma",
+      "definition": "An authoritative principle, belief or statement of opinion, especially one considered to be absolutely true and indisputable, regardless of evidence or without evidence to support it.",
+      "correctIndex": 3,
+      "options": [
+        "A means of obtaining something by trick or deception.",
+        "A portion or serving, especially of food that one takes for oneself, or to which one helps oneself.",
+        "To act as someone's mentor",
+        "An authoritative principle, belief or statement of opinion, especially one considered to be absolutely true and indisputable, regardless of evidence or without evidence to support it."
+      ]
+    },
+    {
+      "word": "guava",
+      "definition": "A tropical tree or shrub of the myrtle family, Psidium guajava.",
+      "correctIndex": 1,
+      "options": [
+        "A small drum.",
+        "A tropical tree or shrub of the myrtle family, Psidium guajava.",
+        "To impose (a tax or fine) to collect monies due, or to confiscate property.",
+        "To transport via a motor bus."
+      ]
+    },
+    {
+      "word": "lumberjacks",
+      "definition": "A person whose work is to fell trees.",
+      "correctIndex": 2,
+      "options": [
+        "Something or someone that is physically attractive.",
+        "To bargain, haggle or negotiate over a sale.",
+        "A person whose work is to fell trees.",
+        "Corn; a type of grain of the species Zea mays."
+      ]
+    },
+    {
+      "word": "persuades",
+      "definition": "To successfully convince (someone) to agree to, accept, or do something, usually through reasoning and verbal influence.",
+      "correctIndex": 0,
+      "options": [
+        "To successfully convince (someone) to agree to, accept, or do something, usually through reasoning and verbal influence.",
+        "A feudal lord (a count palatine or Pfalzgraf) or a bishop possessing palatine powers.",
+        "To accelerate the progress of.",
+        "The puff of air accompanying the release of a plosive consonant."
+      ]
+    },
+    {
+      "word": "recurrent",
+      "definition": "Recurring; happening time after time.",
+      "correctIndex": 2,
+      "options": [
+        "The process of subtracting a number from another.",
+        "Darn; damn.",
+        "Recurring; happening time after time.",
+        "An act or instance of conveying."
+      ]
+    },
+    {
+      "word": "slashes",
+      "definition": "A slashing action or motion, particularly:",
+      "correctIndex": 3,
+      "options": [
+        "A musical instrument in the brass family, having a cylindrical bore, and usually a sliding tube (but sometimes piston valves, and rarely both). Most often refers to the tenor trombone, which is the most common type of trombone and has a fundamental tone of B♭ˌ (contra B♭).",
+        "A person in such a relationship",
+        "To survey, look at something in a wide angle.",
+        "A slashing action or motion, particularly:"
+      ]
+    },
+    {
+      "word": "vacuums",
+      "definition": "A region of space that contains no matter.",
+      "correctIndex": 3,
+      "options": [
+        "A question.",
+        "Alternative letter-case form of Lucite",
+        "To cover with sod.",
+        "A region of space that contains no matter."
+      ]
+    },
+    {
+      "word": "crouton",
+      "definition": "A small, often seasoned, piece of dry or fried bread.",
+      "correctIndex": 1,
+      "options": [
+        "To stroke or fondle (an animal).",
+        "A small, often seasoned, piece of dry or fried bread.",
+        "(strictly) A word whose meaning is the same as that of another word.",
+        "Alternative letter-case form of Lucite"
+      ]
+    },
+    {
+      "word": "noh",
+      "definition": "A form of classical Japanese music drama.",
+      "correctIndex": 1,
+      "options": [
+        "A type of large constricting snake.",
+        "A form of classical Japanese music drama.",
+        "The pointed part of an arrow.",
+        "To be a father to; to sire."
+      ]
+    },
+    {
+      "word": "roofing",
+      "definition": "Material used on the outside of a roof, such as shingles.",
+      "correctIndex": 2,
+      "options": [
+        "To prepare; to make ready for action.",
+        "To steep or dip in any liquid.",
+        "Material used on the outside of a roof, such as shingles.",
+        "A person with deviant behaviour; a deviant, degenerate or pervert."
+      ]
+    },
+    {
+      "word": "subscribers",
+      "definition": "A person who subscribes to a publication or a service",
+      "correctIndex": 0,
+      "options": [
+        "A person who subscribes to a publication or a service",
+        "A master of Tibetan Buddhism.",
+        "A mace bearer; specifically, an officer of a court in Scotland.",
+        "Grim or severe in manner or appearance"
+      ]
+    },
+    {
+      "word": "ziti",
+      "definition": "A type of penne pasta in the form of long smooth hollow tubes.",
+      "correctIndex": 2,
+      "options": [
+        "The act of fluttering; quick and irregular motion.",
+        "(of a place, situation, person, etc) In a disorderly state; chaotic; disorderly.",
+        "A type of penne pasta in the form of long smooth hollow tubes.",
+        "To interpret or view something in a romantic (unrealistic, idealized) manner."
+      ]
+    },
+    {
+      "word": "desiccated",
+      "definition": "To remove moisture from; to dry.",
+      "correctIndex": 1,
+      "options": [
+        "(of a liquid) To shift chaotically; to splash noisily.",
+        "To remove moisture from; to dry.",
+        "To reside, especially as a boarder or tenant.",
+        "The condition or quality of being fragile; brittleness; frangibility."
+      ]
+    },
+    {
+      "word": "lighthouses",
+      "definition": "A tower or other structure exhibiting a light or lights to warn or guide sailors.",
+      "correctIndex": 0,
+      "options": [
+        "A tower or other structure exhibiting a light or lights to warn or guide sailors.",
+        "One of the long benches in a church, seating several persons, usually fixed to the floor and facing the chancel.",
+        "Lacking humor or levity; serious; not funny, amusing, amused, or lighthearted.",
+        "An act of deception; a hoax; a joking prank."
+      ]
+    },
+    {
+      "word": "pythons",
+      "definition": "A type of large constricting snake.",
+      "correctIndex": 3,
+      "options": [
+        "The surgical procedure for making an incision in the abdominal wall to gain access into the abdominal cavity. Performed either as exploratory surgery, or as the first step in an abdominal operation.",
+        "The condition of being ferocious.",
+        "The pointed part of an arrow.",
+        "A type of large constricting snake."
+      ]
+    },
+    {
+      "word": "bower",
+      "definition": "A bedroom or private apartments, especially for a woman in a medieval castle.",
+      "correctIndex": 2,
+      "options": [
+        "An open stall, often on a street, where newspapers and magazines are on sale to the public",
+        "To make wrinkled, particularly fabric.",
+        "A bedroom or private apartments, especially for a woman in a medieval castle.",
+        "The person who stood for a child during a naming ceremony or baptism"
+      ]
+    },
+    {
+      "word": "grasses",
+      "definition": "Any plant of the family Poaceae, characterized by leaves that arise from nodes in the stem and leaf bases that wrap around the stem, especially those grown as ground cover rather than for grain.",
+      "correctIndex": 1,
+      "options": [
+        "To press again.",
+        "Any plant of the family Poaceae, characterized by leaves that arise from nodes in the stem and leaf bases that wrap around the stem, especially those grown as ground cover rather than for grain.",
+        "Corn; a type of grain of the species Zea mays.",
+        "A non-commissioned officer army rank with NATO code OR-4. The rank below a sergeant but above a lance corporal and private."
+      ]
+    },
+    {
+      "word": "reals",
+      "definition": "A commodity; see realty.",
+      "correctIndex": 3,
+      "options": [
+        "The period of time that has already happened, in contrast to the present and the future.",
+        "(often slightly derogatory) Occurring in a relatively large but unspecified position in a sequence.",
+        "To make to agree or correspond; to suit one thing to another; to adjust.",
+        "A commodity; see realty."
+      ]
+    },
+    {
+      "word": "actionable",
+      "definition": "That can be acted on; that can be used as the basis for taking action.",
+      "correctIndex": 3,
+      "options": [
+        "Widely and openly.",
+        "A nervous action; a tic.",
+        "A means of obtaining something by trick or deception.",
+        "That can be acted on; that can be used as the basis for taking action."
+      ]
+    },
+    {
+      "word": "hallucinogens",
+      "definition": "Any substance tending to induce hallucination.",
+      "correctIndex": 0,
+      "options": [
+        "Any substance tending to induce hallucination.",
+        "A small cup, usually with a handle, used for drinking tea; normally sits in a saucer as part of a tea set.",
+        "A punk-derived subculture of people who predominantly dress in black, associated with mournful music and attitudes.",
+        "The chemical element (symbol B) with an atomic number of 5, which is a metalloid found in its pure form as a dark amorphous powder."
+      ]
+    },
+    {
+      "word": "ropers",
+      "definition": "An accomplice who locates a mark to be swindled by a confidence trickster.",
+      "correctIndex": 2,
+      "options": [
+        "A long, angry or violent speech; a diatribe.",
+        "A creature or thing that is not human.",
+        "An accomplice who locates a mark to be swindled by a confidence trickster.",
+        "Of the colour of ink, especially black ink; dark."
+      ]
+    },
+    {
+      "word": "geist",
+      "definition": "Ghost, apparition.",
+      "correctIndex": 2,
+      "options": [
+        "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy.",
+        "(of sound) Rough, raw, especially used to describe vocal quality.",
+        "Ghost, apparition.",
+        "(of a country, geographical region, etc.) Surrounded by land (having no borders with the sea)."
+      ]
+    },
+    {
+      "word": "blanch",
+      "definition": "To grow or become white",
+      "correctIndex": 0,
+      "options": [
+        "To grow or become white",
+        "Not sullied.",
+        "To congregate in or head towards a place in large numbers.",
+        "The chemical element (symbol B) with an atomic number of 5, which is a metalloid found in its pure form as a dark amorphous powder."
+      ]
+    },
+    {
+      "word": "florins",
+      "definition": "The currency of Aruba, divided into 100 cents, symbol ƒ.",
+      "correctIndex": 0,
+      "options": [
+        "The currency of Aruba, divided into 100 cents, symbol ƒ.",
+        "To brood, raise, or maintain eggs, organisms, or living tissue through the provision of ideal environmental conditions.",
+        "An order to the contrary of a previous one.",
+        "To colour with dye, or as if with dye."
+      ]
+    },
+    {
+      "word": "clued",
+      "definition": "To provide with a clue.",
+      "correctIndex": 3,
+      "options": [
+        "To hit or strike violently and repeatedly.",
+        "A decorative ball made of pieces of soft fabric bound at the centre, most notably used in cheerleading.",
+        "To labour; work.",
+        "To provide with a clue."
+      ]
+    },
+    {
+      "word": "interpretations",
+      "definition": "An act of interpreting or explaining what is obscure; a translation; a version; a construction.",
+      "correctIndex": 3,
+      "options": [
+        "To remove a cover from.",
+        "A military action consisting of armed forces of one geopolitical entity entering territory controlled by another such entity, generally with the objective of conquering territory or altering the established government.",
+        "Pentyl",
+        "An act of interpreting or explaining what is obscure; a translation; a version; a construction."
+      ]
+    },
+    {
+      "word": "mentoring",
+      "definition": "To act as someone's mentor",
+      "correctIndex": 3,
+      "options": [
+        "A large snowstorm accompanied by strong winds and greatly reduced visibility caused by blowing snow.",
+        "To furnish with cuffs.",
+        "A mixture of mineral particles and organic material, used to support plant growth.",
+        "To act as someone's mentor"
+      ]
+    },
+    {
+      "word": "overstating",
+      "definition": "To exaggerate; to state or claim too much.",
+      "correctIndex": 2,
+      "options": [
+        "At a distance.",
+        "The act of educating again or anew so as to rehabilitate or adapt to new situations.",
+        "To exaggerate; to state or claim too much.",
+        "Deliberate or unintentional overstatement, particularly extreme overstatement."
+      ]
+    },
+    {
+      "word": "plummeted",
+      "definition": "To drop swiftly, in a direct manner; to fall quickly.",
+      "correctIndex": 1,
+      "options": [
+        "To colour with dye, or as if with dye.",
+        "To drop swiftly, in a direct manner; to fall quickly.",
+        "A feudal lord (a count palatine or Pfalzgraf) or a bishop possessing palatine powers.",
+        "The fruit of the hazel tree."
+      ]
+    },
+    {
+      "word": "readying",
+      "definition": "To prepare; to make ready for action.",
+      "correctIndex": 0,
+      "options": [
+        "To prepare; to make ready for action.",
+        "A (living) body.",
+        "A thin blini (pancake), filled (often with sweet cheese) and folded, then fried and often served with sour cream, fruit, or a sweet sauce.",
+        "Not having a horse."
+      ]
+    },
+    {
+      "word": "roomed",
+      "definition": "To reside, especially as a boarder or tenant.",
+      "correctIndex": 3,
+      "options": [
+        "The act of coupling or joining; union; conjunction.",
+        "A portion or serving, especially of food that one takes for oneself, or to which one helps oneself.",
+        "A young goose.",
+        "To reside, especially as a boarder or tenant."
+      ]
+    },
+    {
+      "word": "spoof",
+      "definition": "An act of deception; a hoax; a joking prank.",
+      "correctIndex": 0,
+      "options": [
+        "An act of deception; a hoax; a joking prank.",
+        "To sway back and forth; to totter or reel.",
+        "The sweet and edible drupes (fruits) of several Mediterranean and African species of small trees.",
+        "A bandage and belt used to hold a hernia in place."
+      ]
+    },
+    {
+      "word": "taster",
+      "definition": "An object in which, or by which, food or drink is tasted, for example a dram cup",
+      "correctIndex": 1,
+      "options": [
+        "Not sullied.",
+        "An object in which, or by which, food or drink is tasted, for example a dram cup",
+        "At all times; throughout all time; since the beginning.",
+        "Sheets, blankets, quilts or other coverings used on a bed."
+      ]
+    },
+    {
+      "word": "unfunny",
+      "definition": "Not funny, especially when attempting to be.",
+      "correctIndex": 3,
+      "options": [
+        "Darn; damn.",
+        "To move about smoothly and from side to side.",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "Not funny, especially when attempting to be."
+      ]
+    },
+    {
+      "word": "worrisome",
+      "definition": "Causing worry; perturbing or vexing.",
+      "correctIndex": 0,
+      "options": [
+        "Causing worry; perturbing or vexing.",
+        "To be a father to; to sire.",
+        "The action of selling something previously bought, usually at a higher price for profit.",
+        "Not sullied."
+      ]
+    },
+    {
+      "word": "calibrate",
+      "definition": "To check or adjust by comparison with a standard.",
+      "correctIndex": 3,
+      "options": [
+        "A tax charged on goods produced within the country (as opposed to customs duties, charged on goods from outside the country).",
+        "The property of all possible outcomes being equally likely.",
+        "(manner) In a chronological manner; with reference to time.",
+        "To check or adjust by comparison with a standard."
+      ]
+    },
+    {
+      "word": "convergence",
+      "definition": "The act of moving toward union or uniformity.",
+      "correctIndex": 3,
+      "options": [
+        "A person in such a relationship",
+        "To sway back and forth; to totter or reel.",
+        "The period of time that has already happened, in contrast to the present and the future.",
+        "The act of moving toward union or uniformity."
+      ]
+    },
+    {
+      "word": "dissipation",
+      "definition": "The act of dissipating or dispersing; a state of dispersion or separation; dispersion; waste.",
+      "correctIndex": 2,
+      "options": [
+        "Darn; damn.",
+        "Of the colour of ink, especially black ink; dark.",
+        "The act of dissipating or dispersing; a state of dispersion or separation; dispersion; waste.",
+        "To brood, raise, or maintain eggs, organisms, or living tissue through the provision of ideal environmental conditions."
+      ]
+    },
+    {
+      "word": "falsify",
+      "definition": "To alter so as to make false; to make incorrect.",
+      "correctIndex": 1,
+      "options": [
+        "The act of designating; a pointing out or showing; indication.",
+        "To alter so as to make false; to make incorrect.",
+        "A small cup, usually with a handle, used for drinking tea; normally sits in a saucer as part of a tea set.",
+        "Being in a healthy condition; not deranged; thinking rationally."
+      ]
+    },
+    {
+      "word": "grotesquely",
+      "definition": "In a grotesque manner; disgustingly.",
+      "correctIndex": 3,
+      "options": [
+        "In a prominent manner.",
+        "An inflammation of subcutaneous or connective tissue caused by a bacterial infection",
+        "Travelling with no preset route; roaming.",
+        "In a grotesque manner; disgustingly."
+      ]
+    },
+    {
+      "word": "incubated",
+      "definition": "To brood, raise, or maintain eggs, organisms, or living tissue through the provision of ideal environmental conditions.",
+      "correctIndex": 2,
+      "options": [
+        "Corn; a type of grain of the species Zea mays.",
+        "An item worn (often by strippers) to conceal one's nipples.",
+        "To brood, raise, or maintain eggs, organisms, or living tissue through the provision of ideal environmental conditions.",
+        "The female genitalia."
+      ]
+    },
+    {
+      "word": "nitric",
+      "definition": "Nitric acid",
+      "correctIndex": 0,
+      "options": [
+        "Nitric acid",
+        "A stallion, especially in the sense of mount.",
+        "To wander around aimlessly, often causing irritation to others.",
+        "The use of living organisms (especially microorganisms) in industrial, agricultural, medical and other technological applications."
+      ]
+    },
+    {
+      "word": "pounder",
+      "definition": "A vessel in which something is pounded, or an implement used in pounding.",
+      "correctIndex": 2,
+      "options": [
+        "A tapestry or wall hanging.",
+        "Reasonable and convincing; based on evidence.",
+        "A vessel in which something is pounded, or an implement used in pounding.",
+        "The person or thing coming next after the ninth in a series; that which is in the tenth position."
+      ]
+    },
+    {
+      "word": "resale",
+      "definition": "The action of selling something previously bought, usually at a higher price for profit.",
+      "correctIndex": 3,
+      "options": [
+        "To encumber with a handicap in any contest.",
+        "To make even, inactive or ineffective.",
+        "A small drum.",
+        "The action of selling something previously bought, usually at a higher price for profit."
+      ]
+    },
+    {
+      "word": "slithering",
+      "definition": "To move about smoothly and from side to side.",
+      "correctIndex": 3,
+      "options": [
+        "To move under the force of gravity.",
+        "To be a father to; to sire.",
+        "An inflammation of subcutaneous or connective tissue caused by a bacterial infection",
+        "To move about smoothly and from side to side."
+      ]
+    },
+    {
+      "word": "tenths",
+      "definition": "The person or thing coming next after the ninth in a series; that which is in the tenth position.",
+      "correctIndex": 0,
+      "options": [
+        "The person or thing coming next after the ninth in a series; that which is in the tenth position.",
+        "To think about; think over",
+        "A sound made by a sudden release of electricity or some similar energy.",
+        "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy."
+      ]
+    },
+    {
+      "word": "unrepentant",
+      "definition": "Feeling or showing no sorrow or regret for wrongdoing.",
+      "correctIndex": 1,
+      "options": [
+        "Impossible to exhaust; unlimited.",
+        "Feeling or showing no sorrow or regret for wrongdoing.",
+        "To confuse and bewilder; to leave speechless.",
+        "Solan goose"
+      ]
+    },
+    {
+      "word": "boisterous",
+      "definition": "Full of energy; exuberant; noisy.",
+      "correctIndex": 3,
+      "options": [
+        "To tease, kid, poke fun at, make fun of.",
+        "To entertain with wine.",
+        "Willing to respond to persuasion or suggestions.",
+        "Full of energy; exuberant; noisy."
+      ]
+    },
+    {
+      "word": "defensively",
+      "definition": "In a defensive manner.",
+      "correctIndex": 0,
+      "options": [
+        "In a defensive manner.",
+        "A shot taken at an easy or random target.",
+        "A place where races are held; a racetrack.",
+        "To convert (plain text) into code."
+      ]
+    },
+    {
+      "word": "frequents",
+      "definition": "To visit often.",
+      "correctIndex": 1,
+      "options": [
+        "To entertain with wine.",
+        "To visit often.",
+        "A sharp and bitter hatred.",
+        "To make wrinkled, particularly fabric."
+      ]
+    },
+    {
+      "word": "moonie",
+      "definition": "The European goldcrest.",
+      "correctIndex": 1,
+      "options": [
+        "To press again.",
+        "The European goldcrest.",
+        "To wander around aimlessly, often causing irritation to others.",
+        "To walk quietly with only the tips of the toes touching the ground."
+      ]
+    },
+    {
+      "word": "petted",
+      "definition": "To stroke or fondle (an animal).",
+      "correctIndex": 0,
+      "options": [
+        "To stroke or fondle (an animal).",
+        "A place where races are held; a racetrack.",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures"
+      ]
+    },
+    {
+      "word": "romantics",
+      "definition": "A person with romantic character (a character like those of the knights in a mythic romance).",
+      "correctIndex": 2,
+      "options": [
+        "One who plays the flute.",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "A person with romantic character (a character like those of the knights in a mythic romance).",
+        "To sort according to its staple."
+      ]
+    },
+    {
+      "word": "spongy",
+      "definition": "Having the characteristics of a sponge, namely being absorbent, squishy or porous.",
+      "correctIndex": 0,
+      "options": [
+        "Having the characteristics of a sponge, namely being absorbent, squishy or porous.",
+        "A person who comforts someone who is suffering.",
+        "Someone or something that saves lives.",
+        "A jacket-like garment with very long sleeves which can be secured in place, thus preventing the wearer from moving his or her arms. Often used in psychiatric hospitals to prevent patients from injuring themselves or others."
+      ]
+    },
+    {
+      "word": "storyboards",
+      "definition": "A series of drawings that lay out the sequence of scenes in a film or series, especially an animated one.",
+      "correctIndex": 2,
+      "options": [
+        "A small drum.",
+        "In a prominent manner.",
+        "A series of drawings that lay out the sequence of scenes in a film or series, especially an animated one.",
+        "To press again."
+      ]
+    },
+    {
+      "word": "baas",
+      "definition": "An employer, a boss. Frequently as a form of address.",
+      "correctIndex": 3,
+      "options": [
+        "Intentional deceptiveness; double-dealing.",
+        "To please.",
+        "Of the colour of ink, especially black ink; dark.",
+        "An employer, a boss. Frequently as a form of address."
+      ]
+    },
+    {
+      "word": "solan",
+      "definition": "Solan goose",
+      "correctIndex": 1,
+      "options": [
+        "To labour; work.",
+        "Solan goose",
+        "A flight past a celestial object in order to make observations.",
+        "An open stall, often on a street, where newspapers and magazines are on sale to the public"
+      ]
+    },
+    {
+      "word": "adversely",
+      "definition": "In an adverse manner.",
+      "correctIndex": 0,
+      "options": [
+        "In an adverse manner.",
+        "The kola plant, genus Cola, famous for its nut, or one of these nuts.",
+        "Carefully aware of all circumstances; considerate of all that is pertinent.",
+        "Willing to respond to persuasion or suggestions."
+      ]
+    },
+    {
+      "word": "bankrolled",
+      "definition": "To fund a project; to underwrite something.",
+      "correctIndex": 2,
+      "options": [
+        "To fill with great delight or joy; to fascinate or captivate.",
+        "The branch of physiology that deals with the nervous system.",
+        "To fund a project; to underwrite something.",
+        "Not suspected; not having raised suspicion."
+      ]
+    },
+    {
+      "word": "breakage",
+      "definition": "The act of breaking.",
+      "correctIndex": 3,
+      "options": [
+        "To chop away at; to whittle down; to mow down.",
+        "An intermixture; the product of mixing together",
+        "Generosity in the giving of gifts or money.",
+        "The act of breaking."
+      ]
+    },
+    {
+      "word": "chronologically",
+      "definition": "(manner) In a chronological manner; with reference to time.",
+      "correctIndex": 2,
+      "options": [
+        "That which tranquillizes or soothes.",
+        "A circular prison, especially a small local lockup or station house.",
+        "(manner) In a chronological manner; with reference to time.",
+        "Any of several plant-eating marine mammals, of family Trichechidae, found in tropical regions."
+      ]
+    },
+    {
+      "word": "contrite",
+      "definition": "A contrite person; a penitent.",
+      "correctIndex": 0,
+      "options": [
+        "A contrite person; a penitent.",
+        "To fill with great delight or joy; to fascinate or captivate.",
+        "To transport via a motor bus.",
+        "(of a liquid) To shift chaotically; to splash noisily."
+      ]
+    },
+    {
+      "word": "desensitized",
+      "definition": "To cause to become less sensitive or insensitive.",
+      "correctIndex": 3,
+      "options": [
+        "(as a term of address) Grandmother.",
+        "The act of designating; a pointing out or showing; indication.",
+        "The state of being uneasy, nervous or restless.",
+        "To cause to become less sensitive or insensitive."
+      ]
+    },
+    {
+      "word": "dyeing",
+      "definition": "To colour with dye, or as if with dye.",
+      "correctIndex": 3,
+      "options": [
+        "To move about in roving fashion looking for plunder.",
+        "The female genitalia.",
+        "Fishing: the catching, processing and marketing of fish or other seafood.",
+        "To colour with dye, or as if with dye."
+      ]
+    },
+    {
+      "word": "expedited",
+      "definition": "To accelerate the progress of.",
+      "correctIndex": 0,
+      "options": [
+        "To accelerate the progress of.",
+        "To labour; work.",
+        "A person of Italian, Spanish, Portuguese, or other Mediterranean descent.",
+        "No longer living."
+      ]
+    },
+    {
+      "word": "globally",
+      "definition": "In all places or situations.",
+      "correctIndex": 0,
+      "options": [
+        "In all places or situations.",
+        "To identify or select one member of a group from the others; generally used with out, either to single out or to single (something) out.",
+        "To surround a territory or other geographical entity.",
+        "Originally a small utility knife for cutting the points of quill feathers or reeds into nibs to provide or repair writing implements in times before pens with artificial nibs, generally metal, became commercially available in the 19th century. Early versions of penknives commonly were small sheath knives."
+      ]
+    },
+    {
+      "word": "hyperbole",
+      "definition": "Deliberate or unintentional overstatement, particularly extreme overstatement.",
+      "correctIndex": 1,
+      "options": [
+        "(often slightly derogatory) Occurring in a relatively large but unspecified position in a sequence.",
+        "Deliberate or unintentional overstatement, particularly extreme overstatement.",
+        "The quality of being adaptable; a quality that renders adaptable.",
+        "A mace bearer; specifically, an officer of a court in Scotland."
+      ]
+    },
+    {
+      "word": "judiciary",
+      "definition": "The collective body of judges, justices, etc.",
+      "correctIndex": 1,
+      "options": [
+        "To make again.",
+        "The collective body of judges, justices, etc.",
+        "To cover with sod.",
+        "A sharp and bitter hatred."
+      ]
+    },
+    {
+      "word": "mooching",
+      "definition": "To wander around aimlessly, often causing irritation to others.",
+      "correctIndex": 0,
+      "options": [
+        "To wander around aimlessly, often causing irritation to others.",
+        "The property of all possible outcomes being equally likely.",
+        "A female bird in the condition to incubate eggs; a broody hen, duck, etc.",
+        "Something constructed from parts."
+      ]
+    },
+    {
+      "word": "pasties",
+      "definition": "An item worn (often by strippers) to conceal one's nipples.",
+      "correctIndex": 2,
+      "options": [
+        "Of the colour of ink, especially black ink; dark.",
+        "To make dark or darker by reducing light.",
+        "An item worn (often by strippers) to conceal one's nipples.",
+        "A person who is taken advantage of, especially by being cheated or blamed for something."
+      ]
+    },
+    {
+      "word": "prominently",
+      "definition": "In a prominent manner.",
+      "correctIndex": 2,
+      "options": [
+        "To suffer, or cause someone to suffer, from severely reduced oxygen intake to the body.",
+        "In a philosophical manner.",
+        "In a prominent manner.",
+        "(history) An immigrant from the Northern to the Southern States after the American Civil War of 1861–5, especially one who went South to gain political influence."
+      ]
+    },
+    {
+      "word": "refunded",
+      "definition": "To return (money) to (someone); to reimburse.",
+      "correctIndex": 3,
+      "options": [
+        "To move under the force of gravity.",
+        "A small drum.",
+        "A jacket-like garment with very long sleeves which can be secured in place, thus preventing the wearer from moving his or her arms. Often used in psychiatric hospitals to prevent patients from injuring themselves or others.",
+        "To return (money) to (someone); to reimburse."
+      ]
+    },
+    {
+      "word": "romanticize",
+      "definition": "To interpret or view something in a romantic (unrealistic, idealized) manner.",
+      "correctIndex": 1,
+      "options": [
+        "A jacket-like garment with very long sleeves which can be secured in place, thus preventing the wearer from moving his or her arms. Often used in psychiatric hospitals to prevent patients from injuring themselves or others.",
+        "To interpret or view something in a romantic (unrealistic, idealized) manner.",
+        "A schoolchild, a kid who attends school; a schoolboy or schoolgirl.",
+        "The state of being uneasy, nervous or restless."
+      ]
+    },
+    {
+      "word": "singling",
+      "definition": "To identify or select one member of a group from the others; generally used with out, either to single out or to single (something) out.",
+      "correctIndex": 2,
+      "options": [
+        "To steep or dip in any liquid.",
+        "To make thinner by adding solvent to a solution, especially by adding water.",
+        "To identify or select one member of a group from the others; generally used with out, either to single out or to single (something) out.",
+        "A flight past a celestial object in order to make observations."
+      ]
+    },
+    {
+      "word": "straitjackets",
+      "definition": "A jacket-like garment with very long sleeves which can be secured in place, thus preventing the wearer from moving his or her arms. Often used in psychiatric hospitals to prevent patients from injuring themselves or others.",
+      "correctIndex": 2,
+      "options": [
+        "To cause to take physical form, or to cause an object to appear.",
+        "The state of being uneasy, nervous or restless.",
+        "A jacket-like garment with very long sleeves which can be secured in place, thus preventing the wearer from moving his or her arms. Often used in psychiatric hospitals to prevent patients from injuring themselves or others.",
+        "A beer mug, usually made of ceramic or glass."
+      ]
+    },
+    {
+      "word": "toddlers",
+      "definition": "A young child who has started walking but not fully mastered it, typically between one and three years old.",
+      "correctIndex": 1,
+      "options": [
+        "A leisurely walk or stroll.",
+        "A young child who has started walking but not fully mastered it, typically between one and three years old.",
+        "The sweet and edible drupes (fruits) of several Mediterranean and African species of small trees.",
+        "A large snowstorm accompanied by strong winds and greatly reduced visibility caused by blowing snow."
+      ]
+    },
+    {
+      "word": "unproven",
+      "definition": "Not proved.",
+      "correctIndex": 1,
+      "options": [
+        "To make to agree or correspond; to suit one thing to another; to adjust.",
+        "Not proved.",
+        "A person who studies meteorology",
+        "To remove a cover from."
+      ]
+    },
+    {
+      "word": "wormy",
+      "definition": "Of or like a worm or worms; shaped like a worm or worms.",
+      "correctIndex": 0,
+      "options": [
+        "Of or like a worm or worms; shaped like a worm or worms.",
+        "A line to which a drowning or falling victim may cling.",
+        "A person with deviant behaviour; a deviant, degenerate or pervert.",
+        "The common name for the monetary currencies used in modern India, Mauritius, Nepal, Pakistan, the Seychelles, or Sri Lanka, often abbreviated ₨."
+      ]
+    },
+    {
+      "word": "austere",
+      "definition": "Grim or severe in manner or appearance",
+      "correctIndex": 0,
+      "options": [
+        "Grim or severe in manner or appearance",
+        "Any vocalisation of a bird.",
+        "To labour; work.",
+        "To cover with sod."
+      ]
+    },
+    {
+      "word": "brandishing",
+      "definition": "To move or swing a weapon back and forth, particularly if demonstrating anger, threat or skill.",
+      "correctIndex": 1,
+      "options": [
+        "Not sullied.",
+        "To move or swing a weapon back and forth, particularly if demonstrating anger, threat or skill.",
+        "To furnish with cuffs.",
+        "The process of subtracting a number from another."
+      ]
+    },
+    {
+      "word": "chiseling",
+      "definition": "To use a chisel.",
+      "correctIndex": 3,
+      "options": [
+        "To surround a territory or other geographical entity.",
+        "An expression granting permission; an indication of agreement with a proposal; an acknowledgement that a person, thing or event meets requirements.",
+        "To cover with sod.",
+        "To use a chisel."
+      ]
+    },
+    {
+      "word": "conveyance",
+      "definition": "An act or instance of conveying.",
+      "correctIndex": 3,
+      "options": [
+        "A feudal lord (a count palatine or Pfalzgraf) or a bishop possessing palatine powers.",
+        "Bleeding within internal organs and the accompanying symptoms.",
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+        "An act or instance of conveying."
+      ]
+    },
+    {
+      "word": "designation",
+      "definition": "The act of designating; a pointing out or showing; indication.",
+      "correctIndex": 2,
+      "options": [
+        "To treat with affection, care, and tenderness; to nurture or protect with care.",
+        "A schoolchild, a kid who attends school; a schoolboy or schoolgirl.",
+        "The act of designating; a pointing out or showing; indication.",
+        "One who commutes (etymology 1)."
+      ]
+    },
+    {
+      "word": "entropy",
+      "definition": "Strictly thermodynamic entropy. A measure of the amount of energy in a physical system that cannot be used to do work.",
+      "correctIndex": 0,
+      "options": [
+        "Strictly thermodynamic entropy. A measure of the amount of energy in a physical system that cannot be used to do work.",
+        "That which tranquillizes or soothes.",
+        "To congregate in or head towards a place in large numbers.",
+        "Of the colour of ink, especially black ink; dark."
+      ]
+    },
+    {
+      "word": "flawlessly",
+      "definition": "In a flawless manner.",
+      "correctIndex": 0,
+      "options": [
+        "In a flawless manner.",
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "To make even, inactive or ineffective.",
+        "To be or come very close; to border; to approach."
+      ]
+    },
+    {
+      "word": "headstones",
+      "definition": "A gravestone, a grave marker: a monument traditionally made of stone placed at the head of a grave.",
+      "correctIndex": 2,
+      "options": [
+        "Fate; destiny; luck.",
+        "A large snowstorm accompanied by strong winds and greatly reduced visibility caused by blowing snow.",
+        "A gravestone, a grave marker: a monument traditionally made of stone placed at the head of a grave.",
+        "The sweet and edible drupes (fruits) of several Mediterranean and African species of small trees."
+      ]
+    },
+    {
+      "word": "laparotomy",
+      "definition": "The surgical procedure for making an incision in the abdominal wall to gain access into the abdominal cavity. Performed either as exploratory surgery, or as the first step in an abdominal operation.",
+      "correctIndex": 2,
+      "options": [
+        "To give up as beyond hope or expectation; to despair of.",
+        "To furnish with cuffs.",
+        "The surgical procedure for making an incision in the abdominal wall to gain access into the abdominal cavity. Performed either as exploratory surgery, or as the first step in an abdominal operation.",
+        "The period of time that has already happened, in contrast to the present and the future."
+      ]
+    },
+    {
+      "word": "mismatched",
+      "definition": "To match unsuitably; to fail to match",
+      "correctIndex": 0,
+      "options": [
+        "To match unsuitably; to fail to match",
+        "A young goose.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "To be or come very close; to border; to approach."
+      ]
+    },
+    {
+      "word": "pasts",
+      "definition": "The period of time that has already happened, in contrast to the present and the future.",
+      "correctIndex": 1,
+      "options": [
+        "To encumber with a handicap in any contest.",
+        "The period of time that has already happened, in contrast to the present and the future.",
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+        "To cover with sod."
+      ]
+    },
+    {
+      "word": "regulators",
+      "definition": "A device that controls or limits something.",
+      "correctIndex": 2,
+      "options": [
+        "To think about; think over",
+        "Originally a small utility knife for cutting the points of quill feathers or reeds into nibs to provide or repair writing implements in times before pens with artificial nibs, generally metal, became commercially available in the 19th century. Early versions of penknives commonly were small sheath knives.",
+        "A device that controls or limits something.",
+        "The pointed part of an arrow."
+      ]
+    },
+    {
+      "word": "scoffed",
+      "definition": "To jeer; to laugh with contempt and derision.",
+      "correctIndex": 1,
+      "options": [
+        "A large, dark cloud, usually a cumulonimbus, charged with electricity and producing thunder and lightning; a stormcloud",
+        "To jeer; to laugh with contempt and derision.",
+        "Something constructed from parts.",
+        "To pledge; to stake or wager."
+      ]
+    },
+    {
+      "word": "sopping",
+      "definition": "To steep or dip in any liquid.",
+      "correctIndex": 0,
+      "options": [
+        "To steep or dip in any liquid.",
+        "A large, dark cloud, usually a cumulonimbus, charged with electricity and producing thunder and lightning; a stormcloud",
+        "(often slightly derogatory) Occurring in a relatively large but unspecified position in a sequence.",
+        "An intermixture; the product of mixing together"
+      ]
+    },
+    {
+      "word": "tiptoes",
+      "definition": "To walk quietly with only the tips of the toes touching the ground.",
+      "correctIndex": 3,
+      "options": [
+        "A line to which a drowning or falling victim may cling.",
+        "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect.",
+        "To determine which disease is causing a sick person's signs and symptoms; to find the diagnosis.",
+        "To walk quietly with only the tips of the toes touching the ground."
+      ]
+    },
+    {
+      "word": "webcam",
+      "definition": "A video camera whose output may be viewed in real time over a computer network, especially over the World Wide Web.",
+      "correctIndex": 3,
+      "options": [
+        "Not appreciative",
+        "A person who studies meteorology",
+        "Possible to excuse",
+        "A video camera whose output may be viewed in real time over a computer network, especially over the World Wide Web."
+      ]
+    },
+    {
+      "word": "alchemy",
+      "definition": "The ancient search for a universal panacea, and of the philosopher's stone, that eventually developed into chemistry.",
+      "correctIndex": 1,
+      "options": [
+        "One who plays the flute.",
+        "The ancient search for a universal panacea, and of the philosopher's stone, that eventually developed into chemistry.",
+        "Willing to respond to persuasion or suggestions.",
+        "The confusing state of being puzzled; bewilderment"
+      ]
+    },
+    {
+      "word": "blintzes",
+      "definition": "A thin blini (pancake), filled (often with sweet cheese) and folded, then fried and often served with sour cream, fruit, or a sweet sauce.",
+      "correctIndex": 0,
+      "options": [
+        "A thin blini (pancake), filled (often with sweet cheese) and folded, then fried and often served with sour cream, fruit, or a sweet sauce.",
+        "The name of the Latin-script letter R.",
+        "To make wrinkled, particularly fabric.",
+        "A person who comforts someone who is suffering."
+      ]
+    },
+    {
+      "word": "cogent",
+      "definition": "Reasonable and convincing; based on evidence.",
+      "correctIndex": 2,
+      "options": [
+        "The state of being entangled; intricate and confused involution.",
+        "An expression granting permission; an indication of agreement with a proposal; an acknowledgement that a person, thing or event meets requirements.",
+        "Reasonable and convincing; based on evidence.",
+        "A tapestry or wall hanging."
+      ]
+    },
+    {
+      "word": "duplicity",
+      "definition": "Intentional deceptiveness; double-dealing.",
+      "correctIndex": 0,
+      "options": [
+        "Intentional deceptiveness; double-dealing.",
+        "To transport via a motor bus.",
+        "Darn; damn.",
+        "To make even, inactive or ineffective."
+      ]
+    },
+    {
+      "word": "hopelessness",
+      "definition": "The lack of hope; despair",
+      "correctIndex": 3,
+      "options": [
+        "Pertaining to one's bodily constitution; physically, physiologically.",
+        "A line to which a drowning or falling victim may cling.",
+        "To confuse and bewilder; to leave speechless.",
+        "The lack of hope; despair"
+      ]
+    },
+    {
+      "word": "meteorologist",
+      "definition": "A person who studies meteorology",
+      "correctIndex": 2,
+      "options": [
+        "To survey, look at something in a wide angle.",
+        "One who spoils; a plunderer; a pillager; a robber; a despoiler.",
+        "A person who studies meteorology",
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures"
+      ]
+    },
+    {
+      "word": "passel",
+      "definition": "An indeterminately large quantity or group.",
+      "correctIndex": 0,
+      "options": [
+        "An indeterminately large quantity or group.",
+        "A child between 10 and 12 years of age, at the onset of adolescence.",
+        "Any of the various types of small armed vessels",
+        "An act that victimizes or exploits someone."
+      ]
+    },
+    {
+      "word": "spoiler",
+      "definition": "One who spoils; a plunderer; a pillager; a robber; a despoiler.",
+      "correctIndex": 1,
+      "options": [
+        "The act of indenting or state of being indented.",
+        "One who spoils; a plunderer; a pillager; a robber; a despoiler.",
+        "Fate; destiny; luck.",
+        "To make thinner by adding solvent to a solution, especially by adding water."
+      ]
+    },
+    {
+      "word": "toiling",
+      "definition": "To labour; work.",
+      "correctIndex": 0,
+      "options": [
+        "To labour; work.",
+        "The confusing state of being puzzled; bewilderment",
+        "A person of Italian, Spanish, Portuguese, or other Mediterranean descent.",
+        "A contortion."
+      ]
+    },
+    {
+      "word": "decanter",
+      "definition": "A vessel for decanting liquor.",
+      "correctIndex": 3,
+      "options": [
+        "Widely and openly.",
+        "A climbing woody vine, usually tropical.",
+        "An inflammation of subcutaneous or connective tissue caused by a bacterial infection",
+        "A vessel for decanting liquor."
+      ]
+    },
+    {
+      "word": "godparents",
+      "definition": "The person who stood for a child during a naming ceremony or baptism",
+      "correctIndex": 1,
+      "options": [
+        "Alternative letter-case form of Lucite",
+        "The person who stood for a child during a naming ceremony or baptism",
+        "A leisurely walk or stroll.",
+        "To give up as beyond hope or expectation; to despair of."
+      ]
+    },
+    {
+      "word": "jujubes",
+      "definition": "The sweet and edible drupes (fruits) of several Mediterranean and African species of small trees.",
+      "correctIndex": 2,
+      "options": [
+        "At a distance.",
+        "To surround a territory or other geographical entity.",
+        "The sweet and edible drupes (fruits) of several Mediterranean and African species of small trees.",
+        "A pretty person; a term of address to a pretty person."
+      ]
+    },
+    {
+      "word": "paleface",
+      "definition": "A white person; a person of European descent.",
+      "correctIndex": 2,
+      "options": [
+        "Something that warms, such as a heater or a soup.",
+        "Nothing; zero.",
+        "A white person; a person of European descent.",
+        "A person who is taken advantage of, especially by being cheated or blamed for something."
+      ]
+    },
+    {
+      "word": "reveling",
+      "definition": "To make merry; to have a happy, lively time.",
+      "correctIndex": 1,
+      "options": [
+        "A decorative ball made of pieces of soft fabric bound at the centre, most notably used in cheerleading.",
+        "To make merry; to have a happy, lively time.",
+        "The use of living organisms (especially microorganisms) in industrial, agricultural, medical and other technological applications.",
+        "A vacant lot where children play."
+      ]
+    },
+    {
+      "word": "teacups",
+      "definition": "A small cup, usually with a handle, used for drinking tea; normally sits in a saucer as part of a tea set.",
+      "correctIndex": 2,
+      "options": [
+        "To furnish with cuffs.",
+        "A heavy mass of often iron or concrete, mechanically linked in opposition to a load which is to be raised and lowered, with the intent of reducing the amount of work which must be done to effect the raising and lowering. Counterweights are used, for example, in cable-hauled elevators and some kinds of movable bridges (e.g. a bascule bridge).",
+        "A small cup, usually with a handle, used for drinking tea; normally sits in a saucer as part of a tea set.",
+        "The handrail on the side of a staircase."
+      ]
+    },
+    {
+      "word": "amyl",
+      "definition": "Pentyl",
+      "correctIndex": 1,
+      "options": [
+        "A means of obtaining something by trick or deception.",
+        "Pentyl",
+        "Carefully aware of all circumstances; considerate of all that is pertinent.",
+        "A nervous action; a tic."
+      ]
+    },
+    {
+      "word": "carpetbaggers",
+      "definition": "(history) An immigrant from the Northern to the Southern States after the American Civil War of 1861–5, especially one who went South to gain political influence.",
+      "correctIndex": 2,
+      "options": [
+        "In a philosophical manner.",
+        "Something that has an oblique or slanted position.",
+        "(history) An immigrant from the Northern to the Southern States after the American Civil War of 1861–5, especially one who went South to gain political influence.",
+        "(often slightly derogatory) Occurring in a relatively large but unspecified position in a sequence."
+      ]
+    },
+    {
+      "word": "fisheries",
+      "definition": "Fishing: the catching, processing and marketing of fish or other seafood.",
+      "correctIndex": 1,
+      "options": [
+        "To chop away at; to whittle down; to mow down.",
+        "Fishing: the catching, processing and marketing of fish or other seafood.",
+        "Not manageable; not readily submitting to handling or management; not easily restrained, governed, or directed",
+        "One who commutes (etymology 1)."
+      ]
+    },
+    {
+      "word": "inky",
+      "definition": "Of the colour of ink, especially black ink; dark.",
+      "correctIndex": 1,
+      "options": [
+        "Change the appearance of something/someone to the negative.",
+        "Of the colour of ink, especially black ink; dark.",
+        "Something that is (easily) breakable.",
+        "The act of indenting or state of being indented."
+      ]
+    },
+    {
+      "word": "particulates",
+      "definition": "(chiefly in plural) Any solid or liquid in a subdivided state, especially one that exhibits special characteristics which are negligible in the bulk material.",
+      "correctIndex": 2,
+      "options": [
+        "Being in a healthy condition; not deranged; thinking rationally.",
+        "Dirty or grimy.",
+        "(chiefly in plural) Any solid or liquid in a subdivided state, especially one that exhibits special characteristics which are negligible in the bulk material.",
+        "A decorative ball made of pieces of soft fabric bound at the centre, most notably used in cheerleading."
+      ]
+    },
+    {
+      "word": "acrimony",
+      "definition": "A sharp and bitter hatred.",
+      "correctIndex": 1,
+      "options": [
+        "To convert (plain text) into code.",
+        "A sharp and bitter hatred.",
+        "One hundredth of one percentage point.",
+        "A person who comforts someone who is suffering."
+      ]
+    },
+    {
+      "word": "colas",
+      "definition": "The kola plant, genus Cola, famous for its nut, or one of these nuts.",
+      "correctIndex": 0,
+      "options": [
+        "The kola plant, genus Cola, famous for its nut, or one of these nuts.",
+        "The common name for the monetary currencies used in modern India, Mauritius, Nepal, Pakistan, the Seychelles, or Sri Lanka, often abbreviated ₨.",
+        "The confusing state of being puzzled; bewilderment",
+        "The state of being entangled; intricate and confused involution."
+      ]
+    },
+    {
+      "word": "lifelines",
+      "definition": "A line to which a drowning or falling victim may cling.",
+      "correctIndex": 1,
+      "options": [
+        "To move about in roving fashion looking for plunder.",
+        "A line to which a drowning or falling victim may cling.",
+        "Sheets, blankets, quilts or other coverings used on a bed.",
+        "(of a liquid) To shift chaotically; to splash noisily."
+      ]
+    },
+    {
+      "word": "porphyria",
+      "definition": "Any of several usually hereditary abnormalities of porphyrin metabolism characterized by excretion of excess porphyrins in the urine.",
+      "correctIndex": 1,
+      "options": [
+        "Fate; destiny; luck.",
+        "Any of several usually hereditary abnormalities of porphyrin metabolism characterized by excretion of excess porphyrins in the urine.",
+        "Nothing; zero.",
+        "A person who is taken advantage of, especially by being cheated or blamed for something."
+      ]
+    },
+    {
+      "word": "sandlot",
+      "definition": "A vacant lot where children play.",
+      "correctIndex": 0,
+      "options": [
+        "A vacant lot where children play.",
+        "A heavy mass of often iron or concrete, mechanically linked in opposition to a load which is to be raised and lowered, with the intent of reducing the amount of work which must be done to effect the raising and lowering. Counterweights are used, for example, in cable-hauled elevators and some kinds of movable bridges (e.g. a bascule bridge).",
+        "Moderate humidity; moisture; moistness.",
+        "(as a term of address) Grandmother."
+      ]
+    },
+    {
+      "word": "arrowheads",
+      "definition": "The pointed part of an arrow.",
+      "correctIndex": 0,
+      "options": [
+        "The pointed part of an arrow.",
+        "A state of pain, suffering, distress or agony.",
+        "The state of being entangled; intricate and confused involution.",
+        "A portion or serving, especially of food that one takes for oneself, or to which one helps oneself."
+      ]
+    },
+    {
+      "word": "bounding",
+      "definition": "To surround a territory or other geographical entity.",
+      "correctIndex": 2,
+      "options": [
+        "The act of educating again or anew so as to rehabilitate or adapt to new situations.",
+        "The act of indenting or state of being indented.",
+        "To surround a territory or other geographical entity.",
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures"
+      ]
+    },
+    {
+      "word": "circumspect",
+      "definition": "Carefully aware of all circumstances; considerate of all that is pertinent.",
+      "correctIndex": 1,
+      "options": [
+        "A means of obtaining something by trick or deception.",
+        "Carefully aware of all circumstances; considerate of all that is pertinent.",
+        "The water held back by a dam or other obstruction",
+        "A slender wax candle; a small lighted wax candle"
+      ]
+    },
+    {
+      "word": "constitutionally",
+      "definition": "Pertaining to one's bodily constitution; physically, physiologically.",
+      "correctIndex": 2,
+      "options": [
+        "The act of recriminating.",
+        "To entertain with wine.",
+        "Pertaining to one's bodily constitution; physically, physiologically.",
+        "A climbing woody vine, usually tropical."
+      ]
+    },
+    {
+      "word": "darkening",
+      "definition": "To make dark or darker by reducing light.",
+      "correctIndex": 1,
+      "options": [
+        "The act of fluttering; quick and irregular motion.",
+        "To make dark or darker by reducing light.",
+        "(of a place, situation, person, etc) In a disorderly state; chaotic; disorderly.",
+        "An order to the contrary of a previous one."
+      ]
+    },
+    {
+      "word": "diagnosing",
+      "definition": "To determine which disease is causing a sick person's signs and symptoms; to find the diagnosis.",
+      "correctIndex": 1,
+      "options": [
+        "To make to agree or correspond; to suit one thing to another; to adjust.",
+        "To determine which disease is causing a sick person's signs and symptoms; to find the diagnosis.",
+        "One of the long benches in a church, seating several persons, usually fixed to the floor and facing the chancel.",
+        "To chop away at; to whittle down; to mow down."
+      ]
+    },
+    {
+      "word": "edged",
+      "definition": "To move an object slowly and carefully in a particular direction.",
+      "correctIndex": 1,
+      "options": [
+        "A female bird in the condition to incubate eggs; a broody hen, duck, etc.",
+        "To move an object slowly and carefully in a particular direction.",
+        "To hit or strike violently and repeatedly.",
+        "A period of unusually low rainfall, longer and more severe than a dry spell."
+      ]
+    },
+    {
+      "word": "evergreen",
+      "definition": "A tree or shrub that does not shed its leaves or needles seasonally.",
+      "correctIndex": 0,
+      "options": [
+        "A tree or shrub that does not shed its leaves or needles seasonally.",
+        "A person in such a relationship",
+        "To suffer, or cause someone to suffer, from severely reduced oxygen intake to the body.",
+        "An intermixture; the product of mixing together"
+      ]
+    },
+    {
+      "word": "fiddled",
+      "definition": "To play aimlessly.",
+      "correctIndex": 0,
+      "options": [
+        "To play aimlessly.",
+        "(of a country, geographical region, etc.) Surrounded by land (having no borders with the sea).",
+        "Someone who participates in mutiny.",
+        "(often slightly derogatory) Occurring in a relatively large but unspecified position in a sequence."
+      ]
+    },
+    {
+      "word": "helpings",
+      "definition": "A portion or serving, especially of food that one takes for oneself, or to which one helps oneself.",
+      "correctIndex": 0,
+      "options": [
+        "A portion or serving, especially of food that one takes for oneself, or to which one helps oneself.",
+        "You",
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "An open stall, often on a street, where newspapers and magazines are on sale to the public"
+      ]
+    },
+    {
+      "word": "inexhaustible",
+      "definition": "Impossible to exhaust; unlimited.",
+      "correctIndex": 1,
+      "options": [
+        "Sheets, blankets, quilts or other coverings used on a bed.",
+        "Impossible to exhaust; unlimited.",
+        "To treat with affection, care, and tenderness; to nurture or protect with care.",
+        "Lacking humor or levity; serious; not funny, amusing, amused, or lighthearted."
+      ]
+    },
+    {
+      "word": "landlocked",
+      "definition": "(of a country, geographical region, etc.) Surrounded by land (having no borders with the sea).",
+      "correctIndex": 3,
+      "options": [
+        "A nervous action; a tic.",
+        "A sound made by a sudden release of electricity or some similar energy.",
+        "Travelling with no preset route; roaming.",
+        "(of a country, geographical region, etc.) Surrounded by land (having no borders with the sea)."
+      ]
+    },
+    {
+      "word": "materialized",
+      "definition": "To cause to take physical form, or to cause an object to appear.",
+      "correctIndex": 2,
+      "options": [
+        "To remove a cover from.",
+        "A porter at an airport.",
+        "To cause to take physical form, or to cause an object to appear.",
+        "The confusing state of being puzzled; bewilderment"
+      ]
+    },
+    {
+      "word": "newsstands",
+      "definition": "An open stall, often on a street, where newspapers and magazines are on sale to the public",
+      "correctIndex": 3,
+      "options": [
+        "The puff of air accompanying the release of a plosive consonant.",
+        "A tax charged on goods produced within the country (as opposed to customs duties, charged on goods from outside the country).",
+        "To drink (used frequently of alcoholic beverages).",
+        "An open stall, often on a street, where newspapers and magazines are on sale to the public"
+      ]
+    },
+    {
+      "word": "patsies",
+      "definition": "A person who is taken advantage of, especially by being cheated or blamed for something.",
+      "correctIndex": 2,
+      "options": [
+        "To confuse and bewilder; to leave speechless.",
+        "Something that is (easily) breakable.",
+        "A person who is taken advantage of, especially by being cheated or blamed for something.",
+        "A mythical beast having a horse's body with a man's head and torso in place of the head and neck of the horse."
+      ]
+    },
+    {
+      "word": "propensity",
+      "definition": "An inclination, disposition, tendency, preference, or attraction.",
+      "correctIndex": 2,
+      "options": [
+        "(of liquids, such as wine or syrup) To make clear or bright by freeing from feculent matter",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "An inclination, disposition, tendency, preference, or attraction.",
+        "An amino acid, 2-(carbamimidoyl-methyl- amino)acetic acid, which naturally occurs in vertebrates and helps to supply energy to muscle and nerve cells."
+      ]
+    },
+    {
+      "word": "remade",
+      "definition": "To make again.",
+      "correctIndex": 0,
+      "options": [
+        "To make again.",
+        "To entertain with wine.",
+        "(as a term of address) Grandmother.",
+        "To make a clashing sound."
+      ]
+    },
+    {
+      "word": "saner",
+      "definition": "Being in a healthy condition; not deranged; thinking rationally.",
+      "correctIndex": 2,
+      "options": [
+        "Bleeding within internal organs and the accompanying symptoms.",
+        "One billion hertz, 109 Hz.",
+        "Being in a healthy condition; not deranged; thinking rationally.",
+        "The act of indenting or state of being indented."
+      ]
+    },
+    {
+      "word": "sloshing",
+      "definition": "(of a liquid) To shift chaotically; to splash noisily.",
+      "correctIndex": 1,
+      "options": [
+        "In a justifiable manner; with justification",
+        "(of a liquid) To shift chaotically; to splash noisily.",
+        "A person of Italian, Spanish, Portuguese, or other Mediterranean descent.",
+        "Generosity in the giving of gifts or money."
+      ]
+    },
+    {
+      "word": "suffocates",
+      "definition": "To suffer, or cause someone to suffer, from severely reduced oxygen intake to the body.",
+      "correctIndex": 0,
+      "options": [
+        "To suffer, or cause someone to suffer, from severely reduced oxygen intake to the body.",
+        "A means of obtaining something by trick or deception.",
+        "A large snowstorm accompanied by strong winds and greatly reduced visibility caused by blowing snow.",
+        "No longer living."
+      ]
+    },
+    {
+      "word": "tirade",
+      "definition": "A long, angry or violent speech; a diatribe.",
+      "correctIndex": 1,
+      "options": [
+        "(of sound) Rough, raw, especially used to describe vocal quality.",
+        "A long, angry or violent speech; a diatribe.",
+        "A flight past a celestial object in order to make observations.",
+        "A tax charged on goods produced within the country (as opposed to customs duties, charged on goods from outside the country)."
+      ]
+    },
+    {
+      "word": "unsuccessfully",
+      "definition": "Not successfully; without success; to no avail.",
+      "correctIndex": 1,
+      "options": [
+        "To give up as beyond hope or expectation; to despair of.",
+        "Not successfully; without success; to no avail.",
+        "In a comical manner",
+        "Change the appearance of something/someone to the negative."
+      ]
+    },
+    {
+      "word": "wined",
+      "definition": "To entertain with wine.",
+      "correctIndex": 0,
+      "options": [
+        "To entertain with wine.",
+        "To move about in roving fashion looking for plunder.",
+        "Dirty or grimy.",
+        "A (living) body."
+      ]
+    },
+    {
+      "word": "aspirate",
+      "definition": "The puff of air accompanying the release of a plosive consonant.",
+      "correctIndex": 1,
+      "options": [
+        "To impose (a tax or fine) to collect monies due, or to confiscate property.",
+        "The puff of air accompanying the release of a plosive consonant.",
+        "To cover the surface material of an object with a thin coat of another material, usually a metal.",
+        "Something constructed from parts."
+      ]
+    },
+    {
+      "word": "commuters",
+      "definition": "One who commutes (etymology 1).",
+      "correctIndex": 2,
+      "options": [
+        "The handrail on the side of a staircase.",
+        "Travelling with no preset route; roaming.",
+        "One who commutes (etymology 1).",
+        "Widely and openly."
+      ]
+    },
+    {
+      "word": "despairing",
+      "definition": "To give up as beyond hope or expectation; to despair of.",
+      "correctIndex": 1,
+      "options": [
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "To give up as beyond hope or expectation; to despair of.",
+        "A mythical beast having a horse's body with a man's head and torso in place of the head and neck of the horse.",
+        "The use of living organisms (especially microorganisms) in industrial, agricultural, medical and other technological applications."
+      ]
+    },
+    {
+      "word": "ensuing",
+      "definition": "To follow (a leader, inclination etc.).",
+      "correctIndex": 2,
+      "options": [
+        "Possible to excuse",
+        "The name of the Latin-script letter R.",
+        "To follow (a leader, inclination etc.).",
+        "A tapestry or wall hanging."
+      ]
+    },
+    {
+      "word": "ferocity",
+      "definition": "The condition of being ferocious.",
+      "correctIndex": 1,
+      "options": [
+        "A question.",
+        "The condition of being ferocious.",
+        "The condition or quality of being fragile; brittleness; frangibility.",
+        "To confuse and bewilder; to leave speechless."
+      ]
+    },
+    {
+      "word": "grenadine",
+      "definition": "A cordial syrup made from pomegranates.",
+      "correctIndex": 0,
+      "options": [
+        "A cordial syrup made from pomegranates.",
+        "To chop away at; to whittle down; to mow down.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "(of a place, situation, person, etc) In a disorderly state; chaotic; disorderly."
+      ]
+    },
+    {
+      "word": "humorless",
+      "definition": "Lacking humor or levity; serious; not funny, amusing, amused, or lighthearted.",
+      "correctIndex": 0,
+      "options": [
+        "Lacking humor or levity; serious; not funny, amusing, amused, or lighthearted.",
+        "The property of being versatile or having many different abilities; flexibility.",
+        "A decorative ball made of pieces of soft fabric bound at the centre, most notably used in cheerleading.",
+        "To throw up or vomit; to eject what has previously been swallowed."
+      ]
+    },
+    {
+      "word": "maturing",
+      "definition": "To proceed toward maturity: full development or completion (either of concrete or of abstract things, e.g. plans, judgments, qualities).",
+      "correctIndex": 0,
+      "options": [
+        "To proceed toward maturity: full development or completion (either of concrete or of abstract things, e.g. plans, judgments, qualities).",
+        "Widely and openly.",
+        "The quality of being adaptable; a quality that renders adaptable.",
+        "One of the long benches in a church, seating several persons, usually fixed to the floor and facing the chancel."
+      ]
+    },
+    {
+      "word": "overthink",
+      "definition": "To think about; think over",
+      "correctIndex": 2,
+      "options": [
+        "Any of several plant-eating marine mammals, of family Trichechidae, found in tropical regions.",
+        "Possible to excuse",
+        "To think about; think over",
+        "A large, dark cloud, usually a cumulonimbus, charged with electricity and producing thunder and lightning; a stormcloud"
+      ]
+    },
+    {
+      "word": "puzzlement",
+      "definition": "The confusing state of being puzzled; bewilderment",
+      "correctIndex": 0,
+      "options": [
+        "The confusing state of being puzzled; bewilderment",
+        "One hundredth of one percentage point.",
+        "Sheets, blankets, quilts or other coverings used on a bed.",
+        "Generosity in the giving of gifts or money."
+      ]
+    },
+    {
+      "word": "seedless",
+      "definition": "Not having (noticeable) seeds.",
+      "correctIndex": 3,
+      "options": [
+        "To emit one or more bleeps.",
+        "Not able to be placated or appeased.",
+        "A large snowstorm accompanied by strong winds and greatly reduced visibility caused by blowing snow.",
+        "Not having (noticeable) seeds."
+      ]
+    },
+    {
+      "word": "talentless",
+      "definition": "Having no talent or natural ability.",
+      "correctIndex": 0,
+      "options": [
+        "Having no talent or natural ability.",
+        "Frivolous act",
+        "Something or someone that is physically attractive.",
+        "The quality of being adaptable; a quality that renders adaptable."
+      ]
+    },
+    {
+      "word": "wagonload",
+      "definition": "The amount that can be loaded onto a wagon.",
+      "correctIndex": 3,
+      "options": [
+        "One who practices or advocates socialism.",
+        "A flight past a celestial object in order to make observations.",
+        "(of sound) Rough, raw, especially used to describe vocal quality.",
+        "The amount that can be loaded onto a wagon."
+      ]
+    },
+    {
+      "word": "bussing",
+      "definition": "To transport via a motor bus.",
+      "correctIndex": 0,
+      "options": [
+        "To transport via a motor bus.",
+        "You",
+        "An amino acid, 2-(carbamimidoyl-methyl- amino)acetic acid, which naturally occurs in vertebrates and helps to supply energy to muscle and nerve cells.",
+        "Any of several plant-eating marine mammals, of family Trichechidae, found in tropical regions."
+      ]
+    },
+    {
+      "word": "draftees",
+      "definition": "One who is drafted (into a military service, etc)",
+      "correctIndex": 2,
+      "options": [
+        "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect.",
+        "To assign a category; to divide into classes.",
+        "One who is drafted (into a military service, etc)",
+        "A person with deviant behaviour; a deviant, degenerate or pervert."
+      ]
+    },
+    {
+      "word": "gunboats",
+      "definition": "Any of the various types of small armed vessels",
+      "correctIndex": 3,
+      "options": [
+        "A small drum.",
+        "(often slightly derogatory) Occurring in a relatively large but unspecified position in a sequence.",
+        "A place where races are held; a racetrack.",
+        "Any of the various types of small armed vessels"
+      ]
+    },
+    {
+      "word": "lamas",
+      "definition": "A master of Tibetan Buddhism.",
+      "correctIndex": 0,
+      "options": [
+        "A master of Tibetan Buddhism.",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "A rod, wire, or other structure for receiving or transmitting radio, television signals etc.",
+        "To make wrinkled, particularly fabric."
+      ]
+    },
+    {
+      "word": "philosophically",
+      "definition": "In a philosophical manner.",
+      "correctIndex": 2,
+      "options": [
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "In a philosophical manner.",
+        "A period of unusually low rainfall, longer and more severe than a dry spell."
+      ]
+    },
+    {
+      "word": "rupees",
+      "definition": "The common name for the monetary currencies used in modern India, Mauritius, Nepal, Pakistan, the Seychelles, or Sri Lanka, often abbreviated ₨.",
+      "correctIndex": 2,
+      "options": [
+        "A sweet-smelling oil or resin derived from various plants.",
+        "(of liquids, such as wine or syrup) To make clear or bright by freeing from feculent matter",
+        "The common name for the monetary currencies used in modern India, Mauritius, Nepal, Pakistan, the Seychelles, or Sri Lanka, often abbreviated ₨.",
+        "To fasten with a band."
+      ]
+    },
+    {
+      "word": "tranquillizer",
+      "definition": "That which tranquillizes or soothes.",
+      "correctIndex": 1,
+      "options": [
+        "A person who comforts someone who is suffering.",
+        "That which tranquillizes or soothes.",
+        "Not manageable; not readily submitting to handling or management; not easily restrained, governed, or directed",
+        "A sharp projection."
+      ]
+    },
+    {
+      "word": "bettors",
+      "definition": "A person who makes a bet, such as a wager on the outcome of a game of chance or a sporting event.",
+      "correctIndex": 3,
+      "options": [
+        "(strictly) A word whose meaning is the same as that of another word.",
+        "A tax charged on goods produced within the country (as opposed to customs duties, charged on goods from outside the country).",
+        "To assign a category; to divide into classes.",
+        "A person who makes a bet, such as a wager on the outcome of a game of chance or a sporting event."
+      ]
+    },
+    {
+      "word": "nils",
+      "definition": "Nothing; zero.",
+      "correctIndex": 1,
+      "options": [
+        "The act of fluttering; quick and irregular motion.",
+        "Nothing; zero.",
+        "A rod, wire, or other structure for receiving or transmitting radio, television signals etc.",
+        "(of liquids, such as wine or syrup) To make clear or bright by freeing from feculent matter"
+      ]
+    },
+    {
+      "word": "subtraction",
+      "definition": "The process of subtracting a number from another.",
+      "correctIndex": 1,
+      "options": [
+        "To treat with affection, care, and tenderness; to nurture or protect with care.",
+        "The process of subtracting a number from another.",
+        "Not able to be placated or appeased.",
+        "A musical instrument in the brass family, having a cylindrical bore, and usually a sliding tube (but sometimes piston valves, and rarely both). Most often refers to the tenor trombone, which is the most common type of trombone and has a fundamental tone of B♭ˌ (contra B♭)."
+      ]
+    },
+    {
+      "word": "manatee",
+      "definition": "Any of several plant-eating marine mammals, of family Trichechidae, found in tropical regions.",
+      "correctIndex": 2,
+      "options": [
+        "To please.",
+        "A feudal lord (a count palatine or Pfalzgraf) or a bishop possessing palatine powers.",
+        "Any of several plant-eating marine mammals, of family Trichechidae, found in tropical regions.",
+        "One of the long benches in a church, seating several persons, usually fixed to the floor and facing the chancel."
+      ]
+    },
+    {
+      "word": "victimization",
+      "definition": "An act that victimizes or exploits someone.",
+      "correctIndex": 1,
+      "options": [
+        "The use of living organisms (especially microorganisms) in industrial, agricultural, medical and other technological applications.",
+        "An act that victimizes or exploits someone.",
+        "The water held back by a dam or other obstruction",
+        "Sheets, blankets, quilts or other coverings used on a bed."
+      ]
+    },
+    {
+      "word": "corse",
+      "definition": "A (living) body.",
+      "correctIndex": 3,
+      "options": [
+        "Pertaining to heat energy extracted from reservoirs in the earth's interior",
+        "To convert (plain text) into code.",
+        "The condition or quality of being fragile; brittleness; frangibility.",
+        "A (living) body."
+      ]
+    },
+    {
+      "word": "goths",
+      "definition": "A punk-derived subculture of people who predominantly dress in black, associated with mournful music and attitudes.",
+      "correctIndex": 2,
+      "options": [
+        "The use of living organisms (especially microorganisms) in industrial, agricultural, medical and other technological applications.",
+        "A shot taken at an easy or random target.",
+        "A punk-derived subculture of people who predominantly dress in black, associated with mournful music and attitudes.",
+        "An inflammation of subcutaneous or connective tissue caused by a bacterial infection"
+      ]
+    },
+    {
+      "word": "liane",
+      "definition": "A climbing woody vine, usually tropical.",
+      "correctIndex": 2,
+      "options": [
+        "An inexpensive paper used for printing newspapers.",
+        "A state of pain, suffering, distress or agony.",
+        "A climbing woody vine, usually tropical.",
+        "The property of being versatile or having many different abilities; flexibility."
+      ]
+    },
+    {
+      "word": "tabor",
+      "definition": "A small drum.",
+      "correctIndex": 3,
+      "options": [
+        "A tapestry or wall hanging.",
+        "To injure the dignity and self-respect of.",
+        "Someone or something that saves lives.",
+        "A small drum."
+      ]
+    },
+    {
+      "word": "grandmamma",
+      "definition": "(as a term of address) Grandmother.",
+      "correctIndex": 3,
+      "options": [
+        "An inflammation of subcutaneous or connective tissue caused by a bacterial infection",
+        "To remove a cover from.",
+        "To tease, kid, poke fun at, make fun of.",
+        "(as a term of address) Grandmother."
+      ]
+    },
+    {
+      "word": "amenable",
+      "definition": "Willing to respond to persuasion or suggestions.",
+      "correctIndex": 1,
+      "options": [
+        "A poisonous compound present in the foxglove (Digitalis lanata) and other plants. It is a steroid glycoside and is used in small doses as a cardiac stimulant.",
+        "Willing to respond to persuasion or suggestions.",
+        "A large snowstorm accompanied by strong winds and greatly reduced visibility caused by blowing snow.",
+        "A state of pain, suffering, distress or agony."
+      ]
+    },
+    {
+      "word": "banded",
+      "definition": "To fasten with a band.",
+      "correctIndex": 0,
+      "options": [
+        "To fasten with a band.",
+        "To increase suddenly and extremely; to shoot up; to surge or spike.",
+        "The state of being uneasy, nervous or restless.",
+        "A mixture of mineral particles and organic material, used to support plant growth."
+      ]
+    },
+    {
+      "word": "broadly",
+      "definition": "Widely and openly.",
+      "correctIndex": 1,
+      "options": [
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "Widely and openly.",
+        "A sound made by a sudden release of electricity or some similar energy.",
+        "A mischievous or hostile spirit."
+      ]
+    },
+    {
+      "word": "clarifying",
+      "definition": "(of liquids, such as wine or syrup) To make clear or bright by freeing from feculent matter",
+      "correctIndex": 2,
+      "options": [
+        "A creature or thing that is not human.",
+        "To feel pain, sorrow, or regret for what one has done or omitted to do; the cause for repenting may be indicated with \"of\".",
+        "(of liquids, such as wine or syrup) To make clear or bright by freeing from feculent matter",
+        "A person of Italian, Spanish, Portuguese, or other Mediterranean descent."
+      ]
+    },
+    {
+      "word": "constructs",
+      "definition": "Something constructed from parts.",
+      "correctIndex": 3,
+      "options": [
+        "The name of the Latin-script letter R.",
+        "To treat with affection, care, and tenderness; to nurture or protect with care.",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "Something constructed from parts."
+      ]
+    },
+    {
+      "word": "dagos",
+      "definition": "A person of Italian, Spanish, Portuguese, or other Mediterranean descent.",
+      "correctIndex": 1,
+      "options": [
+        "In a justifiable manner; with justification",
+        "A person of Italian, Spanish, Portuguese, or other Mediterranean descent.",
+        "The state of being uneasy, nervous or restless.",
+        "Someone who participates in mutiny."
+      ]
+    },
+    {
+      "word": "disfiguring",
+      "definition": "Change the appearance of something/someone to the negative.",
+      "correctIndex": 1,
+      "options": [
+        "Something that is (easily) breakable.",
+        "Change the appearance of something/someone to the negative.",
+        "Not able to be placated or appeased.",
+        "To throw up or vomit; to eject what has previously been swallowed."
+      ]
+    },
+    {
+      "word": "duplicating",
+      "definition": "To make a copy of.",
+      "correctIndex": 0,
+      "options": [
+        "To make a copy of.",
+        "A shot taken at an easy or random target.",
+        "Alternative letter-case form of Lucite",
+        "A means of obtaining something by trick or deception."
+      ]
+    },
+    {
+      "word": "entanglements",
+      "definition": "The state of being entangled; intricate and confused involution.",
+      "correctIndex": 2,
+      "options": [
+        "To increase suddenly and extremely; to shoot up; to surge or spike.",
+        "A question.",
+        "The state of being entangled; intricate and confused involution.",
+        "To assign a category; to divide into classes."
+      ]
+    },
+    {
+      "word": "fathering",
+      "definition": "To be a father to; to sire.",
+      "correctIndex": 3,
+      "options": [
+        "The act of educating again or anew so as to rehabilitate or adapt to new situations.",
+        "To congregate in or head towards a place in large numbers.",
+        "To make thinner by adding solvent to a solution, especially by adding water.",
+        "To be a father to; to sire."
+      ]
+    },
+    {
+      "word": "frivolity",
+      "definition": "Frivolous act",
+      "correctIndex": 2,
+      "options": [
+        "In a comical manner",
+        "A mythical beast having a horse's body with a man's head and torso in place of the head and neck of the horse.",
+        "Frivolous act",
+        "To drink (used frequently of alcoholic beverages)."
+      ]
+    },
+    {
+      "word": "hazelnut",
+      "definition": "The fruit of the hazel tree.",
+      "correctIndex": 0,
+      "options": [
+        "The fruit of the hazel tree.",
+        "To tease, kid, poke fun at, make fun of.",
+        "That which perishes or is short-lived.",
+        "In a justifiable manner; with justification"
+      ]
+    },
+    {
+      "word": "humiliates",
+      "definition": "To injure the dignity and self-respect of.",
+      "correctIndex": 2,
+      "options": [
+        "Not able to be placated or appeased.",
+        "You",
+        "To injure the dignity and self-respect of.",
+        "Possible to excuse"
+      ]
+    },
+    {
+      "word": "indentations",
+      "definition": "The act of indenting or state of being indented.",
+      "correctIndex": 3,
+      "options": [
+        "A schoolchild, a kid who attends school; a schoolboy or schoolgirl.",
+        "To throw up or vomit; to eject what has previously been swallowed.",
+        "A mythical beast having a horse's body with a man's head and torso in place of the head and neck of the horse.",
+        "The act of indenting or state of being indented."
+      ]
+    },
+    {
+      "word": "invasions",
+      "definition": "A military action consisting of armed forces of one geopolitical entity entering territory controlled by another such entity, generally with the objective of conquering territory or altering the established government.",
+      "correctIndex": 0,
+      "options": [
+        "A military action consisting of armed forces of one geopolitical entity entering territory controlled by another such entity, generally with the objective of conquering territory or altering the established government.",
+        "To tease, kid, poke fun at, make fun of.",
+        "To drink (used frequently of alcoholic beverages).",
+        "A rare metallic chemical element (symbol W, from Latin wolframium) with an atomic number of 74."
+      ]
+    },
+    {
+      "word": "levied",
+      "definition": "To impose (a tax or fine) to collect monies due, or to confiscate property.",
+      "correctIndex": 2,
+      "options": [
+        "To remove a cover from.",
+        "An inflammation of subcutaneous or connective tissue caused by a bacterial infection",
+        "To impose (a tax or fine) to collect monies due, or to confiscate property.",
+        "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy."
+      ]
+    },
+    {
+      "word": "messier",
+      "definition": "(of a place, situation, person, etc) In a disorderly state; chaotic; disorderly.",
+      "correctIndex": 0,
+      "options": [
+        "(of a place, situation, person, etc) In a disorderly state; chaotic; disorderly.",
+        "The condition or quality of being fragile; brittleness; frangibility.",
+        "Originally a small utility knife for cutting the points of quill feathers or reeds into nibs to provide or repair writing implements in times before pens with artificial nibs, generally metal, became commercially available in the 19th century. Early versions of penknives commonly were small sheath knives.",
+        "To hit or strike violently and repeatedly."
+      ]
+    },
+    {
+      "word": "ornamental",
+      "definition": "An ornamental plant.",
+      "correctIndex": 2,
+      "options": [
+        "A creature or thing that is not human.",
+        "To treat with affection, care, and tenderness; to nurture or protect with care.",
+        "An ornamental plant.",
+        "A pretty person; a term of address to a pretty person."
+      ]
+    },
+    {
+      "word": "perishables",
+      "definition": "That which perishes or is short-lived.",
+      "correctIndex": 0,
+      "options": [
+        "That which perishes or is short-lived.",
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "The female genitalia.",
+        "A sharp projection."
+      ]
+    },
+    {
+      "word": "pretties",
+      "definition": "A pretty person; a term of address to a pretty person.",
+      "correctIndex": 3,
+      "options": [
+        "The act of coupling or joining; union; conjunction.",
+        "To encumber with a handicap in any contest.",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "A pretty person; a term of address to a pretty person."
+      ]
+    },
+    {
+      "word": "randomness",
+      "definition": "The property of all possible outcomes being equally likely.",
+      "correctIndex": 2,
+      "options": [
+        "Something or someone that is physically attractive.",
+        "A nervous action; a tic.",
+        "The property of all possible outcomes being equally likely.",
+        "An inflammation of subcutaneous or connective tissue caused by a bacterial infection"
+      ]
+    },
+    {
+      "word": "repressing",
+      "definition": "To press again.",
+      "correctIndex": 3,
+      "options": [
+        "Any vocalisation of a bird.",
+        "To cover with sod.",
+        "A beer mug, usually made of ceramic or glass.",
+        "To press again."
+      ]
+    },
+    {
+      "word": "roundhouse",
+      "definition": "A circular prison, especially a small local lockup or station house.",
+      "correctIndex": 1,
+      "options": [
+        "(often slightly derogatory) Occurring in a relatively large but unspecified position in a sequence.",
+        "A circular prison, especially a small local lockup or station house.",
+        "The middle section of the human torso, from below the chest to above the waist",
+        "A stallion, especially in the sense of mount."
+      ]
+    },
+    {
+      "word": "skyrocketed",
+      "definition": "To increase suddenly and extremely; to shoot up; to surge or spike.",
+      "correctIndex": 1,
+      "options": [
+        "Not having a horse.",
+        "To increase suddenly and extremely; to shoot up; to surge or spike.",
+        "Not able to be placated or appeased.",
+        "A person with deviant behaviour; a deviant, degenerate or pervert."
+      ]
+    },
+    {
+      "word": "stapling",
+      "definition": "To sort according to its staple.",
+      "correctIndex": 1,
+      "options": [
+        "An order to the contrary of a previous one.",
+        "To sort according to its staple.",
+        "Alternative letter-case form of Lucite",
+        "The condition or quality of being fragile; brittleness; frangibility."
+      ]
+    },
+    {
+      "word": "taper",
+      "definition": "A slender wax candle; a small lighted wax candle",
+      "correctIndex": 3,
+      "options": [
+        "A sound made by a sudden release of electricity or some similar energy.",
+        "A heavy mass of often iron or concrete, mechanically linked in opposition to a load which is to be raised and lowered, with the intent of reducing the amount of work which must be done to effect the raising and lowering. Counterweights are used, for example, in cable-hauled elevators and some kinds of movable bridges (e.g. a bascule bridge).",
+        "To chop away at; to whittle down; to mow down.",
+        "A slender wax candle; a small lighted wax candle"
+      ]
+    },
+    {
+      "word": "umpteenth",
+      "definition": "(often slightly derogatory) Occurring in a relatively large but unspecified position in a sequence.",
+      "correctIndex": 1,
+      "options": [
+        "To assign a category; to divide into classes.",
+        "(often slightly derogatory) Occurring in a relatively large but unspecified position in a sequence.",
+        "Resembling meal (the foodstuff).",
+        "The handrail on the side of a staircase."
+      ]
+    },
+    {
+      "word": "unmanageable",
+      "definition": "Not manageable; not readily submitting to handling or management; not easily restrained, governed, or directed",
+      "correctIndex": 3,
+      "options": [
+        "To make wrinkled, particularly fabric.",
+        "No longer living.",
+        "An inflammation of subcutaneous or connective tissue caused by a bacterial infection",
+        "Not manageable; not readily submitting to handling or management; not easily restrained, governed, or directed"
+      ]
+    },
+    {
+      "word": "verging",
+      "definition": "To be or come very close; to border; to approach.",
+      "correctIndex": 1,
+      "options": [
+        "Not suspected; not having raised suspicion.",
+        "To be or come very close; to border; to approach.",
+        "To pledge; to stake or wager.",
+        "The water held back by a dam or other obstruction"
+      ]
+    },
+    {
+      "word": "writhe",
+      "definition": "A contortion.",
+      "correctIndex": 0,
+      "options": [
+        "A contortion.",
+        "To pledge; to stake or wager.",
+        "To please.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax."
+      ]
+    },
+    {
+      "word": "apoplexy",
+      "definition": "Bleeding within internal organs and the accompanying symptoms.",
+      "correctIndex": 3,
+      "options": [
+        "To convert (plain text) into code.",
+        "An external body part that projects from the body.",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "Bleeding within internal organs and the accompanying symptoms."
+      ]
+    },
+    {
+      "word": "blizzards",
+      "definition": "A large snowstorm accompanied by strong winds and greatly reduced visibility caused by blowing snow.",
+      "correctIndex": 0,
+      "options": [
+        "A large snowstorm accompanied by strong winds and greatly reduced visibility caused by blowing snow.",
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "A person in such a relationship",
+        "Moderate humidity; moisture; moistness."
+      ]
+    },
+    {
+      "word": "centaurs",
+      "definition": "A mythical beast having a horse's body with a man's head and torso in place of the head and neck of the horse.",
+      "correctIndex": 0,
+      "options": [
+        "A mythical beast having a horse's body with a man's head and torso in place of the head and neck of the horse.",
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "A porter at an airport.",
+        "To convert (plain text) into code."
+      ]
+    },
+    {
+      "word": "countermand",
+      "definition": "An order to the contrary of a previous one.",
+      "correctIndex": 2,
+      "options": [
+        "A person in such a relationship",
+        "You",
+        "An order to the contrary of a previous one.",
+        "A period of unusually low rainfall, longer and more severe than a dry spell."
+      ]
+    },
+    {
+      "word": "enquiry",
+      "definition": "A question.",
+      "correctIndex": 1,
+      "options": [
+        "At a distance.",
+        "A question.",
+        "A place where races are held; a racetrack.",
+        "A nervous action; a tic."
+      ]
+    },
+    {
+      "word": "flocked",
+      "definition": "To congregate in or head towards a place in large numbers.",
+      "correctIndex": 2,
+      "options": [
+        "Something that has an oblique or slanted position.",
+        "To throw up or vomit; to eject what has previously been swallowed.",
+        "To congregate in or head towards a place in large numbers.",
+        "A feudal lord (a count palatine or Pfalzgraf) or a bishop possessing palatine powers."
+      ]
+    },
+    {
+      "word": "horseless",
+      "definition": "Not having a horse.",
+      "correctIndex": 2,
+      "options": [
+        "The property of being versatile or having many different abilities; flexibility.",
+        "(of sound) Rough, raw, especially used to describe vocal quality.",
+        "Not having a horse.",
+        "A large, dark cloud, usually a cumulonimbus, charged with electricity and producing thunder and lightning; a stormcloud"
+      ]
+    },
+    {
+      "word": "largesse",
+      "definition": "Generosity in the giving of gifts or money.",
+      "correctIndex": 3,
+      "options": [
+        "To survey, look at something in a wide angle.",
+        "Darn; damn.",
+        "You",
+        "Generosity in the giving of gifts or money."
+      ]
+    },
+    {
+      "word": "midriff",
+      "definition": "The middle section of the human torso, from below the chest to above the waist",
+      "correctIndex": 3,
+      "options": [
+        "One of the long benches in a church, seating several persons, usually fixed to the floor and facing the chancel.",
+        "A mixture of mineral particles and organic material, used to support plant growth.",
+        "Darn; damn.",
+        "The middle section of the human torso, from below the chest to above the waist"
+      ]
+    },
+    {
+      "word": "neutralizes",
+      "definition": "To make even, inactive or ineffective.",
+      "correctIndex": 2,
+      "options": [
+        "Not able to be placated or appeased.",
+        "Pertaining to heat energy extracted from reservoirs in the earth's interior",
+        "To make even, inactive or ineffective.",
+        "To cover the surface material of an object with a thin coat of another material, usually a metal."
+      ]
+    },
+    {
+      "word": "pawning",
+      "definition": "To pledge; to stake or wager.",
+      "correctIndex": 3,
+      "options": [
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "To cover the surface material of an object with a thin coat of another material, usually a metal.",
+        "A mace bearer; specifically, an officer of a court in Scotland.",
+        "To pledge; to stake or wager."
+      ]
+    },
+    {
+      "word": "preteen",
+      "definition": "A child between 10 and 12 years of age, at the onset of adolescence.",
+      "correctIndex": 0,
+      "options": [
+        "A child between 10 and 12 years of age, at the onset of adolescence.",
+        "To chop away at; to whittle down; to mow down.",
+        "Fate; destiny; luck.",
+        "A feudal lord (a count palatine or Pfalzgraf) or a bishop possessing palatine powers."
+      ]
+    },
+    {
+      "word": "repenting",
+      "definition": "To feel pain, sorrow, or regret for what one has done or omitted to do; the cause for repenting may be indicated with \"of\".",
+      "correctIndex": 0,
+      "options": [
+        "To feel pain, sorrow, or regret for what one has done or omitted to do; the cause for repenting may be indicated with \"of\".",
+        "A sharp projection.",
+        "In a comical manner",
+        "To encumber with a handicap in any contest."
+      ]
+    },
+    {
+      "word": "scuzzy",
+      "definition": "Dirty or grimy.",
+      "correctIndex": 3,
+      "options": [
+        "To make thinner by adding solvent to a solution, especially by adding water.",
+        "Fate; destiny; luck.",
+        "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect.",
+        "Dirty or grimy."
+      ]
+    },
+    {
+      "word": "socialists",
+      "definition": "One who practices or advocates socialism.",
+      "correctIndex": 2,
+      "options": [
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "A creature or thing that is not human.",
+        "One who practices or advocates socialism.",
+        "The handrail on the side of a staircase."
+      ]
+    },
+    {
+      "word": "synonym",
+      "definition": "(strictly) A word whose meaning is the same as that of another word.",
+      "correctIndex": 0,
+      "options": [
+        "(strictly) A word whose meaning is the same as that of another word.",
+        "A mixture of mineral particles and organic material, used to support plant growth.",
+        "To survey, look at something in a wide angle.",
+        "To assign a category; to divide into classes."
+      ]
+    },
+    {
+      "word": "uneasiness",
+      "definition": "The state of being uneasy, nervous or restless.",
+      "correctIndex": 0,
+      "options": [
+        "The state of being uneasy, nervous or restless.",
+        "At a distance.",
+        "The act of recriminating.",
+        "The branch of physiology that deals with the nervous system."
+      ]
+    },
+    {
+      "word": "wavered",
+      "definition": "To sway back and forth; to totter or reel.",
+      "correctIndex": 3,
+      "options": [
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+        "Not able to be placated or appeased.",
+        "A person with deviant behaviour; a deviant, degenerate or pervert.",
+        "To sway back and forth; to totter or reel."
+      ]
+    },
+    {
+      "word": "aerials",
+      "definition": "A rod, wire, or other structure for receiving or transmitting radio, television signals etc.",
+      "correctIndex": 0,
+      "options": [
+        "A rod, wire, or other structure for receiving or transmitting radio, television signals etc.",
+        "An inexpensive paper used for printing newspapers.",
+        "Something or someone that is physically attractive.",
+        "To furnish with cuffs."
+      ]
+    },
+    {
+      "word": "bedclothes",
+      "definition": "Sheets, blankets, quilts or other coverings used on a bed.",
+      "correctIndex": 2,
+      "options": [
+        "A person in such a relationship",
+        "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy.",
+        "Sheets, blankets, quilts or other coverings used on a bed.",
+        "To survey, look at something in a wide angle."
+      ]
+    },
+    {
+      "word": "cellulitis",
+      "definition": "An inflammation of subcutaneous or connective tissue caused by a bacterial infection",
+      "correctIndex": 2,
+      "options": [
+        "A means of obtaining something by trick or deception.",
+        "One of the long benches in a church, seating several persons, usually fixed to the floor and facing the chancel.",
+        "An inflammation of subcutaneous or connective tissue caused by a bacterial infection",
+        "One who plays the flute."
+      ]
+    },
+    {
+      "word": "creatine",
+      "definition": "An amino acid, 2-(carbamimidoyl-methyl- amino)acetic acid, which naturally occurs in vertebrates and helps to supply energy to muscle and nerve cells.",
+      "correctIndex": 0,
+      "options": [
+        "An amino acid, 2-(carbamimidoyl-methyl- amino)acetic acid, which naturally occurs in vertebrates and helps to supply energy to muscle and nerve cells.",
+        "A female bird in the condition to incubate eggs; a broody hen, duck, etc.",
+        "One billion hertz, 109 Hz.",
+        "The quality of being adaptable; a quality that renders adaptable."
+      ]
+    },
+    {
+      "word": "fannies",
+      "definition": "The female genitalia.",
+      "correctIndex": 2,
+      "options": [
+        "A shot taken at an easy or random target.",
+        "A bandage and belt used to hold a hernia in place.",
+        "The female genitalia.",
+        "To make thinner by adding solvent to a solution, especially by adding water."
+      ]
+    },
+    {
+      "word": "gosling",
+      "definition": "A young goose.",
+      "correctIndex": 3,
+      "options": [
+        "The act of educating again or anew so as to rehabilitate or adapt to new situations.",
+        "Not able to be placated or appeased.",
+        "No longer living.",
+        "A young goose."
+      ]
+    },
+    {
+      "word": "maize",
+      "definition": "Corn; a type of grain of the species Zea mays.",
+      "correctIndex": 3,
+      "options": [
+        "The act of educating again or anew so as to rehabilitate or adapt to new situations.",
+        "A means of obtaining something by trick or deception.",
+        "To confuse and bewilder; to leave speechless.",
+        "Corn; a type of grain of the species Zea mays."
+      ]
+    },
+    {
+      "word": "oversaw",
+      "definition": "To survey, look at something in a wide angle.",
+      "correctIndex": 2,
+      "options": [
+        "Pertaining to heat energy extracted from reservoirs in the earth's interior",
+        "A person who comforts someone who is suffering.",
+        "To survey, look at something in a wide angle.",
+        "The branch of physiology that deals with the nervous system."
+      ]
+    },
+    {
+      "word": "sickroom",
+      "definition": "A room to be used by someone who is ill.",
+      "correctIndex": 3,
+      "options": [
+        "A tapestry or wall hanging.",
+        "The water held back by a dam or other obstruction",
+        "A seaman who is not prepared to work but hangs around port areas living off the charity of others.",
+        "A room to be used by someone who is ill."
+      ]
+    },
+    {
+      "word": "arras",
+      "definition": "A tapestry or wall hanging.",
+      "correctIndex": 1,
+      "options": [
+        "(of sound) Rough, raw, especially used to describe vocal quality.",
+        "A tapestry or wall hanging.",
+        "A female bird in the condition to incubate eggs; a broody hen, duck, etc.",
+        "Not sullied."
+      ]
+    },
+    {
+      "word": "macer",
+      "definition": "A mace bearer; specifically, an officer of a court in Scotland.",
+      "correctIndex": 3,
+      "options": [
+        "Something or someone that is physically attractive.",
+        "Pertaining to heat energy extracted from reservoirs in the earth's interior",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "A mace bearer; specifically, an officer of a court in Scotland."
+      ]
+    },
+    {
+      "word": "bannisters",
+      "definition": "The handrail on the side of a staircase.",
+      "correctIndex": 0,
+      "options": [
+        "The handrail on the side of a staircase.",
+        "Something that is (easily) breakable.",
+        "An expression granting permission; an indication of agreement with a proposal; an acknowledgement that a person, thing or event meets requirements.",
+        "Darn; damn."
+      ]
+    },
+    {
+      "word": "reeducation",
+      "definition": "The act of educating again or anew so as to rehabilitate or adapt to new situations.",
+      "correctIndex": 2,
+      "options": [
+        "The act of recriminating.",
+        "To please.",
+        "The act of educating again or anew so as to rehabilitate or adapt to new situations.",
+        "A person in such a relationship"
+      ]
+    },
+    {
+      "word": "blag",
+      "definition": "A means of obtaining something by trick or deception.",
+      "correctIndex": 2,
+      "options": [
+        "A poisonous compound present in the foxglove (Digitalis lanata) and other plants. It is a steroid glycoside and is used in small doses as a cardiac stimulant.",
+        "Something or someone that is physically attractive.",
+        "A means of obtaining something by trick or deception.",
+        "The chemical element (symbol B) with an atomic number of 5, which is a metalloid found in its pure form as a dark amorphous powder."
+      ]
+    },
+    {
+      "word": "palatine",
+      "definition": "A feudal lord (a count palatine or Pfalzgraf) or a bishop possessing palatine powers.",
+      "correctIndex": 3,
+      "options": [
+        "Someone or something that saves lives.",
+        "An intermixture; the product of mixing together",
+        "A female bird in the condition to incubate eggs; a broody hen, duck, etc.",
+        "A feudal lord (a count palatine or Pfalzgraf) or a bishop possessing palatine powers."
+      ]
+    },
+    {
+      "word": "afflictions",
+      "definition": "A state of pain, suffering, distress or agony.",
+      "correctIndex": 0,
+      "options": [
+        "A state of pain, suffering, distress or agony.",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "Coming one after the other in a series.",
+        "No longer living."
+      ]
+    },
+    {
+      "word": "appendages",
+      "definition": "An external body part that projects from the body.",
+      "correctIndex": 2,
+      "options": [
+        "A place where races are held; a racetrack.",
+        "The name of the Latin-script letter R.",
+        "An external body part that projects from the body.",
+        "To make to agree or correspond; to suit one thing to another; to adjust."
+      ]
+    },
+    {
+      "word": "beauts",
+      "definition": "Something or someone that is physically attractive.",
+      "correctIndex": 0,
+      "options": [
+        "Something or someone that is physically attractive.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "A female bird in the condition to incubate eggs; a broody hen, duck, etc.",
+        "A porter at an airport."
+      ]
+    },
+    {
+      "word": "bps",
+      "definition": "One hundredth of one percentage point.",
+      "correctIndex": 2,
+      "options": [
+        "To make a clashing sound.",
+        "A rare metallic chemical element (symbol W, from Latin wolframium) with an atomic number of 74.",
+        "One hundredth of one percentage point.",
+        "A leisurely walk or stroll."
+      ]
+    },
+    {
+      "word": "categorize",
+      "definition": "To assign a category; to divide into classes.",
+      "correctIndex": 2,
+      "options": [
+        "A schoolchild, a kid who attends school; a schoolboy or schoolgirl.",
+        "To tease, kid, poke fun at, make fun of.",
+        "To assign a category; to divide into classes.",
+        "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect."
+      ]
+    },
+    {
+      "word": "codependent",
+      "definition": "A person in such a relationship",
+      "correctIndex": 2,
+      "options": [
+        "A flight past a celestial object in order to make observations.",
+        "In an alarming way, frighteningly.",
+        "A person in such a relationship",
+        "The chemical element (symbol B) with an atomic number of 5, which is a metalloid found in its pure form as a dark amorphous powder."
+      ]
+    },
+    {
+      "word": "copulation",
+      "definition": "The act of coupling or joining; union; conjunction.",
+      "correctIndex": 3,
+      "options": [
+        "A heavy mass of often iron or concrete, mechanically linked in opposition to a load which is to be raised and lowered, with the intent of reducing the amount of work which must be done to effect the raising and lowering. Counterweights are used, for example, in cable-hauled elevators and some kinds of movable bridges (e.g. a bascule bridge).",
+        "At a distance.",
+        "Someone or something that saves lives.",
+        "The act of coupling or joining; union; conjunction."
+      ]
+    },
+    {
+      "word": "deadest",
+      "definition": "No longer living.",
+      "correctIndex": 0,
+      "options": [
+        "No longer living.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "A mixture of mineral particles and organic material, used to support plant growth.",
+        "A beer mug, usually made of ceramic or glass."
+      ]
+    },
+    {
+      "word": "dickering",
+      "definition": "To bargain, haggle or negotiate over a sale.",
+      "correctIndex": 0,
+      "options": [
+        "To bargain, haggle or negotiate over a sale.",
+        "Not suspected; not having raised suspicion.",
+        "A creature or thing that is not human.",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions."
+      ]
+    },
+    {
+      "word": "durn",
+      "definition": "Darn; damn.",
+      "correctIndex": 0,
+      "options": [
+        "Darn; damn.",
+        "An expression granting permission; an indication of agreement with a proposal; an acknowledgement that a person, thing or event meets requirements.",
+        "In a comical manner",
+        "To cover the surface material of an object with a thin coat of another material, usually a metal."
+      ]
+    },
+    {
+      "word": "excise",
+      "definition": "A tax charged on goods produced within the country (as opposed to customs duties, charged on goods from outside the country).",
+      "correctIndex": 0,
+      "options": [
+        "A tax charged on goods produced within the country (as opposed to customs duties, charged on goods from outside the country).",
+        "A flight past a celestial object in order to make observations.",
+        "A mixture of mineral particles and organic material, used to support plant growth.",
+        "Pertaining to heat energy extracted from reservoirs in the earth's interior"
+      ]
+    },
+    {
+      "word": "flutters",
+      "definition": "The act of fluttering; quick and irregular motion.",
+      "correctIndex": 3,
+      "options": [
+        "The use of living organisms (especially microorganisms) in industrial, agricultural, medical and other technological applications.",
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "Something that has an oblique or slanted position.",
+        "The act of fluttering; quick and irregular motion."
+      ]
+    },
+    {
+      "word": "funning",
+      "definition": "To tease, kid, poke fun at, make fun of.",
+      "correctIndex": 2,
+      "options": [
+        "To make wrinkled, particularly fabric.",
+        "A flight past a celestial object in order to make observations.",
+        "To tease, kid, poke fun at, make fun of.",
+        "To remove a cover from."
+      ]
+    },
+    {
+      "word": "gratify",
+      "definition": "To please.",
+      "correctIndex": 3,
+      "options": [
+        "To convert (plain text) into code.",
+        "A sharp projection.",
+        "The chemical element (symbol B) with an atomic number of 5, which is a metalloid found in its pure form as a dark amorphous powder.",
+        "To please."
+      ]
+    },
+    {
+      "word": "hew",
+      "definition": "To chop away at; to whittle down; to mow down.",
+      "correctIndex": 1,
+      "options": [
+        "Someone who participates in mutiny.",
+        "To chop away at; to whittle down; to mow down.",
+        "A schoolchild, a kid who attends school; a schoolboy or schoolgirl.",
+        "One of the long benches in a church, seating several persons, usually fixed to the floor and facing the chancel."
+      ]
+    },
+    {
+      "word": "imbibe",
+      "definition": "To drink (used frequently of alcoholic beverages).",
+      "correctIndex": 1,
+      "options": [
+        "A person who comforts someone who is suffering.",
+        "To drink (used frequently of alcoholic beverages).",
+        "A poisonous compound present in the foxglove (Digitalis lanata) and other plants. It is a steroid glycoside and is used in small doses as a cardiac stimulant.",
+        "Possible to excuse"
+      ]
+    },
+    {
+      "word": "inordinately",
+      "definition": "In an inordinate manner.",
+      "correctIndex": 3,
+      "options": [
+        "The chemical element (symbol B) with an atomic number of 5, which is a metalloid found in its pure form as a dark amorphous powder.",
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "In an inordinate manner."
+      ]
+    },
+    {
+      "word": "justifiably",
+      "definition": "In a justifiable manner; with justification",
+      "correctIndex": 2,
+      "options": [
+        "A place where races are held; a racetrack.",
+        "To cover with sod.",
+        "In a justifiable manner; with justification",
+        "Something that warms, such as a heater or a soup."
+      ]
+    },
+    {
+      "word": "lifesavers",
+      "definition": "Someone or something that saves lives.",
+      "correctIndex": 3,
+      "options": [
+        "Something that warms, such as a heater or a soup.",
+        "Moderate humidity; moisture; moistness.",
+        "A flight past a celestial object in order to make observations.",
+        "Someone or something that saves lives."
+      ]
+    },
+    {
+      "word": "marauding",
+      "definition": "To move about in roving fashion looking for plunder.",
+      "correctIndex": 3,
+      "options": [
+        "To hit or strike violently and repeatedly.",
+        "To fill with great delight or joy; to fascinate or captivate.",
+        "A poisonous compound present in the foxglove (Digitalis lanata) and other plants. It is a steroid glycoside and is used in small doses as a cardiac stimulant.",
+        "To move about in roving fashion looking for plunder."
+      ]
+    },
+    {
+      "word": "neurophysiology",
+      "definition": "The branch of physiology that deals with the nervous system.",
+      "correctIndex": 1,
+      "options": [
+        "In an alarming way, frighteningly.",
+        "The branch of physiology that deals with the nervous system.",
+        "The quality of being adaptable; a quality that renders adaptable.",
+        "A shot taken at an easy or random target."
+      ]
+    },
+    {
+      "word": "thundercloud",
+      "definition": "A large, dark cloud, usually a cumulonimbus, charged with electricity and producing thunder and lightning; a stormcloud",
+      "correctIndex": 1,
+      "options": [
+        "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect.",
+        "A large, dark cloud, usually a cumulonimbus, charged with electricity and producing thunder and lightning; a stormcloud",
+        "The condition or quality of being fragile; brittleness; frangibility.",
+        "The water held back by a dam or other obstruction"
+      ]
+    },
+    {
+      "word": "uncovers",
+      "definition": "To remove a cover from.",
+      "correctIndex": 2,
+      "options": [
+        "Alternative letter-case form of Lucite",
+        "One billion hertz, 109 Hz.",
+        "To remove a cover from.",
+        "Something that is (easily) breakable."
+      ]
+    },
+    {
+      "word": "unsuspected",
+      "definition": "Not suspected; not having raised suspicion.",
+      "correctIndex": 0,
+      "options": [
+        "Not suspected; not having raised suspicion.",
+        "(of sound) Rough, raw, especially used to describe vocal quality.",
+        "To convert (plain text) into code.",
+        "A period of unusually low rainfall, longer and more severe than a dry spell."
+      ]
+    },
+    {
+      "word": "weirds",
+      "definition": "Fate; destiny; luck.",
+      "correctIndex": 3,
+      "options": [
+        "In an alarming way, frighteningly.",
+        "To furnish with cuffs.",
+        "A non-commissioned officer army rank with NATO code OR-4. The rank below a sergeant but above a lance corporal and private.",
+        "Fate; destiny; luck."
+      ]
+    },
+    {
+      "word": "alarmingly",
+      "definition": "In an alarming way, frighteningly.",
+      "correctIndex": 1,
+      "options": [
+        "A bandage and belt used to hold a hernia in place.",
+        "In an alarming way, frighteningly.",
+        "Not able to be placated or appeased.",
+        "A sharp projection."
+      ]
+    },
+    {
+      "word": "batters",
+      "definition": "To hit or strike violently and repeatedly.",
+      "correctIndex": 1,
+      "options": [
+        "An expression granting permission; an indication of agreement with a proposal; an acknowledgement that a person, thing or event meets requirements.",
+        "To hit or strike violently and repeatedly.",
+        "Any vocalisation of a bird.",
+        "At a distance."
+      ]
+    },
+    {
+      "word": "broody",
+      "definition": "A female bird in the condition to incubate eggs; a broody hen, duck, etc.",
+      "correctIndex": 1,
+      "options": [
+        "A mischievous or hostile spirit.",
+        "A female bird in the condition to incubate eggs; a broody hen, duck, etc.",
+        "One who plays the flute.",
+        "Something that has an oblique or slanted position."
+      ]
+    },
+    {
+      "word": "charters",
+      "definition": "A document issued by some authority, creating a public or private institution, and defining its purposes and privileges.",
+      "correctIndex": 2,
+      "options": [
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect.",
+        "A document issued by some authority, creating a public or private institution, and defining its purposes and privileges.",
+        "Someone who participates in mutiny."
+      ]
+    },
+    {
+      "word": "counterweight",
+      "definition": "A heavy mass of often iron or concrete, mechanically linked in opposition to a load which is to be raised and lowered, with the intent of reducing the amount of work which must be done to effect the raising and lowering. Counterweights are used, for example, in cable-hauled elevators and some kinds of movable bridges (e.g. a bascule bridge).",
+      "correctIndex": 2,
+      "options": [
+        "To fill with great delight or joy; to fascinate or captivate.",
+        "To emit one or more bleeps.",
+        "A heavy mass of often iron or concrete, mechanically linked in opposition to a load which is to be raised and lowered, with the intent of reducing the amount of work which must be done to effect the raising and lowering. Counterweights are used, for example, in cable-hauled elevators and some kinds of movable bridges (e.g. a bascule bridge).",
+        "To convert (plain text) into code."
+      ]
+    },
+    {
+      "word": "distantly",
+      "definition": "At a distance.",
+      "correctIndex": 1,
+      "options": [
+        "The quality of being adaptable; a quality that renders adaptable.",
+        "At a distance.",
+        "Any vocalisation of a bird.",
+        "A sound made by a sudden release of electricity or some similar energy."
+      ]
+    },
+    {
+      "word": "enraptured",
+      "definition": "To fill with great delight or joy; to fascinate or captivate.",
+      "correctIndex": 3,
+      "options": [
+        "A shot taken at an easy or random target.",
+        "A person who comforts someone who is suffering.",
+        "The quality of being adaptable; a quality that renders adaptable.",
+        "To fill with great delight or joy; to fascinate or captivate."
+      ]
+    },
+    {
+      "word": "geothermal",
+      "definition": "Pertaining to heat energy extracted from reservoirs in the earth's interior",
+      "correctIndex": 0,
+      "options": [
+        "Pertaining to heat energy extracted from reservoirs in the earth's interior",
+        "One who plays the flute.",
+        "Something that has an oblique or slanted position.",
+        "The water held back by a dam or other obstruction"
+      ]
+    },
+    {
+      "word": "implacable",
+      "definition": "Not able to be placated or appeased.",
+      "correctIndex": 2,
+      "options": [
+        "Something that has an oblique or slanted position.",
+        "Any of various small wading birds of the family Scolopacidae.",
+        "Not able to be placated or appeased.",
+        "A flight past a celestial object in order to make observations."
+      ]
+    },
+    {
+      "word": "lucite",
+      "definition": "Alternative letter-case form of Lucite",
+      "correctIndex": 2,
+      "options": [
+        "Travelling with no preset route; roaming.",
+        "Something that has an oblique or slanted position.",
+        "Alternative letter-case form of Lucite",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)"
+      ]
+    },
+    {
+      "word": "newsprint",
+      "definition": "An inexpensive paper used for printing newspapers.",
+      "correctIndex": 2,
+      "options": [
+        "To emit one or more bleeps.",
+        "An intermixture; the product of mixing together",
+        "An inexpensive paper used for printing newspapers.",
+        "A mixture of mineral particles and organic material, used to support plant growth."
+      ]
+    },
+    {
+      "word": "penknife",
+      "definition": "Originally a small utility knife for cutting the points of quill feathers or reeds into nibs to provide or repair writing implements in times before pens with artificial nibs, generally metal, became commercially available in the 19th century. Early versions of penknives commonly were small sheath knives.",
+      "correctIndex": 1,
+      "options": [
+        "The quality of being adaptable; a quality that renders adaptable.",
+        "Originally a small utility knife for cutting the points of quill feathers or reeds into nibs to provide or repair writing implements in times before pens with artificial nibs, generally metal, became commercially available in the 19th century. Early versions of penknives commonly were small sheath knives.",
+        "To cover with sod.",
+        "Someone who participates in mutiny."
+      ]
+    },
+    {
+      "word": "pucks",
+      "definition": "A mischievous or hostile spirit.",
+      "correctIndex": 0,
+      "options": [
+        "A mischievous or hostile spirit.",
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "The act of recriminating.",
+        "An intermixture; the product of mixing together"
+      ]
+    },
+    {
+      "word": "regurgitating",
+      "definition": "To throw up or vomit; to eject what has previously been swallowed.",
+      "correctIndex": 3,
+      "options": [
+        "A mixture of mineral particles and organic material, used to support plant growth.",
+        "Any vocalisation of a bird.",
+        "(of sound) Rough, raw, especially used to describe vocal quality.",
+        "To throw up or vomit; to eject what has previously been swallowed."
+      ]
+    },
+    {
+      "word": "schoolkids",
+      "definition": "A schoolchild, a kid who attends school; a schoolboy or schoolgirl.",
+      "correctIndex": 1,
+      "options": [
+        "A leisurely walk or stroll.",
+        "A schoolchild, a kid who attends school; a schoolboy or schoolgirl.",
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "A mixture of mineral particles and organic material, used to support plant growth."
+      ]
+    },
+    {
+      "word": "soils",
+      "definition": "A mixture of mineral particles and organic material, used to support plant growth.",
+      "correctIndex": 2,
+      "options": [
+        "The use of living organisms (especially microorganisms) in industrial, agricultural, medical and other technological applications.",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "A mixture of mineral particles and organic material, used to support plant growth.",
+        "A beer mug, usually made of ceramic or glass."
+      ]
+    },
+    {
+      "word": "successive",
+      "definition": "Coming one after the other in a series.",
+      "correctIndex": 2,
+      "options": [
+        "Any of various small wading birds of the family Scolopacidae.",
+        "A shot taken at an easy or random target.",
+        "Coming one after the other in a series.",
+        "In a comical manner"
+      ]
+    },
+    {
+      "word": "trombones",
+      "definition": "A musical instrument in the brass family, having a cylindrical bore, and usually a sliding tube (but sometimes piston valves, and rarely both). Most often refers to the tenor trombone, which is the most common type of trombone and has a fundamental tone of B♭ˌ (contra B♭).",
+      "correctIndex": 3,
+      "options": [
+        "A leisurely walk or stroll.",
+        "Not appreciative",
+        "A flight past a celestial object in order to make observations.",
+        "A musical instrument in the brass family, having a cylindrical bore, and usually a sliding tube (but sometimes piston valves, and rarely both). Most often refers to the tenor trombone, which is the most common type of trombone and has a fundamental tone of B♭ˌ (contra B♭)."
+      ]
+    },
+    {
+      "word": "versatility",
+      "definition": "The property of being versatile or having many different abilities; flexibility.",
+      "correctIndex": 0,
+      "options": [
+        "The property of being versatile or having many different abilities; flexibility.",
+        "A nervous action; a tic.",
+        "A decorative ball made of pieces of soft fabric bound at the centre, most notably used in cheerleading.",
+        "Any vocalisation of a bird."
+      ]
+    },
+    {
+      "word": "yuh",
+      "definition": "You",
+      "correctIndex": 2,
+      "options": [
+        "A leisurely walk or stroll.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "You",
+        "A beer mug, usually made of ceramic or glass."
+      ]
+    },
+    {
+      "word": "biotechnology",
+      "definition": "The use of living organisms (especially microorganisms) in industrial, agricultural, medical and other technological applications.",
+      "correctIndex": 3,
+      "options": [
+        "A nervous action; a tic.",
+        "To make a clashing sound.",
+        "To cover with sod.",
+        "The use of living organisms (especially microorganisms) in industrial, agricultural, medical and other technological applications."
+      ]
+    },
+    {
+      "word": "comforters",
+      "definition": "A person who comforts someone who is suffering.",
+      "correctIndex": 3,
+      "options": [
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "Something that has an oblique or slanted position.",
+        "Something that warms, such as a heater or a soup.",
+        "A person who comforts someone who is suffering."
+      ]
+    },
+    {
+      "word": "flautist",
+      "definition": "One who plays the flute.",
+      "correctIndex": 2,
+      "options": [
+        "Someone who participates in mutiny.",
+        "To cover the surface material of an object with a thin coat of another material, usually a metal.",
+        "One who plays the flute.",
+        "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect."
+      ]
+    },
+    {
+      "word": "handicapping",
+      "definition": "To encumber with a handicap in any contest.",
+      "correctIndex": 1,
+      "options": [
+        "Resembling meal (the foodstuff).",
+        "To encumber with a handicap in any contest.",
+        "A porter at an airport.",
+        "A sweet-smelling oil or resin derived from various plants."
+      ]
+    },
+    {
+      "word": "jags",
+      "definition": "A sharp projection.",
+      "correctIndex": 2,
+      "options": [
+        "The quality of being adaptable; a quality that renders adaptable.",
+        "Something that has an oblique or slanted position.",
+        "A sharp projection.",
+        "A creature or thing that is not human."
+      ]
+    },
+    {
+      "word": "mealy",
+      "definition": "Resembling meal (the foodstuff).",
+      "correctIndex": 1,
+      "options": [
+        "To emit one or more bleeps.",
+        "Resembling meal (the foodstuff).",
+        "The name of the Latin-script letter R.",
+        "A rare metallic chemical element (symbol W, from Latin wolframium) with an atomic number of 74."
+      ]
+    },
+    {
+      "word": "nonhuman",
+      "definition": "A creature or thing that is not human.",
+      "correctIndex": 1,
+      "options": [
+        "The act of recriminating.",
+        "A creature or thing that is not human.",
+        "A rare metallic chemical element (symbol W, from Latin wolframium) with an atomic number of 74.",
+        "Something that is (easily) breakable."
+      ]
+    },
+    {
+      "word": "plated",
+      "definition": "To cover the surface material of an object with a thin coat of another material, usually a metal.",
+      "correctIndex": 2,
+      "options": [
+        "Possible to excuse",
+        "A seaman who is not prepared to work but hangs around port areas living off the charity of others.",
+        "To cover the surface material of an object with a thin coat of another material, usually a metal.",
+        "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect."
+      ]
+    },
+    {
+      "word": "raspy",
+      "definition": "(of sound) Rough, raw, especially used to describe vocal quality.",
+      "correctIndex": 2,
+      "options": [
+        "One of the long benches in a church, seating several persons, usually fixed to the floor and facing the chancel.",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "(of sound) Rough, raw, especially used to describe vocal quality.",
+        "Not sullied."
+      ]
+    },
+    {
+      "word": "saunter",
+      "definition": "A leisurely walk or stroll.",
+      "correctIndex": 3,
+      "options": [
+        "A non-commissioned officer army rank with NATO code OR-4. The rank below a sergeant but above a lance corporal and private.",
+        "To make wrinkled, particularly fabric.",
+        "Something that has an oblique or slanted position.",
+        "A leisurely walk or stroll."
+      ]
+    },
+    {
+      "word": "steeds",
+      "definition": "A stallion, especially in the sense of mount.",
+      "correctIndex": 1,
+      "options": [
+        "A rare metallic chemical element (symbol W, from Latin wolframium) with an atomic number of 74.",
+        "A stallion, especially in the sense of mount.",
+        "The name of the Latin-script letter R.",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions."
+      ]
+    },
+    {
+      "word": "tungsten",
+      "definition": "A rare metallic chemical element (symbol W, from Latin wolframium) with an atomic number of 74.",
+      "correctIndex": 2,
+      "options": [
+        "A place where races are held; a racetrack.",
+        "To emit one or more bleeps.",
+        "A rare metallic chemical element (symbol W, from Latin wolframium) with an atomic number of 74.",
+        "Not sullied."
+      ]
+    },
+    {
+      "word": "wanderings",
+      "definition": "Travelling with no preset route; roaming.",
+      "correctIndex": 2,
+      "options": [
+        "A person with deviant behaviour; a deviant, degenerate or pervert.",
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "Travelling with no preset route; roaming.",
+        "The act of recriminating."
+      ]
+    },
+    {
+      "word": "zaps",
+      "definition": "A sound made by a sudden release of electricity or some similar energy.",
+      "correctIndex": 1,
+      "options": [
+        "A sweet-smelling oil or resin derived from various plants.",
+        "A sound made by a sudden release of electricity or some similar energy.",
+        "To make wrinkled, particularly fabric.",
+        "To convert (plain text) into code."
+      ]
+    },
+    {
+      "word": "boron",
+      "definition": "The chemical element (symbol B) with an atomic number of 5, which is a metalloid found in its pure form as a dark amorphous powder.",
+      "correctIndex": 0,
+      "options": [
+        "The chemical element (symbol B) with an atomic number of 5, which is a metalloid found in its pure form as a dark amorphous powder.",
+        "To emit one or more bleeps.",
+        "One billion hertz, 109 Hz.",
+        "The condition or quality of being fragile; brittleness; frangibility."
+      ]
+    },
+    {
+      "word": "digoxin",
+      "definition": "A poisonous compound present in the foxglove (Digitalis lanata) and other plants. It is a steroid glycoside and is used in small doses as a cardiac stimulant.",
+      "correctIndex": 2,
+      "options": [
+        "A non-commissioned officer army rank with NATO code OR-4. The rank below a sergeant but above a lance corporal and private.",
+        "To furnish with cuffs.",
+        "A poisonous compound present in the foxglove (Digitalis lanata) and other plants. It is a steroid glycoside and is used in small doses as a cardiac stimulant.",
+        "At all times; throughout all time; since the beginning."
+      ]
+    },
+    {
+      "word": "gigahertz",
+      "definition": "One billion hertz, 109 Hz.",
+      "correctIndex": 3,
+      "options": [
+        "To convert (plain text) into code.",
+        "Something that is (easily) breakable.",
+        "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect.",
+        "One billion hertz, 109 Hz."
+      ]
+    },
+    {
+      "word": "jitter",
+      "definition": "A nervous action; a tic.",
+      "correctIndex": 0,
+      "options": [
+        "A nervous action; a tic.",
+        "Someone who participates in mutiny.",
+        "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect.",
+        "The condition or quality of being fragile; brittleness; frangibility."
+      ]
+    },
+    {
+      "word": "raceway",
+      "definition": "A place where races are held; a racetrack.",
+      "correctIndex": 3,
+      "options": [
+        "A person with deviant behaviour; a deviant, degenerate or pervert.",
+        "A beer mug, usually made of ceramic or glass.",
+        "An expression granting permission; an indication of agreement with a proposal; an acknowledgement that a person, thing or event meets requirements.",
+        "A place where races are held; a racetrack."
+      ]
+    },
+    {
+      "word": "flyby",
+      "definition": "A flight past a celestial object in order to make observations.",
+      "correctIndex": 1,
+      "options": [
+        "The water held back by a dam or other obstruction",
+        "A flight past a celestial object in order to make observations.",
+        "Someone who participates in mutiny.",
+        "Moderate humidity; moisture; moistness."
+      ]
+    },
+    {
+      "word": "mutineer",
+      "definition": "Someone who participates in mutiny.",
+      "correctIndex": 3,
+      "options": [
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "To make thinner by adding solvent to a solution, especially by adding water.",
+        "To convert (plain text) into code.",
+        "Someone who participates in mutiny."
+      ]
+    },
+    {
+      "word": "sandpiper",
+      "definition": "Any of various small wading birds of the family Scolopacidae.",
+      "correctIndex": 1,
+      "options": [
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "Any of various small wading birds of the family Scolopacidae.",
+        "To confuse and bewilder; to leave speechless.",
+        "The quality of being adaptable; a quality that renders adaptable."
+      ]
+    },
+    {
+      "word": "trusses",
+      "definition": "A bandage and belt used to hold a hernia in place.",
+      "correctIndex": 2,
+      "options": [
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+        "Moderate humidity; moisture; moistness.",
+        "A bandage and belt used to hold a hernia in place.",
+        "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy."
+      ]
+    },
+    {
+      "word": "beachcomber",
+      "definition": "A seaman who is not prepared to work but hangs around port areas living off the charity of others.",
+      "correctIndex": 1,
+      "options": [
+        "To make thinner by adding solvent to a solution, especially by adding water.",
+        "A seaman who is not prepared to work but hangs around port areas living off the charity of others.",
+        "A non-commissioned officer army rank with NATO code OR-4. The rank below a sergeant but above a lance corporal and private.",
+        "Something that warms, such as a heater or a soup."
+      ]
+    },
+    {
+      "word": "intermix",
+      "definition": "An intermixture; the product of mixing together",
+      "correctIndex": 3,
+      "options": [
+        "A beer mug, usually made of ceramic or glass.",
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+        "Not appreciative",
+        "An intermixture; the product of mixing together"
+      ]
+    },
+    {
+      "word": "balsam",
+      "definition": "A sweet-smelling oil or resin derived from various plants.",
+      "correctIndex": 2,
+      "options": [
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "At all times; throughout all time; since the beginning.",
+        "A sweet-smelling oil or resin derived from various plants.",
+        "Possible to excuse"
+      ]
+    },
+    {
+      "word": "adaptability",
+      "definition": "The quality of being adaptable; a quality that renders adaptable.",
+      "correctIndex": 3,
+      "options": [
+        "Possible to excuse",
+        "At all times; throughout all time; since the beginning.",
+        "In a comical manner",
+        "The quality of being adaptable; a quality that renders adaptable."
+      ]
+    },
+    {
+      "word": "alway",
+      "definition": "At all times; throughout all time; since the beginning.",
+      "correctIndex": 3,
+      "options": [
+        "The act of recriminating.",
+        "One of the long benches in a church, seating several persons, usually fixed to the floor and facing the chancel.",
+        "The name of the Latin-script letter R.",
+        "At all times; throughout all time; since the beginning."
+      ]
+    },
+    {
+      "word": "approvals",
+      "definition": "An expression granting permission; an indication of agreement with a proposal; an acknowledgement that a person, thing or event meets requirements.",
+      "correctIndex": 2,
+      "options": [
+        "A beer mug, usually made of ceramic or glass.",
+        "The act of recriminating.",
+        "An expression granting permission; an indication of agreement with a proposal; an acknowledgement that a person, thing or event meets requirements.",
+        "A person with deviant behaviour; a deviant, degenerate or pervert."
+      ]
+    },
+    {
+      "word": "backwaters",
+      "definition": "The water held back by a dam or other obstruction",
+      "correctIndex": 1,
+      "options": [
+        "A person with deviant behaviour; a deviant, degenerate or pervert.",
+        "The water held back by a dam or other obstruction",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "The act of recriminating."
+      ]
+    },
+    {
+      "word": "birdcalls",
+      "definition": "Any vocalisation of a bird.",
+      "correctIndex": 3,
+      "options": [
+        "To convert (plain text) into code.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+        "Any vocalisation of a bird."
+      ]
+    },
+    {
+      "word": "breakables",
+      "definition": "Something that is (easily) breakable.",
+      "correctIndex": 2,
+      "options": [
+        "To move under the force of gravity.",
+        "A porter at an airport.",
+        "Something that is (easily) breakable.",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)"
+      ]
+    },
+    {
+      "word": "caricatures",
+      "definition": "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect.",
+      "correctIndex": 2,
+      "options": [
+        "Something that warms, such as a heater or a soup.",
+        "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy.",
+        "A pictorial representation of someone in which distinguishing features are exaggerated for comic effect.",
+        "Not appreciative"
+      ]
+    },
+    {
+      "word": "cherishing",
+      "definition": "To treat with affection, care, and tenderness; to nurture or protect with care.",
+      "correctIndex": 0,
+      "options": [
+        "To treat with affection, care, and tenderness; to nurture or protect with care.",
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "To move under the force of gravity.",
+        "A porter at an airport."
+      ]
+    },
+    {
+      "word": "comically",
+      "definition": "In a comical manner",
+      "correctIndex": 1,
+      "options": [
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+        "In a comical manner",
+        "Not sullied.",
+        "A beer mug, usually made of ceramic or glass."
+      ]
+    },
+    {
+      "word": "corporals",
+      "definition": "A non-commissioned officer army rank with NATO code OR-4. The rank below a sergeant but above a lance corporal and private.",
+      "correctIndex": 0,
+      "options": [
+        "A non-commissioned officer army rank with NATO code OR-4. The rank below a sergeant but above a lance corporal and private.",
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "To cover with sod.",
+        "A shot taken at an easy or random target."
+      ]
+    },
+    {
+      "word": "dampness",
+      "definition": "Moderate humidity; moisture; moistness.",
+      "correctIndex": 0,
+      "options": [
+        "Moderate humidity; moisture; moistness.",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+        "A beer mug, usually made of ceramic or glass."
+      ]
+    },
+    {
+      "word": "deviates",
+      "definition": "A person with deviant behaviour; a deviant, degenerate or pervert.",
+      "correctIndex": 0,
+      "options": [
+        "A person with deviant behaviour; a deviant, degenerate or pervert.",
+        "Something that warms, such as a heater or a soup.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "To make a clashing sound."
+      ]
+    },
+    {
+      "word": "dumbfounded",
+      "definition": "To confuse and bewilder; to leave speechless.",
+      "correctIndex": 2,
+      "options": [
+        "A beer mug, usually made of ceramic or glass.",
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "To confuse and bewilder; to leave speechless.",
+        "Not sullied."
+      ]
+    },
+    {
+      "word": "encoding",
+      "definition": "To convert (plain text) into code.",
+      "correctIndex": 1,
+      "options": [
+        "A shot taken at an easy or random target.",
+        "To convert (plain text) into code.",
+        "The name of the Latin-script letter R.",
+        "Not appreciative"
+      ]
+    },
+    {
+      "word": "pews",
+      "definition": "One of the long benches in a church, seating several persons, usually fixed to the floor and facing the chancel.",
+      "correctIndex": 1,
+      "options": [
+        "To make thinner by adding solvent to a solution, especially by adding water.",
+        "One of the long benches in a church, seating several persons, usually fixed to the floor and facing the chancel.",
+        "To emit one or more bleeps.",
+        "Not sullied."
+      ]
+    },
+    {
+      "word": "pompom",
+      "definition": "A decorative ball made of pieces of soft fabric bound at the centre, most notably used in cheerleading.",
+      "correctIndex": 0,
+      "options": [
+        "A decorative ball made of pieces of soft fabric bound at the centre, most notably used in cheerleading.",
+        "The condition or quality of being fragile; brittleness; frangibility.",
+        "To make thinner by adding solvent to a solution, especially by adding water.",
+        "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy."
+      ]
+    },
+    {
+      "word": "professed",
+      "definition": "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+      "correctIndex": 2,
+      "options": [
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "To make a clashing sound.",
+        "To administer the vows of a religious order to (someone); to admit to a religious order. (Chiefly in passive.)",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions."
+      ]
+    },
+    {
+      "word": "recrimination",
+      "definition": "The act of recriminating.",
+      "correctIndex": 1,
+      "options": [
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "The act of recriminating.",
+        "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy.",
+        "Not sullied."
+      ]
+    },
+    {
+      "word": "republics",
+      "definition": "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy.",
+      "correctIndex": 1,
+      "options": [
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "A state where sovereignty rests with the people or their representatives, rather than with a monarch or emperor; a country with no monarchy.",
+        "To cover with sod.",
+        "To make thinner by adding solvent to a solution, especially by adding water."
+      ]
+    },
+    {
+      "word": "rumpled",
+      "definition": "To make wrinkled, particularly fabric.",
+      "correctIndex": 1,
+      "options": [
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+        "To make wrinkled, particularly fabric.",
+        "A shot taken at an easy or random target.",
+        "Arrogantly superior; showing contemptuous indifference; haughty."
+      ]
+    },
+    {
+      "word": "skew",
+      "definition": "Something that has an oblique or slanted position.",
+      "correctIndex": 2,
+      "options": [
+        "To cover with sod.",
+        "Not appreciative",
+        "Something that has an oblique or slanted position.",
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures"
+      ]
+    },
+    {
+      "word": "sods",
+      "definition": "To cover with sod.",
+      "correctIndex": 3,
+      "options": [
+        "Possible to excuse",
+        "To make to agree or correspond; to suit one thing to another; to adjust.",
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "To cover with sod."
+      ]
+    },
+    {
+      "word": "steins",
+      "definition": "A beer mug, usually made of ceramic or glass.",
+      "correctIndex": 3,
+      "options": [
+        "Arrogantly superior; showing contemptuous indifference; haughty.",
+        "To make to agree or correspond; to suit one thing to another; to adjust.",
+        "The condition or quality of being fragile; brittleness; frangibility.",
+        "A beer mug, usually made of ceramic or glass."
+      ]
+    },
+    {
+      "word": "supercilious",
+      "definition": "Arrogantly superior; showing contemptuous indifference; haughty.",
+      "correctIndex": 3,
+      "options": [
+        "Possible to excuse",
+        "The name of the Latin-script letter R.",
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "Arrogantly superior; showing contemptuous indifference; haughty."
+      ]
+    },
+    {
+      "word": "timetables",
+      "definition": "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+      "correctIndex": 2,
+      "options": [
+        "To make to agree or correspond; to suit one thing to another; to adjust.",
+        "To emit one or more bleeps.",
+        "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures",
+        "A period of unusually low rainfall, longer and more severe than a dry spell."
+      ]
+    },
+    {
+      "word": "unappreciative",
+      "definition": "Not appreciative",
+      "correctIndex": 3,
+      "options": [
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "Possible to excuse",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "Not appreciative"
+      ]
+    },
+    {
+      "word": "unsullied",
+      "definition": "Not sullied.",
+      "correctIndex": 3,
+      "options": [
+        "A porter at an airport.",
+        "To make thinner by adding solvent to a solution, especially by adding water.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "Not sullied."
+      ]
+    },
+    {
+      "word": "warmers",
+      "definition": "Something that warms, such as a heater or a soup.",
+      "correctIndex": 2,
+      "options": [
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "Something that warms, such as a heater or a soup.",
+        "Possible to excuse"
+      ]
+    },
+    {
+      "word": "accorded",
+      "definition": "To make to agree or correspond; to suit one thing to another; to adjust.",
+      "correctIndex": 0,
+      "options": [
+        "To make to agree or correspond; to suit one thing to another; to adjust.",
+        "To emit one or more bleeps.",
+        "The condition or quality of being fragile; brittleness; frangibility.",
+        "To furnish with cuffs."
+      ]
+    },
+    {
+      "word": "ars",
+      "definition": "The name of the Latin-script letter R.",
+      "correctIndex": 0,
+      "options": [
+        "The name of the Latin-script letter R.",
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "A porter at an airport."
+      ]
+    },
+    {
+      "word": "bleeped",
+      "definition": "To emit one or more bleeps.",
+      "correctIndex": 1,
+      "options": [
+        "Possible to excuse",
+        "To emit one or more bleeps.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "A shot taken at an easy or random target."
+      ]
+    },
+    {
+      "word": "cajole",
+      "definition": "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+      "correctIndex": 2,
+      "options": [
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "To persuade someone to do something which they are reluctant to do, especially by flattery or promises; to coax.",
+        "To make thinner by adding solvent to a solution, especially by adding water."
+      ]
+    },
+    {
+      "word": "clashing",
+      "definition": "To make a clashing sound.",
+      "correctIndex": 1,
+      "options": [
+        "To make thinner by adding solvent to a solution, especially by adding water.",
+        "To make a clashing sound.",
+        "To move under the force of gravity.",
+        "A porter at an airport."
+      ]
+    },
+    {
+      "word": "cuffing",
+      "definition": "To furnish with cuffs.",
+      "correctIndex": 0,
+      "options": [
+        "To furnish with cuffs.",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "A porter at an airport.",
+        "Possible to excuse"
+      ]
+    },
+    {
+      "word": "diluting",
+      "definition": "To make thinner by adding solvent to a solution, especially by adding water.",
+      "correctIndex": 3,
+      "options": [
+        "Possible to excuse",
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "To move under the force of gravity.",
+        "To make thinner by adding solvent to a solution, especially by adding water."
+      ]
+    },
+    {
+      "word": "droughts",
+      "definition": "A period of unusually low rainfall, longer and more severe than a dry spell.",
+      "correctIndex": 0,
+      "options": [
+        "A period of unusually low rainfall, longer and more severe than a dry spell.",
+        "To move under the force of gravity.",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "Possible to excuse"
+      ]
+    },
+    {
+      "word": "excusable",
+      "definition": "Possible to excuse",
+      "correctIndex": 2,
+      "options": [
+        "To move under the force of gravity.",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "Possible to excuse",
+        "The condition or quality of being fragile; brittleness; frangibility."
+      ]
+    },
+    {
+      "word": "fragility",
+      "definition": "The condition or quality of being fragile; brittleness; frangibility.",
+      "correctIndex": 1,
+      "options": [
+        "To move under the force of gravity.",
+        "The condition or quality of being fragile; brittleness; frangibility.",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "A shot taken at an easy or random target."
+      ]
+    },
+    {
+      "word": "gravitate",
+      "definition": "To move under the force of gravity.",
+      "correctIndex": 3,
+      "options": [
+        "A shot taken at an easy or random target.",
+        "Of a system or protocol, such that it does not keep a persistent state between transactions.",
+        "A porter at an airport.",
+        "To move under the force of gravity."
+      ]
+    }
+  ]
+}

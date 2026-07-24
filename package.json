@@ -1,0 +1,13 @@
+{
+  "name": "english-vocab-test",
+  "version": "1.0.0",
+  "description": "English vocabulary size test covering up to 40,000 words",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-data.js",
+    "start": "npx serve . -l 3000"
+  },
+  "dependencies": {
+    "subtlex-word-frequencies": "^2.0.0"
+  }
+}

@@ -1,0 +1,4301 @@
+{
+  "band": 1,
+  "range": [
+    1,
+    1000
+  ],
+  "label": "1-1K",
+  "totalWords": 1000,
+  "questions": [
+    {
+      "word": "you",
+      "definition": "To address (a person) using the pronoun you (in the past, especially to use you rather than thou, when you was considered more formal).",
+      "correctIndex": 2,
+      "options": [
+        "The main tower of a castle or fortress, located within the castle walls.",
+        "The one that follows after this one.",
+        "To address (a person) using the pronoun you (in the past, especially to use you rather than thou, when you was considered more formal).",
+        "An act of pulling (applying force)"
+      ]
+    },
+    {
+      "word": "that",
+      "definition": "Something being indicated that is there; one of those.",
+      "correctIndex": 0,
+      "options": [
+        "Something being indicated that is there; one of those.",
+        "(focus) Likewise.",
+        "(in negative or interrogative constructions) From a given time onwards; longer, again.",
+        "A possible one."
+      ]
+    },
+    {
+      "word": "what",
+      "definition": "(Singlish) Used to contradict an underlying assumption held by the interlocutor.",
+      "correctIndex": 3,
+      "options": [
+        "A tool used for digging; a pickaxe.",
+        "A set of six legal balls bowled.",
+        "An instance or example of using the word \"but\".",
+        "(Singlish) Used to contradict an underlying assumption held by the interlocutor."
+      ]
+    },
+    {
+      "word": "don",
+      "definition": "A university professor, particularly one at Oxford or Cambridge.",
+      "correctIndex": 1,
+      "options": [
+        "An act or instance of asking.",
+        "A university professor, particularly one at Oxford or Cambridge.",
+        "A ceremonial duty or service, particularly:",
+        "Surface-to-air missile"
+      ]
+    },
+    {
+      "word": "know",
+      "definition": "Knowledge; the state of knowing.",
+      "correctIndex": 1,
+      "options": [
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "Knowledge; the state of knowing.",
+        "Tested, hence, proven to be firm or reliable.",
+        "To be alive; to have life."
+      ]
+    },
+    {
+      "word": "not",
+      "definition": "A unary operation on logical values that changes true to false, and false to true.",
+      "correctIndex": 2,
+      "options": [
+        "To be under an obligation to give something back to someone or to perform some action for someone.",
+        "An oath or affirmation; a vow",
+        "A unary operation on logical values that changes true to false, and false to true.",
+        "To conquer, defeat."
+      ]
+    },
+    {
+      "word": "are",
+      "definition": "An accepted (but deprecated and rarely used) SI unit of area equal to 100 square metres, or a former unit of approximately the same extent. Symbol: a.",
+      "correctIndex": 1,
+      "options": [
+        "The use of \"damn\" as a curse.",
+        "An accepted (but deprecated and rarely used) SI unit of area equal to 100 square metres, or a former unit of approximately the same extent. Symbol: a.",
+        "To hurt or sting.",
+        "The immature young of a marsupial, notably a junior kangaroo, but also a young wallaby, koala, etc."
+      ]
+    },
+    {
+      "word": "with",
+      "definition": "Along, together with others, in a group, etc.",
+      "correctIndex": 1,
+      "options": [
+        "An instance of breaking something into two or more pieces.",
+        "Along, together with others, in a group, etc.",
+        "Gone; gone by; gone away; passed; passed away.",
+        "Fate; destiny; luck."
+      ]
+    },
+    {
+      "word": "get",
+      "definition": "Offspring.",
+      "correctIndex": 3,
+      "options": [
+        "A strip of fabric, especially from the edge of a piece of cloth.",
+        "Tested, hence, proven to be firm or reliable.",
+        "The master of a house; the head of a family; a householder.",
+        "Offspring."
+      ]
+    },
+    {
+      "word": "but",
+      "definition": "An instance or example of using the word \"but\".",
+      "correctIndex": 2,
+      "options": [
+        "To look at, see, or view for a period of time.",
+        "A current day or date.",
+        "An instance or example of using the word \"but\".",
+        "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness."
+      ]
+    },
+    {
+      "word": "they",
+      "definition": "(the third-person plural) A group of people, animals, plants or objects previously mentioned.",
+      "correctIndex": 2,
+      "options": [
+        "Confidence in or reliance on some person or quality.",
+        "To grasp or grip.",
+        "(the third-person plural) A group of people, animals, plants or objects previously mentioned.",
+        "An elongated piece of wood or similar material, typically put to some use, for example as a wand or baton."
+      ]
+    },
+    {
+      "word": "like",
+      "definition": "(usually in the plural) Something that a person likes (prefers).",
+      "correctIndex": 0,
+      "options": [
+        "(usually in the plural) Something that a person likes (prefers).",
+        "A grasp or grip.",
+        "Something that is not crooked or bent such as a part of a road or track.",
+        "Free postage, a right exercised by governments (usually with definite article)."
+      ]
+    },
+    {
+      "word": "she",
+      "definition": "A female.",
+      "correctIndex": 1,
+      "options": [
+        "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+        "A female.",
+        "(modal, auxiliary verb, defective) Used before a verb to indicate the simple future tense in the first person singular or plural.",
+        "A female person or animal."
+      ]
+    },
+    {
+      "word": "him",
+      "definition": "Honorific alternative letter-case form of him, sometimes used when referring to God or another important figure who is understood from context.",
+      "correctIndex": 2,
+      "options": [
+        "Sick people in general as a group.",
+        "A telephone conversation.",
+        "Honorific alternative letter-case form of him, sometimes used when referring to God or another important figure who is understood from context.",
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat."
+      ]
+    },
+    {
+      "word": "now",
+      "definition": "The present time.",
+      "correctIndex": 0,
+      "options": [
+        "The present time.",
+        "To conquer, defeat.",
+        "A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.",
+        "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons."
+      ]
+    },
+    {
+      "word": "one",
+      "definition": "The digit or figure 1.",
+      "correctIndex": 0,
+      "options": [
+        "The digit or figure 1.",
+        "Something that is immoral or not good.",
+        "A musical composition with lyrics for voice or voices, performed by singing.",
+        "A beam of light or radiation."
+      ]
+    },
+    {
+      "word": "well",
+      "definition": "In good health.",
+      "correctIndex": 0,
+      "options": [
+        "In good health.",
+        "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+        "To arrive, come (to a place).",
+        "To begin, commence, initiate."
+      ]
+    },
+    {
+      "word": "her",
+      "definition": "A female person or animal.",
+      "correctIndex": 2,
+      "options": [
+        "To put to death; to extinguish the life of.",
+        "The action of the verb talk.",
+        "A female person or animal.",
+        "To put (something) in a place where it will be harder to discover or out of sight."
+      ]
+    },
+    {
+      "word": "think",
+      "definition": "An act of thinking; consideration (of something).",
+      "correctIndex": 1,
+      "options": [
+        "A physician; a member of the medical profession; one who is trained and licensed to heal the sick or injured. The final examination and qualification may award a doctor degree in which case the post-nominal letters are D.O., DPM, M.D., DMD, DDS, in the US or MBBS in the UK.",
+        "An act of thinking; consideration (of something).",
+        "(with \"the\") Human collective existence; existence in general.",
+        "The master of a house; the head of a family; a householder."
+      ]
+    },
+    {
+      "word": "see",
+      "definition": "(stative) To perceive or detect with the eyes, or as if by sight.",
+      "correctIndex": 1,
+      "options": [
+        "A grasp or grip.",
+        "(stative) To perceive or detect with the eyes, or as if by sight.",
+        "A period into which a year is divided, historically based on the phases of the moon.",
+        "Occurring at any time, occurring even but once during a timespan."
+      ]
+    },
+    {
+      "word": "did",
+      "definition": "(auxiliary) A syntactic marker.",
+      "correctIndex": 0,
+      "options": [
+        "(auxiliary) A syntactic marker.",
+        "The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.",
+        "To cease moving.",
+        "To move from further away to nearer to."
+      ]
+    },
+    {
+      "word": "who",
+      "definition": "A person under discussion; a question of which person.",
+      "correctIndex": 0,
+      "options": [
+        "A person under discussion; a question of which person.",
+        "A portion of something, especially a portion given or allotted to someone.",
+        "A team; a group of people who work together professionally.",
+        "The place in which something happens."
+      ]
+    },
+    {
+      "word": "will",
+      "definition": "(now uncommon or literary) To wish, desire (something).",
+      "correctIndex": 2,
+      "options": [
+        "Amusement, enjoyment or pleasure",
+        "A division, a portion, a share.",
+        "(now uncommon or literary) To wish, desire (something).",
+        "(modal, auxiliary verb, defective) Used before a verb to indicate the simple future tense in the first person singular or plural."
+      ]
+    },
+    {
+      "word": "from",
+      "definition": "Used to indicate source or provenance.",
+      "correctIndex": 3,
+      "options": [
+        "To pay (a debt, fine etc.).",
+        "An oath or affirmation; a vow",
+        "A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind.",
+        "Used to indicate source or provenance."
+      ]
+    },
+    {
+      "word": "back",
+      "definition": "The rear of the body, especially the part between the neck and the end of the spine and opposite the chest and belly.",
+      "correctIndex": 1,
+      "options": [
+        "Things that are new.",
+        "The rear of the body, especially the part between the neck and the end of the spine and opposite the chest and belly.",
+        "(with \"the\") Human collective existence; existence in general.",
+        "A kind of needle, shorter than a sharp, with a small rounded eye, used for making fine stitches on heavy fabrics."
+      ]
+    },
+    {
+      "word": "yes",
+      "definition": "An affirmative expression; an answer that shows agreement or acceptance.",
+      "correctIndex": 0,
+      "options": [
+        "An affirmative expression; an answer that shows agreement or acceptance.",
+        "A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",
+        "A physician; a member of the medical profession; one who is trained and licensed to heal the sick or injured. The final examination and qualification may award a doctor degree in which case the post-nominal letters are D.O., DPM, M.D., DMD, DDS, in the US or MBBS in the UK.",
+        "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)"
+      ]
+    },
+    {
+      "word": "time",
+      "definition": "The inevitable progression into the future with the passing of present and past events.",
+      "correctIndex": 1,
+      "options": [
+        "Distant; remote in space.",
+        "The inevitable progression into the future with the passing of present and past events.",
+        "To exclude; to specify as being an exception.",
+        "A challenge, trial."
+      ]
+    },
+    {
+      "word": "take",
+      "definition": "The or an act of taking.",
+      "correctIndex": 0,
+      "options": [
+        "The or an act of taking.",
+        "Gone; gone by; gone away; passed; passed away.",
+        "An act of pulling (applying force)",
+        "A strip of fabric, especially from the edge of a piece of cloth."
+      ]
+    },
+    {
+      "word": "where",
+      "definition": "The place in which something happens.",
+      "correctIndex": 1,
+      "options": [
+        "A set of six legal balls bowled.",
+        "The place in which something happens.",
+        "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
+        "The foremost side of something or the end that faces the direction it normally moves."
+      ]
+    },
+    {
+      "word": "would",
+      "definition": "Something that would happen, or would be the case, under different circumstances; a potentiality.",
+      "correctIndex": 3,
+      "options": [
+        "An instance of breaking something into two or more pieces.",
+        "Except on a specified condition; if not.",
+        "(heading) Boundary, land within a boundary.",
+        "Something that would happen, or would be the case, under different circumstances; a potentiality."
+      ]
+    },
+    {
+      "word": "some",
+      "definition": "Of a measurement: approximately, roughly.",
+      "correctIndex": 1,
+      "options": [
+        "Used in speaking.",
+        "Of a measurement: approximately, roughly.",
+        "Having relevant and crucial value.",
+        "A quality of an object experienced by touch."
+      ]
+    },
+    {
+      "word": "tell",
+      "definition": "A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under psychological stress (such as a poker game or police interrogation), that reveals information that the person exhibiting the behavior is attempting to withhold.",
+      "correctIndex": 0,
+      "options": [
+        "A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under psychological stress (such as a poker game or police interrogation), that reveals information that the person exhibiting the behavior is attempting to withhold.",
+        "The part of the day from dawn to noon.",
+        "A disk, usually made of a polymer, used to record sound for playback on a phonograph.",
+        "(archaic outside of idioms) To count, reckon, or enumerate."
+      ]
+    },
+    {
+      "word": "were",
+      "definition": "A man, a husband",
+      "correctIndex": 0,
+      "options": [
+        "A man, a husband",
+        "To move:",
+        "A collection of organized things; a whole composed of relationships among its members.",
+        "An act of thinking; consideration (of something)."
+      ]
+    },
+    {
+      "word": "could",
+      "definition": "(auxiliary verb, defective) To know how to; to be able to.",
+      "correctIndex": 2,
+      "options": [
+        "A military rank between captain and lieutenant colonel.",
+        "From a specified time in the past.",
+        "(auxiliary verb, defective) To know how to; to be able to.",
+        "An object whose nature is yet to be defined."
+      ]
+    },
+    {
+      "word": "something",
+      "definition": "An object whose nature is yet to be defined.",
+      "correctIndex": 3,
+      "options": [
+        "A lid.",
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "Having relevant and crucial value.",
+        "An object whose nature is yet to be defined."
+      ]
+    },
+    {
+      "word": "down",
+      "definition": "A negative aspect; a downer.",
+      "correctIndex": 3,
+      "options": [
+        "Something that is immoral or not good.",
+        "An object of hatred.",
+        "(stative) To perceive sounds through the ear.",
+        "A negative aspect; a downer."
+      ]
+    },
+    {
+      "word": "little",
+      "definition": "A small amount.",
+      "correctIndex": 3,
+      "options": [
+        "At all times; throughout all time; since the beginning.",
+        "To the fullest extent or degree.",
+        "A complete domicile occupying only part of a building, especially one for rent; a flat.",
+        "A small amount."
+      ]
+    },
+    {
+      "word": "too",
+      "definition": "(focus) Likewise.",
+      "correctIndex": 0,
+      "options": [
+        "(focus) Likewise.",
+        "Facts or observations presented in support of an assertion.",
+        "A young goat.",
+        "To conquer, defeat."
+      ]
+    },
+    {
+      "word": "over",
+      "definition": "A set of six legal balls bowled.",
+      "correctIndex": 1,
+      "options": [
+        "A cutting-down of timber.",
+        "A set of six legal balls bowled.",
+        "The different ideal.",
+        "An expression of appreciation; a thought."
+      ]
+    },
+    {
+      "word": "need",
+      "definition": "A requirement for something; something needed.",
+      "correctIndex": 3,
+      "options": [
+        "Any of several animals related to Equus ferus caballus.",
+        "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+        "To predict or believe that something will happen",
+        "A requirement for something; something needed."
+      ]
+    },
+    {
+      "word": "very",
+      "definition": "True, real, actual.",
+      "correctIndex": 3,
+      "options": [
+        "A military rank between captain and lieutenant colonel.",
+        "To complete (something).",
+        "The location of an event that attracts attention.",
+        "True, real, actual."
+      ]
+    },
+    {
+      "word": "sorry",
+      "definition": "The act of saying sorry; an apology.",
+      "correctIndex": 3,
+      "options": [
+        "A beam of light or radiation.",
+        "A kind or helpful deed; an instance of voluntarily assisting (someone).",
+        "A quality of an object experienced by touch.",
+        "The act of saying sorry; an apology."
+      ]
+    },
+    {
+      "word": "has",
+      "definition": "To possess, own.",
+      "correctIndex": 0,
+      "options": [
+        "To possess, own.",
+        "Something that is number two in a series.",
+        "The act of congratulating.",
+        "An act of thinking; consideration (of something)."
+      ]
+    },
+    {
+      "word": "love",
+      "definition": "Strong affection.",
+      "correctIndex": 0,
+      "options": [
+        "Strong affection.",
+        "Disturbance or disruption.",
+        "Another time; once more.",
+        "An enclosed space; a courtyard; an uncovered area shut in by the walls of a building, or by different buildings; also, a space opening from a street and nearly surrounded by houses; a blind alley."
+      ]
+    },
+    {
+      "word": "people",
+      "definition": "Used as plural of person; a body of human beings considered generally or collectively; a group of two or more persons.",
+      "correctIndex": 0,
+      "options": [
+        "Used as plural of person; a body of human beings considered generally or collectively; a group of two or more persons.",
+        "Money in the form of notes/bills and coins, as opposed to cheques/checks or electronic transactions.",
+        "A man of gentle but not noble birth, particularly a man of means (originally ownership of property) who does not work for a living but has no official status in a peerage; an armiferous man ranking below a knight.",
+        "The basic taste sensation induced by sugar."
+      ]
+    },
+    {
+      "word": "sure",
+      "definition": "Physically secure and certain, non-failing, reliable.",
+      "correctIndex": 1,
+      "options": [
+        "(heading) Employment.",
+        "Physically secure and certain, non-failing, reliable.",
+        "Of sinews and tendons.",
+        "The most senior rank for an academic at a university or similar institution, informally also known as \"full professor.\" Abbreviated Prof."
+      ]
+    },
+    {
+      "word": "thing",
+      "definition": "That which is considered to exist as a separate entity, object, quality or concept.",
+      "correctIndex": 0,
+      "options": [
+        "That which is considered to exist as a separate entity, object, quality or concept.",
+        "Distant; remote in space.",
+        "A lid.",
+        "To grasp or grip."
+      ]
+    },
+    {
+      "word": "because",
+      "definition": "For the reason (that).",
+      "correctIndex": 1,
+      "options": [
+        "An act or instance of asking.",
+        "For the reason (that).",
+        "To wish for or desire (something); to feel a need or desire for; to crave or demand.",
+        "A large medical facility, usually in a building with multiple floors, where seriously ill or injured patients are given extensive medical and/or surgical treatment."
+      ]
+    },
+    {
+      "word": "should",
+      "definition": "(modal, auxiliary verb, defective) Used before a verb to indicate the simple future tense in the first person singular or plural.",
+      "correctIndex": 0,
+      "options": [
+        "(modal, auxiliary verb, defective) Used before a verb to indicate the simple future tense in the first person singular or plural.",
+        "A state of being pleased or contented; gratification.",
+        "Occurring at any time, occurring even but once during a timespan.",
+        "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc."
+      ]
+    },
+    {
+      "word": "much",
+      "definition": "Large, great.",
+      "correctIndex": 3,
+      "options": [
+        "Having life; living; not dead",
+        "Mental focus.",
+        "Occurring at any time, occurring even but once during a timespan.",
+        "Large, great."
+      ]
+    },
+    {
+      "word": "maybe",
+      "definition": "Something that is possibly true.",
+      "correctIndex": 0,
+      "options": [
+        "Something that is possibly true.",
+        "The inedible parts of a grain-producing plant.",
+        "The act of greeting someone’s arrival, especially by saying \"Welcome!\"; reception.",
+        "Fuss, ado."
+      ]
+    },
+    {
+      "word": "anything",
+      "definition": "Someone or something of importance.",
+      "correctIndex": 3,
+      "options": [
+        "The opening of a creature through which food is ingested.",
+        "The process of becoming different.",
+        "A beam of light or radiation.",
+        "Someone or something of importance."
+      ]
+    },
+    {
+      "word": "god",
+      "definition": "A being such as a monotheistic God: a single divine creator and ruler of the universe.",
+      "correctIndex": 3,
+      "options": [
+        "A commodity; see realty.",
+        "Distant; remote in space.",
+        "An aristocratic title for a woman; the wife of a lord and/or a woman who holds the position in her own right; a title for a peeress, the wife of a peer or knight, and the daughters and daughters-in-law of certain peers.",
+        "A being such as a monotheistic God: a single divine creator and ruler of the universe."
+      ]
+    },
+    {
+      "word": "night",
+      "definition": "The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.",
+      "correctIndex": 0,
+      "options": [
+        "The period between sunset and sunrise, when a location faces far away from the sun, thus when the sky is dark.",
+        "A formation of minerals, specifically:",
+        "To give money or other compensation to in exchange for goods or services.",
+        "Someone or something that is large in stature"
+      ]
+    },
+    {
+      "word": "talk",
+      "definition": "To communicate, usually by means of speech.",
+      "correctIndex": 0,
+      "options": [
+        "To communicate, usually by means of speech.",
+        "An act of being of assistance to someone.",
+        "Something actual as opposed to invented.",
+        "Any nounal word or phrase which indicates a particular person, place, class, or thing."
+      ]
+    },
+    {
+      "word": "into",
+      "definition": "To or towards the inside of.",
+      "correctIndex": 0,
+      "options": [
+        "To or towards the inside of.",
+        "To adorn or grace; to honour; to make becoming, appropriate, or honourable.",
+        "To the fullest extent or degree.",
+        "To recall from one's memory; to have an image in one's memory."
+      ]
+    },
+    {
+      "word": "find",
+      "definition": "Anything that is found (usually valuable), as objects on an archeological site or a person with talent.",
+      "correctIndex": 3,
+      "options": [
+        "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.",
+        "In an absolute or unconditional manner; utterly, positively, wholly.",
+        "An adult male human.",
+        "Anything that is found (usually valuable), as objects on an archeological site or a person with talent."
+      ]
+    },
+    {
+      "word": "put",
+      "definition": "A right to sell something at a predetermined price.",
+      "correctIndex": 1,
+      "options": [
+        "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business suit or lounge suit), or a similar outfit for a woman.",
+        "A right to sell something at a predetermined price.",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "A journey; an excursion or jaunt"
+      ]
+    },
+    {
+      "word": "thought",
+      "definition": "To ponder, to go over in one's head.",
+      "correctIndex": 3,
+      "options": [
+        "To begin, commence, initiate.",
+        "To the fullest extent or degree.",
+        "The quality of being different.",
+        "To ponder, to go over in one's head."
+      ]
+    },
+    {
+      "word": "work",
+      "definition": "(heading) Employment.",
+      "correctIndex": 1,
+      "options": [
+        "The basic taste sensation induced by sugar.",
+        "(heading) Employment.",
+        "An extreme, a great extent.",
+        "A team; a group of people who work together professionally."
+      ]
+    },
+    {
+      "word": "before",
+      "definition": "At an earlier time.",
+      "correctIndex": 1,
+      "options": [
+        "To pay (a debt, fine etc.).",
+        "At an earlier time.",
+        "A hit or strike with the leg, foot or knee.",
+        "A joke."
+      ]
+    },
+    {
+      "word": "again",
+      "definition": "Another time; once more.",
+      "correctIndex": 3,
+      "options": [
+        "Any of several animals related to Equus ferus caballus.",
+        "A tool used for digging; a pickaxe.",
+        "Something that is number two in a series.",
+        "Another time; once more."
+      ]
+    },
+    {
+      "word": "home",
+      "definition": "A dwelling.",
+      "correctIndex": 1,
+      "options": [
+        "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
+        "A dwelling.",
+        "A period into which a year is divided, historically based on the phases of the moon.",
+        "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness."
+      ]
+    },
+    {
+      "word": "won",
+      "definition": "To conquer, defeat.",
+      "correctIndex": 1,
+      "options": [
+        "Flexible material in a roll with a sticky surface on one or both sides; adhesive tape.",
+        "To conquer, defeat.",
+        "A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",
+        "A sentence, phrase or word which asks for information, reply or response; an interrogative."
+      ]
+    },
+    {
+      "word": "than",
+      "definition": "At that time; then.",
+      "correctIndex": 0,
+      "options": [
+        "At that time; then.",
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+        "A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind."
+      ]
+    },
+    {
+      "word": "other",
+      "definition": "An other, another (person, etc), more often rendered as another.",
+      "correctIndex": 1,
+      "options": [
+        "A bobbing motion; a quick up and down movement.",
+        "An other, another (person, etc), more often rendered as another.",
+        "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness.",
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat."
+      ]
+    },
+    {
+      "word": "new",
+      "definition": "Things that are new.",
+      "correctIndex": 2,
+      "options": [
+        "(stative) To perceive sounds through the ear.",
+        "A figure or other artistic depiction of Jesus Christ.",
+        "Things that are new.",
+        "To intend."
+      ]
+    },
+    {
+      "word": "ever",
+      "definition": "Occurring at any time, occurring even but once during a timespan.",
+      "correctIndex": 3,
+      "options": [
+        "To wish for or desire (something); to feel a need or desire for; to crave or demand.",
+        "Any period of 24 hours.",
+        "(heading) Boundary, land within a boundary.",
+        "Occurring at any time, occurring even but once during a timespan."
+      ]
+    },
+    {
+      "word": "keep",
+      "definition": "The main tower of a castle or fortress, located within the castle walls.",
+      "correctIndex": 0,
+      "options": [
+        "The main tower of a castle or fortress, located within the castle walls.",
+        "A cutting-down of timber.",
+        "The day immediately before today; one day ago.",
+        "Something that cannot be done."
+      ]
+    },
+    {
+      "word": "must",
+      "definition": "Something that is mandatory or required.",
+      "correctIndex": 1,
+      "options": [
+        "Dreadful; causing terror, alarm and fear; awesome",
+        "Something that is mandatory or required.",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "Mental focus."
+      ]
+    },
+    {
+      "word": "big",
+      "definition": "Someone or something that is large in stature",
+      "correctIndex": 2,
+      "options": [
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "The part of something that faces out; the outer surface.",
+        "Someone or something that is large in stature",
+        "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness."
+      ]
+    },
+    {
+      "word": "long",
+      "definition": "A long vowel.",
+      "correctIndex": 1,
+      "options": [
+        "Short in length of time from the present.",
+        "A long vowel.",
+        "The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.",
+        "A hit or strike with the leg, foot or knee."
+      ]
+    },
+    {
+      "word": "always",
+      "definition": "At all times; throughout all time; since the beginning.",
+      "correctIndex": 0,
+      "options": [
+        "At all times; throughout all time; since the beginning.",
+        "A cutting-down of timber.",
+        "To launch a projectile.",
+        "An instance of breaking something into two or more pieces."
+      ]
+    },
+    {
+      "word": "everything",
+      "definition": "All the things under discussion.",
+      "correctIndex": 1,
+      "options": [
+        "To roll or fold up; to wind round; to entwine.",
+        "All the things under discussion.",
+        "To put to death; to extinguish the life of.",
+        "The nighttime of the current day or date; this night."
+      ]
+    },
+    {
+      "word": "name",
+      "definition": "Any nounal word or phrase which indicates a particular person, place, class, or thing.",
+      "correctIndex": 1,
+      "options": [
+        "Senses relating to a three-dimensional object or space.",
+        "Any nounal word or phrase which indicates a particular person, place, class, or thing.",
+        "A short, directed application of force; an act of pushing.",
+        "Disturbance or disruption."
+      ]
+    },
+    {
+      "word": "feel",
+      "definition": "A quality of an object experienced by touch.",
+      "correctIndex": 3,
+      "options": [
+        "A line or vector that is perpendicular to another line, surface, or plane.",
+        "An utterance of goodbye, the wishing of farewell to someone.",
+        "An adult female human.",
+        "A quality of an object experienced by touch."
+      ]
+    },
+    {
+      "word": "thanks",
+      "definition": "An expression of appreciation; a thought.",
+      "correctIndex": 3,
+      "options": [
+        "To put (something) down, to rest.",
+        "A pretty person; a term of address to a pretty person.",
+        "A grasp or grip.",
+        "An expression of appreciation; a thought."
+      ]
+    },
+    {
+      "word": "place",
+      "definition": "(physical) An area; somewhere within an area.",
+      "correctIndex": 1,
+      "options": [
+        "The act of greeting someone’s arrival, especially by saying \"Welcome!\"; reception.",
+        "(physical) An area; somewhere within an area.",
+        "Any of several animals related to Equus ferus caballus.",
+        "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons."
+      ]
+    },
+    {
+      "word": "kind",
+      "definition": "A type, race or category; a group of entities that have common characteristics such that they may be grouped together.",
+      "correctIndex": 0,
+      "options": [
+        "A type, race or category; a group of entities that have common characteristics such that they may be grouped together.",
+        "The different ideal.",
+        "Subsidence of the roof of a coal mine.",
+        "An act of sexual intercourse."
+      ]
+    },
+    {
+      "word": "hello",
+      "definition": "\"Hello!\" or an equivalent greeting.",
+      "correctIndex": 3,
+      "options": [
+        "To change place.",
+        "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win in a league table; also the phantom opponent of such a person or team.",
+        "Dreadful; causing terror, alarm and fear; awesome",
+        "\"Hello!\" or an equivalent greeting."
+      ]
+    },
+    {
+      "word": "years",
+      "definition": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
+      "correctIndex": 1,
+      "options": [
+        "An adult female human.",
+        "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 and 365.26 days depending on the point of reference).",
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+        "A large town house or mansion; a grand private residence, especially in France."
+      ]
+    },
+    {
+      "word": "leave",
+      "definition": "To have a consequence or remnant.",
+      "correctIndex": 0,
+      "options": [
+        "To have a consequence or remnant.",
+        "The current moment or period of time.",
+        "One's male offspring.",
+        "The inedible parts of a grain-producing plant."
+      ]
+    },
+    {
+      "word": "hear",
+      "definition": "(stative) To perceive sounds through the ear.",
+      "correctIndex": 2,
+      "options": [
+        "Having life; living; not dead",
+        "A prayer; a petition.",
+        "(stative) To perceive sounds through the ear.",
+        "A water-borne vessel generally larger than a boat."
+      ]
+    },
+    {
+      "word": "through",
+      "definition": "A large slab of stone laid in a dry-stone wall from one side to the other; a perpend.",
+      "correctIndex": 1,
+      "options": [
+        "A journey; an excursion or jaunt",
+        "A large slab of stone laid in a dry-stone wall from one side to the other; a perpend.",
+        "A play, dance, or other entertainment.",
+        "An instance of breaking something into two or more pieces."
+      ]
+    },
+    {
+      "word": "bad",
+      "definition": "Error, mistake.",
+      "correctIndex": 2,
+      "options": [
+        "The emerging stem and embryonic leaves of a new plant.",
+        "A kind of needle, shorter than a sharp, with a small rounded eye, used for making fine stitches on heavy fabrics.",
+        "Error, mistake.",
+        "An adult female human."
+      ]
+    },
+    {
+      "word": "remember",
+      "definition": "To recall from one's memory; to have an image in one's memory.",
+      "correctIndex": 3,
+      "options": [
+        "The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.",
+        "Something which is fair (in various senses of the adjective).",
+        "Except on a specified condition; if not.",
+        "To recall from one's memory; to have an image in one's memory."
+      ]
+    },
+    {
+      "word": "boy",
+      "definition": "A young male.",
+      "correctIndex": 2,
+      "options": [
+        "Having life; living; not dead",
+        "To put to death; to extinguish the life of.",
+        "A young male.",
+        "A figure or other artistic depiction of Jesus Christ."
+      ]
+    },
+    {
+      "word": "wrong",
+      "definition": "Something that is immoral or not good.",
+      "correctIndex": 0,
+      "options": [
+        "Something that is immoral or not good.",
+        "To launch a projectile.",
+        "Fuss, ado.",
+        "An act of thinking; consideration (of something)."
+      ]
+    },
+    {
+      "word": "stay",
+      "definition": "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn.",
+      "correctIndex": 3,
+      "options": [
+        "A state of being pleased or contented; gratification.",
+        "A time period of sixty minutes; one twenty-fourth of a day.",
+        "A Christian house of worship; a building where Christian religious services take place.",
+        "Continuance or a period of time spent in a place; abode for an indefinite time; sojourn."
+      ]
+    },
+    {
+      "word": "may",
+      "definition": "To be strong; to have power (over).",
+      "correctIndex": 1,
+      "options": [
+        "A period into which a year is divided, historically based on the phases of the moon.",
+        "To be strong; to have power (over).",
+        "A chief or leader.",
+        "An advance or movement made from one foot to the other; a pace."
+      ]
+    },
+    {
+      "word": "another",
+      "definition": "An additional one of the same kind.",
+      "correctIndex": 2,
+      "options": [
+        "A situation in which the king is directly threatened by an opposing piece.",
+        "Any of several animals related to Equus ferus caballus.",
+        "An additional one of the same kind.",
+        "To fill with wonder and surprise; to astonish, astound, surprise or perplex."
+      ]
+    },
+    {
+      "word": "wanted",
+      "definition": "To wish for or desire (something); to feel a need or desire for; to crave or demand.",
+      "correctIndex": 0,
+      "options": [
+        "To wish for or desire (something); to feel a need or desire for; to crave or demand.",
+        "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+        "To form letters, words or symbols on a surface in order to communicate.",
+        "The part of something that faces out; the outer surface."
+      ]
+    },
+    {
+      "word": "talking",
+      "definition": "The action of the verb talk.",
+      "correctIndex": 3,
+      "options": [
+        "A musical composition with lyrics for voice or voices, performed by singing.",
+        "Confidence in or reliance on some person or quality.",
+        "A centre, midpoint.",
+        "The action of the verb talk."
+      ]
+    },
+    {
+      "word": "show",
+      "definition": "A play, dance, or other entertainment.",
+      "correctIndex": 2,
+      "options": [
+        "The inedible parts of a grain-producing plant.",
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "A play, dance, or other entertainment.",
+        "A cutting-down of timber."
+      ]
+    },
+    {
+      "word": "being",
+      "definition": "A living creature.",
+      "correctIndex": 3,
+      "options": [
+        "To cease moving.",
+        "To pronounce.",
+        "A distressing or dangerous situation.",
+        "A living creature."
+      ]
+    },
+    {
+      "word": "done",
+      "definition": "(auxiliary) A syntactic marker.",
+      "correctIndex": 3,
+      "options": [
+        "Containing the maximum possible amount that can fit in the space available.",
+        "From a specified time in the past.",
+        "A pigmented filament of keratin which grows from a follicle on the skin of humans and other mammals.",
+        "(auxiliary) A syntactic marker."
+      ]
+    },
+    {
+      "word": "mind",
+      "definition": "The ability for rational thought.",
+      "correctIndex": 3,
+      "options": [
+        "A telephone conversation.",
+        "Someone who is beautiful. Can be used as a term of address.",
+        "A disk, usually made of a polymer, used to record sound for playback on a phonograph.",
+        "The ability for rational thought."
+      ]
+    },
+    {
+      "word": "ask",
+      "definition": "An act or instance of asking.",
+      "correctIndex": 1,
+      "options": [
+        "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness.",
+        "An act or instance of asking.",
+        "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+        "To pay out (money)."
+      ]
+    },
+    {
+      "word": "understand",
+      "definition": "To grasp a concept fully and thoroughly, especially (of words, statements, art, etc.) to be aware of the meaning of and (of people) to be aware of the intent of.",
+      "correctIndex": 0,
+      "options": [
+        "To grasp a concept fully and thoroughly, especially (of words, statements, art, etc.) to be aware of the meaning of and (of people) to be aware of the intent of.",
+        "A journey; an excursion or jaunt",
+        "(ditransitive) To move, shift, provide something abstract or concrete to someone or something or somewhere.",
+        "Gone; gone by; gone away; passed; passed away."
+      ]
+    },
+    {
+      "word": "which",
+      "definition": "(interrogative) What one or ones (of those mentioned or implied).",
+      "correctIndex": 2,
+      "options": [
+        "An area of land set aside for environment preservation or recreation.",
+        "A large town house or mansion; a grand private residence, especially in France.",
+        "(interrogative) What one or ones (of those mentioned or implied).",
+        "To put (something) in a place where it will be harder to discover or out of sight."
+      ]
+    },
+    {
+      "word": "shit",
+      "definition": "Solid excretory product evacuated from the bowels; feces.",
+      "correctIndex": 3,
+      "options": [
+        "A hit or strike with the leg, foot or knee.",
+        "Money in the form of notes/bills and coins, as opposed to cheques/checks or electronic transactions.",
+        "To do a specific task by employing physical or mental powers.",
+        "Solid excretory product evacuated from the bowels; feces."
+      ]
+    },
+    {
+      "word": "miss",
+      "definition": "A failure to hit.",
+      "correctIndex": 0,
+      "options": [
+        "A failure to hit.",
+        "A playful or competitive activity.",
+        "An advance or movement made from one foot to the other; a pace.",
+        "To launch a projectile."
+      ]
+    },
+    {
+      "word": "world",
+      "definition": "(with \"the\") Human collective existence; existence in general.",
+      "correctIndex": 3,
+      "options": [
+        "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+        "Not different or other; not another or others; not different as regards self; selfsame; identical.",
+        "Thought; gerund of think.",
+        "(with \"the\") Human collective existence; existence in general."
+      ]
+    },
+    {
+      "word": "next",
+      "definition": "The one that follows after this one.",
+      "correctIndex": 3,
+      "options": [
+        "A portal of entry into a building, room, or vehicle, consisting of a rigid plane movable on a hinge. Doors are frequently made of wood or metal. May have a handle to help open and close, a latch to hold the door closed and a lock that ensures the door cannot be opened without the key.",
+        "Except on a specified condition; if not.",
+        "The terminal point of something in space or time.",
+        "The one that follows after this one."
+      ]
+    },
+    {
+      "word": "else",
+      "definition": "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items.",
+      "correctIndex": 3,
+      "options": [
+        "To the fullest extent or degree.",
+        "The act of waking, or state of being awake.",
+        "To lose remembrance of.",
+        "(used only with indefinite or interrogative pronouns) Other; in addition to previously mentioned items."
+      ]
+    },
+    {
+      "word": "trying",
+      "definition": "To attempt; to endeavour. Followed by infinitive.",
+      "correctIndex": 0,
+      "options": [
+        "To attempt; to endeavour. Followed by infinitive.",
+        "To lose remembrance of.",
+        "Sick people in general as a group.",
+        "A hit or strike with the leg, foot or knee."
+      ]
+    },
+    {
+      "word": "real",
+      "definition": "A commodity; see realty.",
+      "correctIndex": 3,
+      "options": [
+        "Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
+        "To move from further away to nearer to.",
+        "An advance or movement made from one foot to the other; a pace.",
+        "A commodity; see realty."
+      ]
+    },
+    {
+      "word": "morning",
+      "definition": "The part of the day from dawn to noon.",
+      "correctIndex": 2,
+      "options": [
+        "An instance of breaking something into two or more pieces.",
+        "To complete (something).",
+        "The part of the day from dawn to noon.",
+        "To put (something) down, to rest."
+      ]
+    },
+    {
+      "word": "hold",
+      "definition": "A grasp or grip.",
+      "correctIndex": 0,
+      "options": [
+        "A grasp or grip.",
+        "The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.",
+        "In or to the front; in advance; onward.",
+        "Something that is number two in a series."
+      ]
+    },
+    {
+      "word": "woman",
+      "definition": "An adult female human.",
+      "correctIndex": 1,
+      "options": [
+        "The part of something that faces out; the outer surface.",
+        "An adult female human.",
+        "A sentence, phrase or word which asks for information, reply or response; an interrogative.",
+        "To be grateful or thankful for."
+      ]
+    },
+    {
+      "word": "today",
+      "definition": "A current day or date.",
+      "correctIndex": 1,
+      "options": [
+        "The inedible parts of a grain-producing plant.",
+        "A current day or date.",
+        "Full of danger.",
+        "A military rank between captain and lieutenant colonel."
+      ]
+    },
+    {
+      "word": "friend",
+      "definition": "A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.",
+      "correctIndex": 2,
+      "options": [
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "To put to death; to extinguish the life of.",
+        "A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.",
+        "A cutting-down of timber."
+      ]
+    },
+    {
+      "word": "same",
+      "definition": "Not different or other; not another or others; not different as regards self; selfsame; identical.",
+      "correctIndex": 2,
+      "options": [
+        "A large medical facility, usually in a building with multiple floors, where seriously ill or injured patients are given extensive medical and/or surgical treatment.",
+        "A place or location.",
+        "Not different or other; not another or others; not different as regards self; selfsame; identical.",
+        "To be grateful or thankful for."
+      ]
+    },
+    {
+      "word": "tonight",
+      "definition": "The nighttime of the current day or date; this night.",
+      "correctIndex": 0,
+      "options": [
+        "The nighttime of the current day or date; this night.",
+        "To change place.",
+        "Any of several animals related to Equus ferus caballus.",
+        "Tested, hence, proven to be firm or reliable."
+      ]
+    },
+    {
+      "word": "son",
+      "definition": "One's male offspring.",
+      "correctIndex": 1,
+      "options": [
+        "Taking care; attentive to potential danger, error or harm; cautious.",
+        "One's male offspring.",
+        "Any period of seven consecutive days.",
+        "An utterance of goodbye, the wishing of farewell to someone."
+      ]
+    },
+    {
+      "word": "saw",
+      "definition": "A tool with a toothed blade used for cutting hard substances, in particular wood or metal",
+      "correctIndex": 1,
+      "options": [
+        "To perform the marriage ceremony for; to join in matrimony.",
+        "A tool with a toothed blade used for cutting hard substances, in particular wood or metal",
+        "Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
+        "To hurt or sting."
+      ]
+    },
+    {
+      "word": "pretty",
+      "definition": "A pretty person; a term of address to a pretty person.",
+      "correctIndex": 3,
+      "options": [
+        "To launch a projectile.",
+        "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)",
+        "A challenge, trial.",
+        "A pretty person; a term of address to a pretty person."
+      ]
+    },
+    {
+      "word": "heard",
+      "definition": "(stative) To perceive sounds through the ear.",
+      "correctIndex": 2,
+      "options": [
+        "A portal of entry into a building, room, or vehicle, consisting of a rigid plane movable on a hinge. Doors are frequently made of wood or metal. May have a handle to help open and close, a latch to hold the door closed and a lock that ensures the door cannot be opened without the key.",
+        "The absence of sound; quietness.",
+        "(stative) To perceive sounds through the ear.",
+        "An instance of breaking something into two or more pieces."
+      ]
+    },
+    {
+      "word": "seen",
+      "definition": "(stative) To perceive or detect with the eyes, or as if by sight.",
+      "correctIndex": 3,
+      "options": [
+        "To pay (a debt, fine etc.).",
+        "An advertisement by which individuals attempt to meet others with similar interests.",
+        "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness.",
+        "(stative) To perceive or detect with the eyes, or as if by sight."
+      ]
+    },
+    {
+      "word": "fuck",
+      "definition": "An act of sexual intercourse.",
+      "correctIndex": 3,
+      "options": [
+        "A period into which a year is divided, historically based on the phases of the moon.",
+        "A joke.",
+        "Being lower; being beneath something.",
+        "An act of sexual intercourse."
+      ]
+    },
+    {
+      "word": "men",
+      "definition": "An adult male human.",
+      "correctIndex": 3,
+      "options": [
+        "The act of moving to a lower position under the effect of gravity.",
+        "(ditransitive) To transport toward somebody/somewhere.",
+        "A period into which a year is divided, historically based on the phases of the moon.",
+        "An adult male human."
+      ]
+    },
+    {
+      "word": "matter",
+      "definition": "Substance, material.",
+      "correctIndex": 2,
+      "options": [
+        "Facts or observations presented in support of an assertion.",
+        "An act of pulling (applying force)",
+        "Substance, material.",
+        "The quality of being different."
+      ]
+    },
+    {
+      "word": "bring",
+      "definition": "(ditransitive) To transport toward somebody/somewhere.",
+      "correctIndex": 1,
+      "options": [
+        "Any of several species of horse-like animals, especially Equus asinus, the domesticated of which are used as beasts of burden.",
+        "(ditransitive) To transport toward somebody/somewhere.",
+        "To do a specific task by employing physical or mental powers.",
+        "Flexible material in a roll with a sticky surface on one or both sides; adhesive tape."
+      ]
+    },
+    {
+      "word": "since",
+      "definition": "From a specified time in the past.",
+      "correctIndex": 1,
+      "options": [
+        "A strong wind.",
+        "From a specified time in the past.",
+        "Except on a specified condition; if not.",
+        "A stupid person; a fool."
+      ]
+    },
+    {
+      "word": "sit",
+      "definition": "Subsidence of the roof of a coal mine.",
+      "correctIndex": 1,
+      "options": [
+        "The digit or figure 6.",
+        "Subsidence of the roof of a coal mine.",
+        "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)",
+        "An area of land set aside for environment preservation or recreation."
+      ]
+    },
+    {
+      "word": "cause",
+      "definition": "(often with of, typically of adverse results) The source of, or reason for, an event or action; that which produces or effects a result.",
+      "correctIndex": 1,
+      "options": [
+        "A collection of organized things; a whole composed of relationships among its members.",
+        "(often with of, typically of adverse results) The source of, or reason for, an event or action; that which produces or effects a result.",
+        "Containing the maximum possible amount that can fit in the space available.",
+        "An act of selling."
+      ]
+    },
+    {
+      "word": "hard",
+      "definition": "A firm or paved beach or slope convenient for hauling vessels out of the water.",
+      "correctIndex": 1,
+      "options": [
+        "The different ideal.",
+        "A firm or paved beach or slope convenient for hauling vessels out of the water.",
+        "To grasp or grip.",
+        "Any person; anybody."
+      ]
+    },
+    {
+      "word": "stuff",
+      "definition": "Miscellaneous items or objects; (with possessive) personal effects.",
+      "correctIndex": 0,
+      "options": [
+        "Miscellaneous items or objects; (with possessive) personal effects.",
+        "Something which is fair (in various senses of the adjective).",
+        "To roll or fold up; to wind round; to entwine.",
+        "To pay out (money)."
+      ]
+    },
+    {
+      "word": "days",
+      "definition": "Any period of 24 hours.",
+      "correctIndex": 2,
+      "options": [
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "A period into which a year is divided, historically based on the phases of the moon.",
+        "Any period of 24 hours.",
+        "An end or conclusion."
+      ]
+    },
+    {
+      "word": "until",
+      "definition": "Up to the time of (something happening).",
+      "correctIndex": 0,
+      "options": [
+        "Up to the time of (something happening).",
+        "The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.",
+        "Without humor or expression of happiness; grave in manner or disposition",
+        "The basic taste sensation induced by sugar."
+      ]
+    },
+    {
+      "word": "kids",
+      "definition": "A young goat.",
+      "correctIndex": 0,
+      "options": [
+        "A young goat.",
+        "Dreadful; causing terror, alarm and fear; awesome",
+        "A journey; an excursion or jaunt",
+        "To stop living; to become dead; to undergo death."
+      ]
+    },
+    {
+      "word": "gone",
+      "definition": "To move:",
+      "correctIndex": 1,
+      "options": [
+        "To last, continue, endure.",
+        "To move:",
+        "Any part of something that is smaller or slimmer than the rest, now usually with anatomical reference to the back.",
+        "Something that is not crooked or bent such as a part of a road or track."
+      ]
+    },
+    {
+      "word": "door",
+      "definition": "A portal of entry into a building, room, or vehicle, consisting of a rigid plane movable on a hinge. Doors are frequently made of wood or metal. May have a handle to help open and close, a latch to hold the door closed and a lock that ensures the door cannot be opened without the key.",
+      "correctIndex": 1,
+      "options": [
+        "A figure or other artistic depiction of Jesus Christ.",
+        "A portal of entry into a building, room, or vehicle, consisting of a rigid plane movable on a hinge. Doors are frequently made of wood or metal. May have a handle to help open and close, a latch to hold the door closed and a lock that ensures the door cannot be opened without the key.",
+        "To cease moving.",
+        "To perform the marriage ceremony for; to join in matrimony."
+      ]
+    },
+    {
+      "word": "saying",
+      "definition": "To pronounce.",
+      "correctIndex": 3,
+      "options": [
+        "The master of a house; the head of a family; a householder.",
+        "A bobbing motion; a quick up and down movement.",
+        "A large medical facility, usually in a building with multiple floors, where seriously ill or injured patients are given extensive medical and/or surgical treatment.",
+        "To pronounce."
+      ]
+    },
+    {
+      "word": "killed",
+      "definition": "To put to death; to extinguish the life of.",
+      "correctIndex": 3,
+      "options": [
+        "To provide an impetus for motion or other physical change, to move an object by means of the provision of force thereto.",
+        "A ceremonial duty or service, particularly:",
+        "Anything exceptionally surprising, unbelievable, outstanding, etc.",
+        "To put to death; to extinguish the life of."
+      ]
+    },
+    {
+      "word": "face",
+      "definition": "The front part of the head of a human or other animal, featuring the eyes, nose and mouth, and the surrounding area.",
+      "correctIndex": 0,
+      "options": [
+        "The front part of the head of a human or other animal, featuring the eyes, nose and mouth, and the surrounding area.",
+        "A state of being pleased or contented; gratification.",
+        "To show (someone) the way; to guide, conduct; to point, indicate.",
+        "(heading) To the greatest extent or degree; completely, entirely."
+      ]
+    },
+    {
+      "word": "ago",
+      "definition": "Gone; gone by; gone away; passed; passed away.",
+      "correctIndex": 2,
+      "options": [
+        "Short in length of time from the present.",
+        "The third planet of the Solar System; the world upon which humans live.",
+        "Gone; gone by; gone away; passed; passed away.",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect."
+      ]
+    },
+    {
+      "word": "second",
+      "definition": "Something that is number two in a series.",
+      "correctIndex": 1,
+      "options": [
+        "A chief or leader.",
+        "Something that is number two in a series.",
+        "Organized, large-scale, armed conflict between countries or between national, ethnic, or other sizeable groups, usually involving the engagement of military forces.",
+        "Any part of something that is smaller or slimmer than the rest, now usually with anatomical reference to the back."
+      ]
+    },
+    {
+      "word": "damn",
+      "definition": "The use of \"damn\" as a curse.",
+      "correctIndex": 3,
+      "options": [
+        "An act of thinking; consideration (of something).",
+        "A distressing or dangerous situation.",
+        "To intend.",
+        "The use of \"damn\" as a curse."
+      ]
+    },
+    {
+      "word": "thinking",
+      "definition": "Thought; gerund of think.",
+      "correctIndex": 3,
+      "options": [
+        "Someone who is beautiful. Can be used as a term of address.",
+        "The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.",
+        "A person who is dear to one.",
+        "Thought; gerund of think."
+      ]
+    },
+    {
+      "word": "beautiful",
+      "definition": "Someone who is beautiful. Can be used as a term of address.",
+      "correctIndex": 0,
+      "options": [
+        "Someone who is beautiful. Can be used as a term of address.",
+        "To fill with wonder and surprise; to astonish, astound, surprise or perplex.",
+        "A division, a portion, a share.",
+        "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness."
+      ]
+    },
+    {
+      "word": "check",
+      "definition": "A situation in which the king is directly threatened by an opposing piece.",
+      "correctIndex": 0,
+      "options": [
+        "A situation in which the king is directly threatened by an opposing piece.",
+        "The inedible parts of a grain-producing plant.",
+        "To perceive the truth or factuality of; to be certain of or that.",
+        "To move from further away to nearer to."
+      ]
+    },
+    {
+      "word": "forget",
+      "definition": "To lose remembrance of.",
+      "correctIndex": 0,
+      "options": [
+        "To lose remembrance of.",
+        "To cease moving.",
+        "A person with poor judgment or little intelligence.",
+        "Without humor or expression of happiness; grave in manner or disposition"
+      ]
+    },
+    {
+      "word": "lost",
+      "definition": "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+      "correctIndex": 1,
+      "options": [
+        "The part of an object which is (designed to be) held in the hand when used or moved.",
+        "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+        "The act of jumping; a leap; a spring; a bound.",
+        "A collection of organized things; a whole composed of relationships among its members."
+      ]
+    },
+    {
+      "word": "crazy",
+      "definition": "An insane or eccentric person; a crackpot.",
+      "correctIndex": 2,
+      "options": [
+        "A water-borne vessel generally larger than a boat.",
+        "Feeling honoured (by something); feeling happy or satisfied about an event or fact; gratified.",
+        "An insane or eccentric person; a crackpot.",
+        "An elongated piece of wood or similar material, typically put to some use, for example as a wand or baton."
+      ]
+    },
+    {
+      "word": "phone",
+      "definition": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.",
+      "correctIndex": 2,
+      "options": [
+        "An area of land set aside for environment preservation or recreation.",
+        "The current moment or period of time.",
+        "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc.",
+        "(heading) to make a non-linear physical movement."
+      ]
+    },
+    {
+      "word": "end",
+      "definition": "The terminal point of something in space or time.",
+      "correctIndex": 3,
+      "options": [
+        "To change place.",
+        "The act of waking, or state of being awake.",
+        "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+        "The terminal point of something in space or time."
+      ]
+    },
+    {
+      "word": "doctor",
+      "definition": "A physician; a member of the medical profession; one who is trained and licensed to heal the sick or injured. The final examination and qualification may award a doctor degree in which case the post-nominal letters are D.O., DPM, M.D., DMD, DDS, in the US or MBBS in the UK.",
+      "correctIndex": 2,
+      "options": [
+        "A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood.",
+        "Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
+        "A physician; a member of the medical profession; one who is trained and licensed to heal the sick or injured. The final examination and qualification may award a doctor degree in which case the post-nominal letters are D.O., DPM, M.D., DMD, DDS, in the US or MBBS in the UK.",
+        "Amusement, enjoyment or pleasure"
+      ]
+    },
+    {
+      "word": "under",
+      "definition": "Being lower; being beneath something.",
+      "correctIndex": 3,
+      "options": [
+        "An act of being of assistance to someone.",
+        "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness.",
+        "Mental focus.",
+        "Being lower; being beneath something."
+      ]
+    },
+    {
+      "word": "deal",
+      "definition": "A division, a portion, a share.",
+      "correctIndex": 0,
+      "options": [
+        "A division, a portion, a share.",
+        "Fuss, ado.",
+        "An instance of breaking something into two or more pieces.",
+        "Unfavorable; negative; not good."
+      ]
+    },
+    {
+      "word": "soon",
+      "definition": "Short in length of time from the present.",
+      "correctIndex": 0,
+      "options": [
+        "Short in length of time from the present.",
+        "A playing card.",
+        "The opening of a creature through which food is ingested.",
+        "To pay (a debt, fine etc.)."
+      ]
+    },
+    {
+      "word": "anyone",
+      "definition": "Any person; anybody.",
+      "correctIndex": 0,
+      "options": [
+        "Any person; anybody.",
+        "Distant; remote in space.",
+        "To run.",
+        "To last, continue, endure."
+      ]
+    },
+    {
+      "word": "change",
+      "definition": "The process of becoming different.",
+      "correctIndex": 1,
+      "options": [
+        "Mental focus.",
+        "The process of becoming different.",
+        "A water-borne vessel generally larger than a boat.",
+        "To request (information, or an answer to a question)."
+      ]
+    },
+    {
+      "word": "week",
+      "definition": "Any period of seven consecutive days.",
+      "correctIndex": 3,
+      "options": [
+        "To put (something) down, to rest.",
+        "To occur or take place.",
+        "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)",
+        "Any period of seven consecutive days."
+      ]
+    },
+    {
+      "word": "fun",
+      "definition": "Amusement, enjoyment or pleasure",
+      "correctIndex": 1,
+      "options": [
+        "A cutting-down of timber.",
+        "Amusement, enjoyment or pleasure",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "A lid."
+      ]
+    },
+    {
+      "word": "bit",
+      "definition": "A piece of metal placed in a horse's mouth and connected to the reins to direct the animal.",
+      "correctIndex": 0,
+      "options": [
+        "A piece of metal placed in a horse's mouth and connected to the reins to direct the animal.",
+        "Having relevant and crucial value.",
+        "The way in which something hangs.",
+        "The act of waking, or state of being awake."
+      ]
+    },
+    {
+      "word": "game",
+      "definition": "A playful or competitive activity.",
+      "correctIndex": 2,
+      "options": [
+        "A kind of needle, shorter than a sharp, with a small rounded eye, used for making fine stitches on heavy fabrics.",
+        "Something that cannot be done.",
+        "A playful or competitive activity.",
+        "A loud, sharp sound as of a cork coming out of a bottle."
+      ]
+    },
+    {
+      "word": "set",
+      "definition": "To put (something) down, to rest.",
+      "correctIndex": 1,
+      "options": [
+        "A period into which a year is divided, historically based on the phases of the moon.",
+        "To put (something) down, to rest.",
+        "A figure or other artistic depiction of Jesus Christ.",
+        "To exclude; to specify as being an exception."
+      ]
+    },
+    {
+      "word": "comes",
+      "definition": "To move from further away to nearer to.",
+      "correctIndex": 3,
+      "options": [
+        "(heading) Boundary, land within a boundary.",
+        "A place or location.",
+        "An extreme, a great extent.",
+        "To move from further away to nearer to."
+      ]
+    },
+    {
+      "word": "shot",
+      "definition": "To launch a projectile.",
+      "correctIndex": 1,
+      "options": [
+        "A large medical facility, usually in a building with multiple floors, where seriously ill or injured patients are given extensive medical and/or surgical treatment.",
+        "To launch a projectile.",
+        "To lose remembrance of.",
+        "An act of pulling (applying force)"
+      ]
+    },
+    {
+      "word": "ass",
+      "definition": "Any of several species of horse-like animals, especially Equus asinus, the domesticated of which are used as beasts of burden.",
+      "correctIndex": 0,
+      "options": [
+        "Any of several species of horse-like animals, especially Equus asinus, the domesticated of which are used as beasts of burden.",
+        "The digit or figure 6.",
+        "To change place.",
+        "(heading) Boundary, land within a boundary."
+      ]
+    },
+    {
+      "word": "water",
+      "definition": "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
+      "correctIndex": 1,
+      "options": [
+        "(modal, auxiliary verb, defective) Used before a verb to indicate the simple future tense in the first person singular or plural.",
+        "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
+        "The location of an event that attracts attention.",
+        "A part of a larger whole, usually in such a form that it is able to be separated from other parts."
+      ]
+    },
+    {
+      "word": "trouble",
+      "definition": "A distressing or dangerous situation.",
+      "correctIndex": 3,
+      "options": [
+        "The emerging stem and embryonic leaves of a new plant.",
+        "To do a specific task by employing physical or mental powers.",
+        "(modal, auxiliary verb, defective) Used before a verb to indicate the simple future tense in the first person singular or plural.",
+        "A distressing or dangerous situation."
+      ]
+    },
+    {
+      "word": "couple",
+      "definition": "Two partners in a romantic or sexual relationship.",
+      "correctIndex": 2,
+      "options": [
+        "The act of jumping; a leap; a spring; a bound.",
+        "To arrive, come (to a place).",
+        "Two partners in a romantic or sexual relationship.",
+        "A pigmented filament of keratin which grows from a follicle on the skin of humans and other mammals."
+      ]
+    },
+    {
+      "word": "making",
+      "definition": "The act of forming, causing, or constituting; workmanship; construction.",
+      "correctIndex": 0,
+      "options": [
+        "The act of forming, causing, or constituting; workmanship; construction.",
+        "The terrain and conditions surrounding the ball before it is struck.",
+        "Something which is fair (in various senses of the adjective).",
+        "A sentence, phrase or word which asks for information, reply or response; an interrogative."
+      ]
+    },
+    {
+      "word": "break",
+      "definition": "An instance of breaking something into two or more pieces.",
+      "correctIndex": 0,
+      "options": [
+        "An instance of breaking something into two or more pieces.",
+        "A general type.",
+        "To predict or believe that something will happen",
+        "Distant; remote in space."
+      ]
+    },
+    {
+      "word": "far",
+      "definition": "Distant; remote in space.",
+      "correctIndex": 2,
+      "options": [
+        "(after a negative) As well.",
+        "The or an act of taking.",
+        "Distant; remote in space.",
+        "Sick people in general as a group."
+      ]
+    },
+    {
+      "word": "close",
+      "definition": "An end or conclusion.",
+      "correctIndex": 1,
+      "options": [
+        "A hit or strike with the leg, foot or knee.",
+        "An end or conclusion.",
+        "Money in the form of notes/bills and coins, as opposed to cheques/checks or electronic transactions.",
+        "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight."
+      ]
+    },
+    {
+      "word": "funny",
+      "definition": "A joke.",
+      "correctIndex": 0,
+      "options": [
+        "A joke.",
+        "To occur or take place.",
+        "Feeling honoured (by something); feeling happy or satisfied about an event or fact; gratified.",
+        "Fuss, ado."
+      ]
+    },
+    {
+      "word": "lady",
+      "definition": "An aristocratic title for a woman; the wife of a lord and/or a woman who holds the position in her own right; a title for a peeress, the wife of a peer or knight, and the daughters and daughters-in-law of certain peers.",
+      "correctIndex": 2,
+      "options": [
+        "Fate; destiny; luck.",
+        "A figure or other artistic depiction of Jesus Christ.",
+        "An aristocratic title for a woman; the wife of a lord and/or a woman who holds the position in her own right; a title for a peeress, the wife of a peer or knight, and the daughters and daughters-in-law of certain peers.",
+        "A thing that is extremely holy; used almost exclusively in Holy of Holies."
+      ]
+    },
+    {
+      "word": "asked",
+      "definition": "To request (information, or an answer to a question).",
+      "correctIndex": 0,
+      "options": [
+        "To request (information, or an answer to a question).",
+        "A male; a guy; a fellow.",
+        "A period during which one is seated for a specific purpose.",
+        "To contend in physical conflict, either singly or in war, battle etc."
+      ]
+    },
+    {
+      "word": "fire",
+      "definition": "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.",
+      "correctIndex": 3,
+      "options": [
+        "A cutting-down of timber.",
+        "To contend in physical conflict, either singly or in war, battle etc.",
+        "An extreme, a great extent.",
+        "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering."
+      ]
+    },
+    {
+      "word": "hate",
+      "definition": "An object of hatred.",
+      "correctIndex": 3,
+      "options": [
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "Mental focus.",
+        "Having life; living; not dead",
+        "An object of hatred."
+      ]
+    },
+    {
+      "word": "rest",
+      "definition": "(of a person or animal) Relief from work or activity by sleeping; sleep.",
+      "correctIndex": 0,
+      "options": [
+        "(of a person or animal) Relief from work or activity by sleeping; sleep.",
+        "To the fullest extent or degree.",
+        "Confidence in or reliance on some person or quality.",
+        "To contend in physical conflict, either singly or in war, battle etc."
+      ]
+    },
+    {
+      "word": "inside",
+      "definition": "The interior or inner part.",
+      "correctIndex": 0,
+      "options": [
+        "The interior or inner part.",
+        "Tested, hence, proven to be firm or reliable.",
+        "Used in speaking.",
+        "(heading) To the greatest extent or degree; completely, entirely."
+      ]
+    },
+    {
+      "word": "different",
+      "definition": "The different ideal.",
+      "correctIndex": 1,
+      "options": [
+        "To lose remembrance of.",
+        "The different ideal.",
+        "Used in speaking.",
+        "The master of a house; the head of a family; a householder."
+      ]
+    },
+    {
+      "word": "captain",
+      "definition": "A chief or leader.",
+      "correctIndex": 0,
+      "options": [
+        "A chief or leader.",
+        "To perform the marriage ceremony for; to join in matrimony.",
+        "A pigmented filament of keratin which grows from a follicle on the skin of humans and other mammals.",
+        "The day immediately before today; one day ago."
+      ]
+    },
+    {
+      "word": "important",
+      "definition": "Having relevant and crucial value.",
+      "correctIndex": 3,
+      "options": [
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "(archaic outside of idioms) To count, reckon, or enumerate.",
+        "An other, another (person, etc), more often rendered as another.",
+        "Having relevant and crucial value."
+      ]
+    },
+    {
+      "word": "line",
+      "definition": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+      "correctIndex": 1,
+      "options": [
+        "A symbol in an alphabet.",
+        "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+        "A Christian house of worship; a building where Christian religious services take place.",
+        "The act of waking, or state of being awake."
+      ]
+    },
+    {
+      "word": "office",
+      "definition": "A ceremonial duty or service, particularly:",
+      "correctIndex": 1,
+      "options": [
+        "The act of waking, or state of being awake.",
+        "A ceremonial duty or service, particularly:",
+        "A team; a group of people who work together professionally.",
+        "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)"
+      ]
+    },
+    {
+      "word": "quite",
+      "definition": "(heading) To the greatest extent or degree; completely, entirely.",
+      "correctIndex": 3,
+      "options": [
+        "A period into which a year is divided, historically based on the phases of the moon.",
+        "Full of danger.",
+        "Senses relating to a three-dimensional object or space.",
+        "(heading) To the greatest extent or degree; completely, entirely."
+      ]
+    },
+    {
+      "word": "fight",
+      "definition": "To contend in physical conflict, either singly or in war, battle etc.",
+      "correctIndex": 1,
+      "options": [
+        "A person with poor judgment or little intelligence.",
+        "To contend in physical conflict, either singly or in war, battle etc.",
+        "A time period of sixty minutes; one twenty-fourth of a day.",
+        "A general type."
+      ]
+    },
+    {
+      "word": "six",
+      "definition": "The digit or figure 6.",
+      "correctIndex": 2,
+      "options": [
+        "An advertisement by which individuals attempt to meet others with similar interests.",
+        "A male; a guy; a fellow.",
+        "The digit or figure 6.",
+        "A thing that is extremely holy; used almost exclusively in Holy of Holies."
+      ]
+    },
+    {
+      "word": "pick",
+      "definition": "A tool used for digging; a pickaxe.",
+      "correctIndex": 3,
+      "options": [
+        "A complete domicile occupying only part of a building, especially one for rent; a flat.",
+        "To change place.",
+        "To complete (something).",
+        "A tool used for digging; a pickaxe."
+      ]
+    },
+    {
+      "word": "ahead",
+      "definition": "In or to the front; in advance; onward.",
+      "correctIndex": 3,
+      "options": [
+        "Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
+        "The inedible parts of a grain-producing plant.",
+        "A strip of fabric, especially from the edge of a piece of cloth.",
+        "In or to the front; in advance; onward."
+      ]
+    },
+    {
+      "word": "cool",
+      "definition": "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness.",
+      "correctIndex": 2,
+      "options": [
+        "A formation of minerals, specifically:",
+        "Having green as its color.",
+        "A moderate or refreshing state of cold; moderate temperature of the air between hot and cold; coolness.",
+        "Also; in addition."
+      ]
+    },
+    {
+      "word": "body",
+      "definition": "Physical frame.",
+      "correctIndex": 1,
+      "options": [
+        "Senses relating to a three-dimensional object or space.",
+        "Physical frame.",
+        "An act of pulling (applying force)",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect."
+      ]
+    },
+    {
+      "word": "husband",
+      "definition": "The master of a house; the head of a family; a householder.",
+      "correctIndex": 3,
+      "options": [
+        "To give money or other compensation to in exchange for goods or services.",
+        "To pay (a debt, fine etc.).",
+        "Surface-to-air missile",
+        "The master of a house; the head of a family; a householder."
+      ]
+    },
+    {
+      "word": "reason",
+      "definition": "A cause:",
+      "correctIndex": 3,
+      "options": [
+        "A challenge, trial.",
+        "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+        "A time period of sixty minutes; one twenty-fourth of a day.",
+        "A cause:"
+      ]
+    },
+    {
+      "word": "dog",
+      "definition": "A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",
+      "correctIndex": 1,
+      "options": [
+        "(modal, auxiliary verb, defective) Used before a verb to indicate the simple future tense in the first person singular or plural.",
+        "A mammal, Canis familiaris or Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",
+        "The time of the day between dusk and night, when it gets dark.",
+        "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons."
+      ]
+    },
+    {
+      "word": "truth",
+      "definition": "True facts, genuine depiction or statements of reality.",
+      "correctIndex": 3,
+      "options": [
+        "To occur or take place.",
+        "The act of waking, or state of being awake.",
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+        "True facts, genuine depiction or statements of reality."
+      ]
+    },
+    {
+      "word": "telling",
+      "definition": "(archaic outside of idioms) To count, reckon, or enumerate.",
+      "correctIndex": 1,
+      "options": [
+        "An other, another (person, etc), more often rendered as another.",
+        "(archaic outside of idioms) To count, reckon, or enumerate.",
+        "The basic taste sensation induced by sugar.",
+        "To last, continue, endure."
+      ]
+    },
+    {
+      "word": "anymore",
+      "definition": "(in negative or interrogative constructions) From a given time onwards; longer, again.",
+      "correctIndex": 0,
+      "options": [
+        "(in negative or interrogative constructions) From a given time onwards; longer, again.",
+        "A period into which a year is divided, historically based on the phases of the moon.",
+        "The act of congratulating.",
+        "To look at, see, or view for a period of time."
+      ]
+    },
+    {
+      "word": "started",
+      "definition": "To begin, commence, initiate.",
+      "correctIndex": 1,
+      "options": [
+        "An oath or affirmation; a vow",
+        "To begin, commence, initiate.",
+        "The absence of sound; quietness.",
+        "To lose remembrance of."
+      ]
+    },
+    {
+      "word": "bed",
+      "definition": "A piece of furniture, usually flat and soft, on which to rest or sleep.",
+      "correctIndex": 0,
+      "options": [
+        "A piece of furniture, usually flat and soft, on which to rest or sleep.",
+        "(heading) to make a non-linear physical movement.",
+        "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
+        "The inedible parts of a grain-producing plant."
+      ]
+    },
+    {
+      "word": "tried",
+      "definition": "Tested, hence, proven to be firm or reliable.",
+      "correctIndex": 3,
+      "options": [
+        "A military rank between captain and lieutenant colonel.",
+        "The absence of sound; quietness.",
+        "The way in which something hangs.",
+        "Tested, hence, proven to be firm or reliable."
+      ]
+    },
+    {
+      "word": "shall",
+      "definition": "(modal, auxiliary verb, defective) Used before a verb to indicate the simple future tense in the first person singular or plural.",
+      "correctIndex": 2,
+      "options": [
+        "A team; a group of people who work together professionally.",
+        "Having green as its color.",
+        "(modal, auxiliary verb, defective) Used before a verb to indicate the simple future tense in the first person singular or plural.",
+        "Anything exceptionally surprising, unbelievable, outstanding, etc."
+      ]
+    },
+    {
+      "word": "stupid",
+      "definition": "A stupid person; a fool.",
+      "correctIndex": 1,
+      "options": [
+        "A portion of something, especially a portion given or allotted to someone.",
+        "A stupid person; a fool.",
+        "A thing that is extremely holy; used almost exclusively in Holy of Holies.",
+        "Also; in addition."
+      ]
+    },
+    {
+      "word": "either",
+      "definition": "(after a negative) As well.",
+      "correctIndex": 2,
+      "options": [
+        "To lose remembrance of.",
+        "Having life; living; not dead",
+        "(after a negative) As well.",
+        "An oath or affirmation; a vow"
+      ]
+    },
+    {
+      "word": "front",
+      "definition": "The foremost side of something or the end that faces the direction it normally moves.",
+      "correctIndex": 2,
+      "options": [
+        "To form letters, words or symbols on a surface in order to communicate.",
+        "An act of being of assistance to someone.",
+        "The foremost side of something or the end that faces the direction it normally moves.",
+        "A loud, sharp sound as of a cork coming out of a bottle."
+      ]
+    },
+    {
+      "word": "bye",
+      "definition": "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win in a league table; also the phantom opponent of such a person or team.",
+      "correctIndex": 0,
+      "options": [
+        "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next round unopposed, or is awarded points for a win in a league table; also the phantom opponent of such a person or team.",
+        "The act of moving to a lower position under the effect of gravity.",
+        "The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.",
+        "A playing card."
+      ]
+    },
+    {
+      "word": "welcome",
+      "definition": "The act of greeting someone’s arrival, especially by saying \"Welcome!\"; reception.",
+      "correctIndex": 2,
+      "options": [
+        "Feeling honoured (by something); feeling happy or satisfied about an event or fact; gratified.",
+        "Without humor or expression of happiness; grave in manner or disposition",
+        "The act of greeting someone’s arrival, especially by saying \"Welcome!\"; reception.",
+        "A possible one."
+      ]
+    },
+    {
+      "word": "trust",
+      "definition": "Confidence in or reliance on some person or quality.",
+      "correctIndex": 0,
+      "options": [
+        "Confidence in or reliance on some person or quality.",
+        "A rampart of earth, stones etc. built up for defensive purposes.",
+        "A corporate group; a group of colleagues.",
+        "A team; a group of people who work together professionally."
+      ]
+    },
+    {
+      "word": "book",
+      "definition": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+      "correctIndex": 2,
+      "options": [
+        "To be under an obligation to give something back to someone or to perform some action for someone.",
+        "To complete (something).",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "A general type."
+      ]
+    },
+    {
+      "word": "between",
+      "definition": "A kind of needle, shorter than a sharp, with a small rounded eye, used for making fine stitches on heavy fabrics.",
+      "correctIndex": 2,
+      "options": [
+        "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+        "An advertisement by which individuals attempt to meet others with similar interests.",
+        "A kind of needle, shorter than a sharp, with a small rounded eye, used for making fine stitches on heavy fabrics.",
+        "A general type."
+      ]
+    },
+    {
+      "word": "war",
+      "definition": "Organized, large-scale, armed conflict between countries or between national, ethnic, or other sizeable groups, usually involving the engagement of military forces.",
+      "correctIndex": 3,
+      "options": [
+        "Free postage, a right exercised by governments (usually with definite article).",
+        "The inedible parts of a grain-producing plant.",
+        "To prevent harm or difficulty.",
+        "Organized, large-scale, armed conflict between countries or between national, ethnic, or other sizeable groups, usually involving the engagement of military forces."
+      ]
+    },
+    {
+      "word": "fact",
+      "definition": "Something actual as opposed to invented.",
+      "correctIndex": 2,
+      "options": [
+        "An intersection of piping or wiring; an interconnect.",
+        "A complete domicile occupying only part of a building, especially one for rent; a flat.",
+        "Something actual as opposed to invented.",
+        "A team; a group of people who work together professionally."
+      ]
+    },
+    {
+      "word": "clear",
+      "definition": "Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
+      "correctIndex": 0,
+      "options": [
+        "Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.",
+        "A hit or strike with the leg, foot or knee.",
+        "A place or location.",
+        "An area of land set aside for environment preservation or recreation."
+      ]
+    },
+    {
+      "word": "its",
+      "definition": "One who is neither a he nor a she; a creature; a dehumanized being.",
+      "correctIndex": 0,
+      "options": [
+        "One who is neither a he nor a she; a creature; a dehumanized being.",
+        "The location of an event that attracts attention.",
+        "To intend.",
+        "A challenge, trial."
+      ]
+    },
+    {
+      "word": "outside",
+      "definition": "The part of something that faces out; the outer surface.",
+      "correctIndex": 3,
+      "options": [
+        "Surface-to-air missile",
+        "Facts or observations presented in support of an assertion.",
+        "To adorn or grace; to honour; to make becoming, appropriate, or honourable.",
+        "The part of something that faces out; the outer surface."
+      ]
+    },
+    {
+      "word": "black",
+      "definition": "The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.",
+      "correctIndex": 2,
+      "options": [
+        "Surface-to-air missile",
+        "Anything exceptionally surprising, unbelievable, outstanding, etc.",
+        "The colour/color perceived in the absence of light, but also when no light is reflected, but rather absorbed.",
+        "A cutting-down of timber."
+      ]
+    },
+    {
+      "word": "full",
+      "definition": "Containing the maximum possible amount that can fit in the space available.",
+      "correctIndex": 3,
+      "options": [
+        "A man of gentle but not noble birth, particularly a man of means (originally ownership of property) who does not work for a living but has no official status in a peerage; an armiferous man ranking below a knight.",
+        "An area of land set aside for environment preservation or recreation.",
+        "In an absolute or unconditional manner; utterly, positively, wholly.",
+        "Containing the maximum possible amount that can fit in the space available."
+      ]
+    },
+    {
+      "word": "sick",
+      "definition": "Sick people in general as a group.",
+      "correctIndex": 3,
+      "options": [
+        "To the fullest extent or degree.",
+        "The inedible parts of a grain-producing plant.",
+        "A figure or other artistic depiction of Jesus Christ.",
+        "Sick people in general as a group."
+      ]
+    },
+    {
+      "word": "shoot",
+      "definition": "The emerging stem and embryonic leaves of a new plant.",
+      "correctIndex": 3,
+      "options": [
+        "Something that is not crooked or bent such as a part of a road or track.",
+        "A time period of sixty minutes; one twenty-fourth of a day.",
+        "An enclosed space; a courtyard; an uncovered area shut in by the walls of a building, or by different buildings; also, a space opening from a street and nearly surrounded by houses; a blind alley.",
+        "The emerging stem and embryonic leaves of a new plant."
+      ]
+    },
+    {
+      "word": "lose",
+      "definition": "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+      "correctIndex": 1,
+      "options": [
+        "An enclosed space; a courtyard; an uncovered area shut in by the walls of a building, or by different buildings; also, a space opening from a street and nearly surrounded by houses; a blind alley.",
+        "To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.",
+        "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+        "The way in which something hangs."
+      ]
+    },
+    {
+      "word": "months",
+      "definition": "A period into which a year is divided, historically based on the phases of the moon.",
+      "correctIndex": 3,
+      "options": [
+        "To run.",
+        "To perceive the truth or factuality of; to be certain of or that.",
+        "The act of moving to a lower position under the effect of gravity.",
+        "A period into which a year is divided, historically based on the phases of the moon."
+      ]
+    },
+    {
+      "word": "hour",
+      "definition": "A time period of sixty minutes; one twenty-fourth of a day.",
+      "correctIndex": 3,
+      "options": [
+        "To communicate, usually by means of speech.",
+        "A team; a group of people who work together professionally.",
+        "An exclamation of ooh.",
+        "A time period of sixty minutes; one twenty-fourth of a day."
+      ]
+    },
+    {
+      "word": "wow",
+      "definition": "Anything exceptionally surprising, unbelievable, outstanding, etc.",
+      "correctIndex": 3,
+      "options": [
+        "A part of a larger whole, usually in such a form that it is able to be separated from other parts.",
+        "Something which is fair (in various senses of the adjective).",
+        "To arrive, come (to a place).",
+        "Anything exceptionally surprising, unbelievable, outstanding, etc."
+      ]
+    },
+    {
+      "word": "frank",
+      "definition": "Free postage, a right exercised by governments (usually with definite article).",
+      "correctIndex": 3,
+      "options": [
+        "To hurt or sting.",
+        "To pay out (money).",
+        "The absence of sound; quietness.",
+        "Free postage, a right exercised by governments (usually with definite article)."
+      ]
+    },
+    {
+      "word": "child",
+      "definition": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)",
+      "correctIndex": 1,
+      "options": [
+        "An act of pulling (applying force)",
+        "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)",
+        "An oath or affirmation; a vow",
+        "To roll or fold up; to wind round; to entwine."
+      ]
+    },
+    {
+      "word": "died",
+      "definition": "To stop living; to become dead; to undergo death.",
+      "correctIndex": 3,
+      "options": [
+        "Flexible material in a roll with a sticky surface on one or both sides; adhesive tape.",
+        "Fuss, ado.",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "To stop living; to become dead; to undergo death."
+      ]
+    },
+    {
+      "word": "living",
+      "definition": "To be alive; to have life.",
+      "correctIndex": 1,
+      "options": [
+        "Without humor or expression of happiness; grave in manner or disposition",
+        "To be alive; to have life.",
+        "Something that is not crooked or bent such as a part of a road or track.",
+        "To put (something) in a place where it will be harder to discover or out of sight."
+      ]
+    },
+    {
+      "word": "alive",
+      "definition": "Having life; living; not dead",
+      "correctIndex": 0,
+      "options": [
+        "Having life; living; not dead",
+        "A team; a group of people who work together professionally.",
+        "To change place or posture; to go, in any manner, from one place or position to another.",
+        "To put (something) in a place where it will be harder to discover or out of sight."
+      ]
+    },
+    {
+      "word": "gentlemen",
+      "definition": "A man of gentle but not noble birth, particularly a man of means (originally ownership of property) who does not work for a living but has no official status in a peerage; an armiferous man ranking below a knight.",
+      "correctIndex": 3,
+      "options": [
+        "To change place.",
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "An advertisement by which individuals attempt to meet others with similar interests.",
+        "A man of gentle but not noble birth, particularly a man of means (originally ownership of property) who does not work for a living but has no official status in a peerage; an armiferous man ranking below a knight."
+      ]
+    },
+    {
+      "word": "hair",
+      "definition": "A pigmented filament of keratin which grows from a follicle on the skin of humans and other mammals.",
+      "correctIndex": 3,
+      "options": [
+        "The act of congratulating.",
+        "To put (something) in a place where it will be harder to discover or out of sight.",
+        "An intersection of piping or wiring; an interconnect.",
+        "A pigmented filament of keratin which grows from a follicle on the skin of humans and other mammals."
+      ]
+    },
+    {
+      "word": "promise",
+      "definition": "An oath or affirmation; a vow",
+      "correctIndex": 1,
+      "options": [
+        "The location of an event that attracts attention.",
+        "An oath or affirmation; a vow",
+        "To contend in physical conflict, either singly or in war, battle etc.",
+        "A large town house or mansion; a grand private residence, especially in France."
+      ]
+    },
+    {
+      "word": "music",
+      "definition": "A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood.",
+      "correctIndex": 3,
+      "options": [
+        "The terrain and conditions surrounding the ball before it is struck.",
+        "(heading) to make a non-linear physical movement.",
+        "To be under an obligation to give something back to someone or to perform some action for someone.",
+        "A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood."
+      ]
+    },
+    {
+      "word": "sort",
+      "definition": "A general type.",
+      "correctIndex": 0,
+      "options": [
+        "A general type.",
+        "An elongated piece of wood or similar material, typically put to some use, for example as a wand or baton.",
+        "Feeling honoured (by something); feeling happy or satisfied about an event or fact; gratified.",
+        "A set of draught animals, such as two horses in front of a carriage."
+      ]
+    },
+    {
+      "word": "serious",
+      "definition": "Without humor or expression of happiness; grave in manner or disposition",
+      "correctIndex": 0,
+      "options": [
+        "Without humor or expression of happiness; grave in manner or disposition",
+        "Facts or observations presented in support of an assertion.",
+        "To complete (something).",
+        "A cutting-down of timber."
+      ]
+    },
+    {
+      "word": "red",
+      "definition": "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+      "correctIndex": 0,
+      "options": [
+        "Any of a range of colours having the longest wavelengths, 670 nm, of the visible spectrum; a primary additive colour for transmitted light: the colour obtained by subtracting green and blue from white light using magenta and yellow filters; the colour of blood, ripe strawberries, etc.",
+        "An act of being of assistance to someone.",
+        "Full of danger.",
+        "To run."
+      ]
+    },
+    {
+      "word": "hang",
+      "definition": "The way in which something hangs.",
+      "correctIndex": 3,
+      "options": [
+        "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
+        "An enclosed space; a courtyard; an uncovered area shut in by the walls of a building, or by different buildings; also, a space opening from a street and nearly surrounded by houses; a blind alley.",
+        "To be grateful or thankful for.",
+        "The way in which something hangs."
+      ]
+    },
+    {
+      "word": "team",
+      "definition": "A set of draught animals, such as two horses in front of a carriage.",
+      "correctIndex": 1,
+      "options": [
+        "To roll or fold up; to wind round; to entwine.",
+        "A set of draught animals, such as two horses in front of a carriage.",
+        "A part of a larger whole, usually in such a form that it is able to be separated from other parts.",
+        "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance."
+      ]
+    },
+    {
+      "word": "company",
+      "definition": "A team; a group of people who work together professionally.",
+      "correctIndex": 1,
+      "options": [
+        "A numerical value equal to 1,000 = 10 × 100 = 103",
+        "A team; a group of people who work together professionally.",
+        "An exclamation of ooh.",
+        "A water-borne vessel generally larger than a boat."
+      ]
+    },
+    {
+      "word": "pull",
+      "definition": "An act of pulling (applying force)",
+      "correctIndex": 1,
+      "options": [
+        "The third planet of the Solar System; the world upon which humans live.",
+        "An act of pulling (applying force)",
+        "Of sinews and tendons.",
+        "To be grateful or thankful for."
+      ]
+    },
+    {
+      "word": "sweet",
+      "definition": "The basic taste sensation induced by sugar.",
+      "correctIndex": 3,
+      "options": [
+        "A formation of minerals, specifically:",
+        "An area of land set aside for environment preservation or recreation.",
+        "To perceive the truth or factuality of; to be certain of or that.",
+        "The basic taste sensation induced by sugar."
+      ]
+    },
+    {
+      "word": "darling",
+      "definition": "A person who is dear to one.",
+      "correctIndex": 1,
+      "options": [
+        "A corporate group; a group of colleagues.",
+        "A person who is dear to one.",
+        "Something which is fair (in various senses of the adjective).",
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly."
+      ]
+    },
+    {
+      "word": "king",
+      "definition": "A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation.",
+      "correctIndex": 3,
+      "options": [
+        "An utterance of goodbye, the wishing of farewell to someone.",
+        "In an absolute or unconditional manner; utterly, positively, wholly.",
+        "The act of waking, or state of being awake.",
+        "A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation."
+      ]
+    },
+    {
+      "word": "throw",
+      "definition": "To change place.",
+      "correctIndex": 1,
+      "options": [
+        "To complete (something).",
+        "To change place.",
+        "The act of waking, or state of being awake.",
+        "A Christian house of worship; a building where Christian religious services take place."
+      ]
+    },
+    {
+      "word": "joe",
+      "definition": "A male; a guy; a fellow.",
+      "correctIndex": 0,
+      "options": [
+        "A male; a guy; a fellow.",
+        "Fuss, ado.",
+        "An advance or movement made from one foot to the other; a pace.",
+        "A sheet material used for writing on or printing on (or as a non-waterproof container), usually made by draining cellulose fibres from a suspension in water."
+      ]
+    },
+    {
+      "word": "cannot",
+      "definition": "Something that cannot be done.",
+      "correctIndex": 1,
+      "options": [
+        "To look at, see, or view for a period of time.",
+        "Something that cannot be done.",
+        "A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind.",
+        "To do a specific task by employing physical or mental powers."
+      ]
+    },
+    {
+      "word": "small",
+      "definition": "Any part of something that is smaller or slimmer than the rest, now usually with anatomical reference to the back.",
+      "correctIndex": 3,
+      "options": [
+        "To the fullest extent or degree.",
+        "To be grateful or thankful for.",
+        "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business suit or lounge suit), or a similar outfit for a woman.",
+        "Any part of something that is smaller or slimmer than the rest, now usually with anatomical reference to the back."
+      ]
+    },
+    {
+      "word": "piece",
+      "definition": "A part of a larger whole, usually in such a form that it is able to be separated from other parts.",
+      "correctIndex": 1,
+      "options": [
+        "A person with poor judgment or little intelligence.",
+        "A part of a larger whole, usually in such a form that it is able to be separated from other parts.",
+        "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance.",
+        "To lose remembrance of."
+      ]
+    },
+    {
+      "word": "hospital",
+      "definition": "A large medical facility, usually in a building with multiple floors, where seriously ill or injured patients are given extensive medical and/or surgical treatment.",
+      "correctIndex": 1,
+      "options": [
+        "Disturbance or disruption.",
+        "A large medical facility, usually in a building with multiple floors, where seriously ill or injured patients are given extensive medical and/or surgical treatment.",
+        "To grasp or grip.",
+        "A centre, midpoint."
+      ]
+    },
+    {
+      "word": "past",
+      "definition": "To change place.",
+      "correctIndex": 0,
+      "options": [
+        "To change place.",
+        "A portion of something, especially a portion given or allotted to someone.",
+        "The act of jumping; a leap; a spring; a bound.",
+        "To intend."
+      ]
+    },
+    {
+      "word": "known",
+      "definition": "To perceive the truth or factuality of; to be certain of or that.",
+      "correctIndex": 1,
+      "options": [
+        "(heading) Boundary, land within a boundary.",
+        "To perceive the truth or factuality of; to be certain of or that.",
+        "A corporate group; a group of colleagues.",
+        "To lose remembrance of."
+      ]
+    },
+    {
+      "word": "sam",
+      "definition": "Surface-to-air missile",
+      "correctIndex": 2,
+      "options": [
+        "A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind.",
+        "A numerical value equal to 1,000 = 10 × 100 = 103",
+        "Surface-to-air missile",
+        "A corporate group; a group of colleagues."
+      ]
+    },
+    {
+      "word": "straight",
+      "definition": "Something that is not crooked or bent such as a part of a road or track.",
+      "correctIndex": 2,
+      "options": [
+        "An intersection of piping or wiring; an interconnect.",
+        "Similarly not.",
+        "Something that is not crooked or bent such as a part of a road or track.",
+        "A complete domicile occupying only part of a building, especially one for rent; a flat."
+      ]
+    },
+    {
+      "word": "clean",
+      "definition": "Removal of dirt.",
+      "correctIndex": 0,
+      "options": [
+        "Removal of dirt.",
+        "An intersection of piping or wiring; an interconnect.",
+        "To do a specific task by employing physical or mental powers.",
+        "A figure or other artistic depiction of Jesus Christ."
+      ]
+    },
+    {
+      "word": "evening",
+      "definition": "The time of the day between dusk and night, when it gets dark.",
+      "correctIndex": 2,
+      "options": [
+        "A prayer; a petition.",
+        "A large town house or mansion; a grand private residence, especially in France.",
+        "The time of the day between dusk and night, when it gets dark.",
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat."
+      ]
+    },
+    {
+      "word": "lie",
+      "definition": "The terrain and conditions surrounding the ball before it is struck.",
+      "correctIndex": 2,
+      "options": [
+        "Having green as its color.",
+        "The absence of sound; quietness.",
+        "The terrain and conditions surrounding the ball before it is struck.",
+        "To lose remembrance of."
+      ]
+    },
+    {
+      "word": "moving",
+      "definition": "To change place or posture; to go, in any manner, from one place or position to another.",
+      "correctIndex": 2,
+      "options": [
+        "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance.",
+        "The inedible parts of a grain-producing plant.",
+        "To change place or posture; to go, in any manner, from one place or position to another.",
+        "To give money or other compensation to in exchange for goods or services."
+      ]
+    },
+    {
+      "word": "step",
+      "definition": "An advance or movement made from one foot to the other; a pace.",
+      "correctIndex": 3,
+      "options": [
+        "An act of selling.",
+        "Unfavorable; negative; not good.",
+        "A military rank between captain and lieutenant colonel.",
+        "An advance or movement made from one foot to the other; a pace."
+      ]
+    },
+    {
+      "word": "fall",
+      "definition": "The act of moving to a lower position under the effect of gravity.",
+      "correctIndex": 3,
+      "options": [
+        "To hurt or sting.",
+        "To prevent harm or difficulty.",
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "The act of moving to a lower position under the effect of gravity."
+      ]
+    },
+    {
+      "word": "questions",
+      "definition": "A sentence, phrase or word which asks for information, reply or response; an interrogative.",
+      "correctIndex": 2,
+      "options": [
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "A centre, midpoint.",
+        "A sentence, phrase or word which asks for information, reply or response; an interrogative.",
+        "A beam of light or radiation."
+      ]
+    },
+    {
+      "word": "takes",
+      "definition": "The or an act of taking.",
+      "correctIndex": 1,
+      "options": [
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "The or an act of taking.",
+        "An area of land set aside for environment preservation or recreation.",
+        "A period during which one is seated for a specific purpose."
+      ]
+    },
+    {
+      "word": "quiet",
+      "definition": "The absence of sound; quietness.",
+      "correctIndex": 1,
+      "options": [
+        "An act of being of assistance to someone.",
+        "The absence of sound; quietness.",
+        "A symbol in an alphabet.",
+        "To contend in physical conflict, either singly or in war, battle etc."
+      ]
+    },
+    {
+      "word": "goodbye",
+      "definition": "An utterance of goodbye, the wishing of farewell to someone.",
+      "correctIndex": 1,
+      "options": [
+        "A rampart of earth, stones etc. built up for defensive purposes.",
+        "An utterance of goodbye, the wishing of farewell to someone.",
+        "To arrive, come (to a place).",
+        "The act of jumping; a leap; a spring; a bound."
+      ]
+    },
+    {
+      "word": "become",
+      "definition": "To arrive, come (to a place).",
+      "correctIndex": 3,
+      "options": [
+        "Fate; destiny; luck.",
+        "A figure or other artistic depiction of Jesus Christ.",
+        "A hit or strike with the leg, foot or knee.",
+        "To arrive, come (to a place)."
+      ]
+    },
+    {
+      "word": "worked",
+      "definition": "To do a specific task by employing physical or mental powers.",
+      "correctIndex": 0,
+      "options": [
+        "To do a specific task by employing physical or mental powers.",
+        "(ditransitive) To move, shift, provide something abstract or concrete to someone or something or somewhere.",
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "To adorn or grace; to honour; to make becoming, appropriate, or honourable."
+      ]
+    },
+    {
+      "word": "possible",
+      "definition": "A possible one.",
+      "correctIndex": 1,
+      "options": [
+        "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+        "A possible one.",
+        "The third planet of the Solar System; the world upon which humans live.",
+        "The part of an object which is (designed to be) held in the hand when used or moved."
+      ]
+    },
+    {
+      "word": "unless",
+      "definition": "Except on a specified condition; if not.",
+      "correctIndex": 0,
+      "options": [
+        "Except on a specified condition; if not.",
+        "A short, directed application of force; an act of pushing.",
+        "To lose remembrance of.",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect."
+      ]
+    },
+    {
+      "word": "absolutely",
+      "definition": "In an absolute or unconditional manner; utterly, positively, wholly.",
+      "correctIndex": 3,
+      "options": [
+        "A line or vector that is perpendicular to another line, surface, or plane.",
+        "Fuss, ado.",
+        "A lid.",
+        "In an absolute or unconditional manner; utterly, positively, wholly."
+      ]
+    },
+    {
+      "word": "murder",
+      "definition": "The crime of deliberately killing another person without justification.",
+      "correctIndex": 0,
+      "options": [
+        "The crime of deliberately killing another person without justification.",
+        "To intend.",
+        "A person with poor judgment or little intelligence.",
+        "The act of waking, or state of being awake."
+      ]
+    },
+    {
+      "word": "except",
+      "definition": "To exclude; to specify as being an exception.",
+      "correctIndex": 2,
+      "options": [
+        "An intersection of piping or wiring; an interconnect.",
+        "To the fullest extent or degree.",
+        "To exclude; to specify as being an exception.",
+        "A centre, midpoint."
+      ]
+    },
+    {
+      "word": "careful",
+      "definition": "Taking care; attentive to potential danger, error or harm; cautious.",
+      "correctIndex": 1,
+      "options": [
+        "An exclamation of ooh.",
+        "Taking care; attentive to potential danger, error or harm; cautious.",
+        "A period during which one is seated for a specific purpose.",
+        "Used in speaking."
+      ]
+    },
+    {
+      "word": "handle",
+      "definition": "The part of an object which is (designed to be) held in the hand when used or moved.",
+      "correctIndex": 3,
+      "options": [
+        "An other, another (person, etc), more often rendered as another.",
+        "To last, continue, endure.",
+        "Having green as its color.",
+        "The part of an object which is (designed to be) held in the hand when used or moved."
+      ]
+    },
+    {
+      "word": "turned",
+      "definition": "(heading) to make a non-linear physical movement.",
+      "correctIndex": 0,
+      "options": [
+        "(heading) to make a non-linear physical movement.",
+        "An other, another (person, etc), more often rendered as another.",
+        "To perform the marriage ceremony for; to join in matrimony.",
+        "A loud, sharp sound as of a cork coming out of a bottle."
+      ]
+    },
+    {
+      "word": "wake",
+      "definition": "The act of waking, or state of being awake.",
+      "correctIndex": 3,
+      "options": [
+        "To provide an impetus for motion or other physical change, to move an object by means of the provision of force thereto.",
+        "A collection of organized things; a whole composed of relationships among its members.",
+        "A lid.",
+        "The act of waking, or state of being awake."
+      ]
+    },
+    {
+      "word": "broke",
+      "definition": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+      "correctIndex": 0,
+      "options": [
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "To adorn or grace; to honour; to make becoming, appropriate, or honourable.",
+        "Used in speaking.",
+        "An advertisement by which individuals attempt to meet others with similar interests."
+      ]
+    },
+    {
+      "word": "major",
+      "definition": "A military rank between captain and lieutenant colonel.",
+      "correctIndex": 1,
+      "options": [
+        "The location of an event that attracts attention.",
+        "A military rank between captain and lieutenant colonel.",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "Money in the form of notes/bills and coins, as opposed to cheques/checks or electronic transactions."
+      ]
+    },
+    {
+      "word": "mouth",
+      "definition": "The opening of a creature through which food is ingested.",
+      "correctIndex": 1,
+      "options": [
+        "A strong wind.",
+        "The opening of a creature through which food is ingested.",
+        "A sheet material used for writing on or printing on (or as a non-waterproof container), usually made by draining cellulose fibres from a suspension in water.",
+        "To form letters, words or symbols on a surface in order to communicate."
+      ]
+    },
+    {
+      "word": "meant",
+      "definition": "To intend.",
+      "correctIndex": 0,
+      "options": [
+        "To intend.",
+        "Having green as its color.",
+        "To roll or fold up; to wind round; to entwine.",
+        "Dreadful; causing terror, alarm and fear; awesome"
+      ]
+    },
+    {
+      "word": "lunch",
+      "definition": "A light meal usually eaten around midday, notably when not as main meal of the day.",
+      "correctIndex": 3,
+      "options": [
+        "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
+        "A large town house or mansion; a grand private residence, especially in France.",
+        "A rampart of earth, stones etc. built up for defensive purposes.",
+        "A light meal usually eaten around midday, notably when not as main meal of the day."
+      ]
+    },
+    {
+      "word": "expect",
+      "definition": "To predict or believe that something will happen",
+      "correctIndex": 3,
+      "options": [
+        "Used in speaking.",
+        "An intersection of piping or wiring; an interconnect.",
+        "An other, another (person, etc), more often rendered as another.",
+        "To predict or believe that something will happen"
+      ]
+    },
+    {
+      "word": "mama",
+      "definition": "(hypocoristic, usually childish) Mother, female parent.",
+      "correctIndex": 3,
+      "options": [
+        "An other, another (person, etc), more often rendered as another.",
+        "Money in the form of notes/bills and coins, as opposed to cheques/checks or electronic transactions.",
+        "A hit or strike with the leg, foot or knee.",
+        "(hypocoristic, usually childish) Mother, female parent."
+      ]
+    },
+    {
+      "word": "paper",
+      "definition": "A sheet material used for writing on or printing on (or as a non-waterproof container), usually made by draining cellulose fibres from a suspension in water.",
+      "correctIndex": 2,
+      "options": [
+        "The day immediately before today; one day ago.",
+        "To prevent harm or difficulty.",
+        "A sheet material used for writing on or printing on (or as a non-waterproof container), usually made by draining cellulose fibres from a suspension in water.",
+        "A musical composition with lyrics for voice or voices, performed by singing."
+      ]
+    },
+    {
+      "word": "hotel",
+      "definition": "A large town house or mansion; a grand private residence, especially in France.",
+      "correctIndex": 3,
+      "options": [
+        "Having green as its color.",
+        "A collection of organized things; a whole composed of relationships among its members.",
+        "A challenge, trial.",
+        "A large town house or mansion; a grand private residence, especially in France."
+      ]
+    },
+    {
+      "word": "thinks",
+      "definition": "An act of thinking; consideration (of something).",
+      "correctIndex": 3,
+      "options": [
+        "A figure or other artistic depiction of Jesus Christ.",
+        "An other, another (person, etc), more often rendered as another.",
+        "Senses relating to a three-dimensional object or space.",
+        "An act of thinking; consideration (of something)."
+      ]
+    },
+    {
+      "word": "talked",
+      "definition": "To communicate, usually by means of speech.",
+      "correctIndex": 2,
+      "options": [
+        "An extreme, a great extent.",
+        "Having green as its color.",
+        "To communicate, usually by means of speech.",
+        "Something that is number two in a series."
+      ]
+    },
+    {
+      "word": "wedding",
+      "definition": "To perform the marriage ceremony for; to join in matrimony.",
+      "correctIndex": 0,
+      "options": [
+        "To perform the marriage ceremony for; to join in matrimony.",
+        "To cease moving.",
+        "A beam of light or radiation.",
+        "An elongated piece of wood or similar material, typically put to some use, for example as a wand or baton."
+      ]
+    },
+    {
+      "word": "weird",
+      "definition": "Fate; destiny; luck.",
+      "correctIndex": 3,
+      "options": [
+        "Flexible material in a roll with a sticky surface on one or both sides; adhesive tape.",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "To hurt or sting.",
+        "Fate; destiny; luck."
+      ]
+    },
+    {
+      "word": "court",
+      "definition": "An enclosed space; a courtyard; an uncovered area shut in by the walls of a building, or by different buildings; also, a space opening from a street and nearly surrounded by houses; a blind alley.",
+      "correctIndex": 2,
+      "options": [
+        "To complete (something).",
+        "To hurt or sting.",
+        "An enclosed space; a courtyard; an uncovered area shut in by the walls of a building, or by different buildings; also, a space opening from a street and nearly surrounded by houses; a blind alley.",
+        "A kind or helpful deed; an instance of voluntarily assisting (someone)."
+      ]
+    },
+    {
+      "word": "watching",
+      "definition": "To look at, see, or view for a period of time.",
+      "correctIndex": 3,
+      "options": [
+        "A person with poor judgment or little intelligence.",
+        "A formation of minerals, specifically:",
+        "To lose remembrance of.",
+        "To look at, see, or view for a period of time."
+      ]
+    },
+    {
+      "word": "earth",
+      "definition": "The third planet of the Solar System; the world upon which humans live.",
+      "correctIndex": 2,
+      "options": [
+        "Flexible material in a roll with a sticky surface on one or both sides; adhesive tape.",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "The third planet of the Solar System; the world upon which humans live.",
+        "Also; in addition."
+      ]
+    },
+    {
+      "word": "others",
+      "definition": "An other, another (person, etc), more often rendered as another.",
+      "correctIndex": 1,
+      "options": [
+        "Any of several animals related to Equus ferus caballus.",
+        "An other, another (person, etc), more often rendered as another.",
+        "Of sinews and tendons.",
+        "A journey; an excursion or jaunt"
+      ]
+    },
+    {
+      "word": "forgot",
+      "definition": "To lose remembrance of.",
+      "correctIndex": 0,
+      "options": [
+        "To lose remembrance of.",
+        "A strip of fabric, especially from the edge of a piece of cloth.",
+        "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business suit or lounge suit), or a similar outfit for a woman.",
+        "A journey; an excursion or jaunt"
+      ]
+    },
+    {
+      "word": "ship",
+      "definition": "A water-borne vessel generally larger than a boat.",
+      "correctIndex": 0,
+      "options": [
+        "A water-borne vessel generally larger than a boat.",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "A symbol in an alphabet.",
+        "To change place or posture; to go, in any manner, from one place or position to another."
+      ]
+    },
+    {
+      "word": "attention",
+      "definition": "Mental focus.",
+      "correctIndex": 2,
+      "options": [
+        "(heading) Boundary, land within a boundary.",
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "Mental focus.",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect."
+      ]
+    },
+    {
+      "word": "worse",
+      "definition": "Unfavorable; negative; not good.",
+      "correctIndex": 2,
+      "options": [
+        "To give money or other compensation to in exchange for goods or services.",
+        "An exclamation of ooh.",
+        "Unfavorable; negative; not good.",
+        "The current moment or period of time."
+      ]
+    },
+    {
+      "word": "ben",
+      "definition": "A prayer; a petition.",
+      "correctIndex": 3,
+      "options": [
+        "(heading) Boundary, land within a boundary.",
+        "To last, continue, endure.",
+        "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
+        "A prayer; a petition."
+      ]
+    },
+    {
+      "word": "blow",
+      "definition": "A strong wind.",
+      "correctIndex": 2,
+      "options": [
+        "To hurt or sting.",
+        "A numerical value equal to 1,000 = 10 × 100 = 103",
+        "A strong wind.",
+        "The most senior rank for an academic at a university or similar institution, informally also known as \"full professor.\" Abbreviated Prof."
+      ]
+    },
+    {
+      "word": "ray",
+      "definition": "A beam of light or radiation.",
+      "correctIndex": 2,
+      "options": [
+        "Flexible material in a roll with a sticky surface on one or both sides; adhesive tape.",
+        "To contend in physical conflict, either singly or in war, battle etc.",
+        "A beam of light or radiation.",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect."
+      ]
+    },
+    {
+      "word": "stick",
+      "definition": "An elongated piece of wood or similar material, typically put to some use, for example as a wand or baton.",
+      "correctIndex": 3,
+      "options": [
+        "Of sinews and tendons.",
+        "To roll or fold up; to wind round; to entwine.",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "An elongated piece of wood or similar material, typically put to some use, for example as a wand or baton."
+      ]
+    },
+    {
+      "word": "yesterday",
+      "definition": "The day immediately before today; one day ago.",
+      "correctIndex": 1,
+      "options": [
+        "Also; in addition.",
+        "The day immediately before today; one day ago.",
+        "A numerical value equal to 1,000 = 10 × 100 = 103",
+        "To fill with wonder and surprise; to astonish, astound, surprise or perplex."
+      ]
+    },
+    {
+      "word": "smart",
+      "definition": "To hurt or sting.",
+      "correctIndex": 2,
+      "options": [
+        "A complete domicile occupying only part of a building, especially one for rent; a flat.",
+        "An advertisement by which individuals attempt to meet others with similar interests.",
+        "To hurt or sting.",
+        "To roll or fold up; to wind round; to entwine."
+      ]
+    },
+    {
+      "word": "boat",
+      "definition": "A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind.",
+      "correctIndex": 1,
+      "options": [
+        "Any of several animals related to Equus ferus caballus.",
+        "A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind.",
+        "A challenge, trial.",
+        "The most senior rank for an academic at a university or similar institution, informally also known as \"full professor.\" Abbreviated Prof."
+      ]
+    },
+    {
+      "word": "month",
+      "definition": "A period into which a year is divided, historically based on the phases of the moon.",
+      "correctIndex": 2,
+      "options": [
+        "A formation of minerals, specifically:",
+        "A Christian house of worship; a building where Christian religious services take place.",
+        "A period into which a year is divided, historically based on the phases of the moon.",
+        "To show (someone) the way; to guide, conduct; to point, indicate."
+      ]
+    },
+    {
+      "word": "given",
+      "definition": "(ditransitive) To move, shift, provide something abstract or concrete to someone or something or somewhere.",
+      "correctIndex": 2,
+      "options": [
+        "An act of being of assistance to someone.",
+        "To the fullest extent or degree.",
+        "(ditransitive) To move, shift, provide something abstract or concrete to someone or something or somewhere.",
+        "A line or vector that is perpendicular to another line, surface, or plane."
+      ]
+    },
+    {
+      "word": "fair",
+      "definition": "Something which is fair (in various senses of the adjective).",
+      "correctIndex": 3,
+      "options": [
+        "A cutting-down of timber.",
+        "To put (something) in a place where it will be harder to discover or out of sight.",
+        "To pay out (money).",
+        "Something which is fair (in various senses of the adjective)."
+      ]
+    },
+    {
+      "word": "ooh",
+      "definition": "An exclamation of ooh.",
+      "correctIndex": 3,
+      "options": [
+        "A musical composition with lyrics for voice or voices, performed by singing.",
+        "A figure or other artistic depiction of Jesus Christ.",
+        "Any of several animals related to Equus ferus caballus.",
+        "An exclamation of ooh."
+      ]
+    },
+    {
+      "word": "sitting",
+      "definition": "A period during which one is seated for a specific purpose.",
+      "correctIndex": 2,
+      "options": [
+        "An act of being of assistance to someone.",
+        "The act of jumping; a leap; a spring; a bound.",
+        "A period during which one is seated for a specific purpose.",
+        "A line or vector that is perpendicular to another line, surface, or plane."
+      ]
+    },
+    {
+      "word": "cover",
+      "definition": "A lid.",
+      "correctIndex": 1,
+      "options": [
+        "A centre, midpoint.",
+        "A lid.",
+        "To fill with wonder and surprise; to astonish, astound, surprise or perplex.",
+        "An act of being of assistance to someone."
+      ]
+    },
+    {
+      "word": "terrible",
+      "definition": "Dreadful; causing terror, alarm and fear; awesome",
+      "correctIndex": 2,
+      "options": [
+        "Facts or observations presented in support of an assertion.",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "Dreadful; causing terror, alarm and fear; awesome",
+        "Something that is number two in a series."
+      ]
+    },
+    {
+      "word": "song",
+      "definition": "A musical composition with lyrics for voice or voices, performed by singing.",
+      "correctIndex": 2,
+      "options": [
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "Money in the form of notes/bills and coins, as opposed to cheques/checks or electronic transactions.",
+        "A musical composition with lyrics for voice or voices, performed by singing.",
+        "To be grateful or thankful for."
+      ]
+    },
+    {
+      "word": "horse",
+      "definition": "Any of several animals related to Equus ferus caballus.",
+      "correctIndex": 2,
+      "options": [
+        "To put (something) in a place where it will be harder to discover or out of sight.",
+        "To adorn or grace; to honour; to make becoming, appropriate, or honourable.",
+        "Any of several animals related to Equus ferus caballus.",
+        "A journey; an excursion or jaunt"
+      ]
+    },
+    {
+      "word": "sell",
+      "definition": "An act of selling.",
+      "correctIndex": 3,
+      "options": [
+        "A centre, midpoint.",
+        "A line or vector that is perpendicular to another line, surface, or plane.",
+        "A rampart of earth, stones etc. built up for defensive purposes.",
+        "An act of selling."
+      ]
+    },
+    {
+      "word": "personal",
+      "definition": "An advertisement by which individuals attempt to meet others with similar interests.",
+      "correctIndex": 2,
+      "options": [
+        "A complete domicile occupying only part of a building, especially one for rent; a flat.",
+        "The inedible parts of a grain-producing plant.",
+        "An advertisement by which individuals attempt to meet others with similar interests.",
+        "A collection of organized things; a whole composed of relationships among its members."
+      ]
+    },
+    {
+      "word": "system",
+      "definition": "A collection of organized things; a whole composed of relationships among its members.",
+      "correctIndex": 3,
+      "options": [
+        "A kind or helpful deed; an instance of voluntarily assisting (someone).",
+        "A challenge, trial.",
+        "Of sinews and tendons.",
+        "A collection of organized things; a whole composed of relationships among its members."
+      ]
+    },
+    {
+      "word": "bob",
+      "definition": "A bobbing motion; a quick up and down movement.",
+      "correctIndex": 1,
+      "options": [
+        "Of sinews and tendons.",
+        "A bobbing motion; a quick up and down movement.",
+        "Used in speaking.",
+        "To cease moving."
+      ]
+    },
+    {
+      "word": "happening",
+      "definition": "To occur or take place.",
+      "correctIndex": 1,
+      "options": [
+        "To be under an obligation to give something back to someone or to perform some action for someone.",
+        "To occur or take place.",
+        "Disturbance or disruption.",
+        "(heading) Boundary, land within a boundary."
+      ]
+    },
+    {
+      "word": "christ",
+      "definition": "A figure or other artistic depiction of Jesus Christ.",
+      "correctIndex": 0,
+      "options": [
+        "A figure or other artistic depiction of Jesus Christ.",
+        "A short, directed application of force; an act of pushing.",
+        "A rampart of earth, stones etc. built up for defensive purposes.",
+        "To fill with wonder and surprise; to astonish, astound, surprise or perplex."
+      ]
+    },
+    {
+      "word": "quit",
+      "definition": "To pay (a debt, fine etc.).",
+      "correctIndex": 0,
+      "options": [
+        "To pay (a debt, fine etc.).",
+        "Facts or observations presented in support of an assertion.",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "The inedible parts of a grain-producing plant."
+      ]
+    },
+    {
+      "word": "box",
+      "definition": "Senses relating to a three-dimensional object or space.",
+      "correctIndex": 2,
+      "options": [
+        "To pay out (money).",
+        "To fill with wonder and surprise; to astonish, astound, surprise or perplex.",
+        "Senses relating to a three-dimensional object or space.",
+        "To provide an impetus for motion or other physical change, to move an object by means of the provision of force thereto."
+      ]
+    },
+    {
+      "word": "present",
+      "definition": "The current moment or period of time.",
+      "correctIndex": 2,
+      "options": [
+        "To contend in physical conflict, either singly or in war, battle etc.",
+        "A challenge, trial.",
+        "The current moment or period of time.",
+        "Also; in addition."
+      ]
+    },
+    {
+      "word": "fool",
+      "definition": "A person with poor judgment or little intelligence.",
+      "correctIndex": 3,
+      "options": [
+        "The most senior rank for an academic at a university or similar institution, informally also known as \"full professor.\" Abbreviated Prof.",
+        "The inedible parts of a grain-producing plant.",
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "A person with poor judgment or little intelligence."
+      ]
+    },
+    {
+      "word": "middle",
+      "definition": "A centre, midpoint.",
+      "correctIndex": 3,
+      "options": [
+        "A numerical value equal to 1,000 = 10 × 100 = 103",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "A short, directed application of force; an act of pushing.",
+        "A centre, midpoint."
+      ]
+    },
+    {
+      "word": "rock",
+      "definition": "A formation of minerals, specifically:",
+      "correctIndex": 1,
+      "options": [
+        "A line or vector that is perpendicular to another line, surface, or plane.",
+        "A formation of minerals, specifically:",
+        "A place or location.",
+        "A challenge, trial."
+      ]
+    },
+    {
+      "word": "window",
+      "definition": "The inedible parts of a grain-producing plant.",
+      "correctIndex": 3,
+      "options": [
+        "Feeling honoured (by something); feeling happy or satisfied about an event or fact; gratified.",
+        "A rampart of earth, stones etc. built up for defensive purposes.",
+        "Of sinews and tendons.",
+        "The inedible parts of a grain-producing plant."
+      ]
+    },
+    {
+      "word": "totally",
+      "definition": "To the fullest extent or degree.",
+      "correctIndex": 2,
+      "options": [
+        "Used in speaking.",
+        "Fuss, ado.",
+        "To the fullest extent or degree.",
+        "To prevent harm or difficulty."
+      ]
+    },
+    {
+      "word": "appreciate",
+      "definition": "To be grateful or thankful for.",
+      "correctIndex": 1,
+      "options": [
+        "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
+        "To be grateful or thankful for.",
+        "Facts or observations presented in support of an assertion.",
+        "Having green as its color."
+      ]
+    },
+    {
+      "word": "paid",
+      "definition": "To give money or other compensation to in exchange for goods or services.",
+      "correctIndex": 3,
+      "options": [
+        "An act of being of assistance to someone.",
+        "(heading) Boundary, land within a boundary.",
+        "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+        "To give money or other compensation to in exchange for goods or services."
+      ]
+    },
+    {
+      "word": "record",
+      "definition": "A disk, usually made of a polymer, used to record sound for playback on a phonograph.",
+      "correctIndex": 2,
+      "options": [
+        "To form letters, words or symbols on a surface in order to communicate.",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "A disk, usually made of a polymer, used to record sound for playback on a phonograph.",
+        "A journey; an excursion or jaunt"
+      ]
+    },
+    {
+      "word": "card",
+      "definition": "A playing card.",
+      "correctIndex": 3,
+      "options": [
+        "To complete (something).",
+        "A strip of fabric, especially from the edge of a piece of cloth.",
+        "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
+        "A playing card."
+      ]
+    },
+    {
+      "word": "college",
+      "definition": "A corporate group; a group of colleagues.",
+      "correctIndex": 2,
+      "options": [
+        "To pay out (money).",
+        "Something that is number two in a series.",
+        "A corporate group; a group of colleagues.",
+        "A state of being pleased or contented; gratification."
+      ]
+    },
+    {
+      "word": "evidence",
+      "definition": "Facts or observations presented in support of an assertion.",
+      "correctIndex": 0,
+      "options": [
+        "Facts or observations presented in support of an assertion.",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "To roll or fold up; to wind round; to entwine.",
+        "The location of an event that attracts attention."
+      ]
+    },
+    {
+      "word": "besides",
+      "definition": "Also; in addition.",
+      "correctIndex": 0,
+      "options": [
+        "Also; in addition.",
+        "To change place or posture; to go, in any manner, from one place or position to another.",
+        "A kind or helpful deed; an instance of voluntarily assisting (someone).",
+        "An intersection of piping or wiring; an interconnect."
+      ]
+    },
+    {
+      "word": "ran",
+      "definition": "To run.",
+      "correctIndex": 0,
+      "options": [
+        "To run.",
+        "A thing that is extremely holy; used almost exclusively in Holy of Holies.",
+        "A hit or strike with the leg, foot or knee.",
+        "The most senior rank for an academic at a university or similar institution, informally also known as \"full professor.\" Abbreviated Prof."
+      ]
+    },
+    {
+      "word": "test",
+      "definition": "A challenge, trial.",
+      "correctIndex": 3,
+      "options": [
+        "To change place or posture; to go, in any manner, from one place or position to another.",
+        "Disturbance or disruption.",
+        "The immature young of a marsupial, notably a junior kangaroo, but also a young wallaby, koala, etc.",
+        "A challenge, trial."
+      ]
+    },
+    {
+      "word": "finished",
+      "definition": "To complete (something).",
+      "correctIndex": 0,
+      "options": [
+        "To complete (something).",
+        "Fuss, ado.",
+        "A telephone conversation.",
+        "The location of an event that attracts attention."
+      ]
+    },
+    {
+      "word": "proud",
+      "definition": "Feeling honoured (by something); feeling happy or satisfied about an event or fact; gratified.",
+      "correctIndex": 3,
+      "options": [
+        "A cutting-down of timber.",
+        "To cease moving.",
+        "An act of being of assistance to someone.",
+        "Feeling honoured (by something); feeling happy or satisfied about an event or fact; gratified."
+      ]
+    },
+    {
+      "word": "join",
+      "definition": "An intersection of piping or wiring; an interconnect.",
+      "correctIndex": 0,
+      "options": [
+        "An intersection of piping or wiring; an interconnect.",
+        "A complete domicile occupying only part of a building, especially one for rent; a flat.",
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc."
+      ]
+    },
+    {
+      "word": "smell",
+      "definition": "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance.",
+      "correctIndex": 3,
+      "options": [
+        "A Christian house of worship; a building where Christian religious services take place.",
+        "The quality of being different.",
+        "Flexible material in a roll with a sticky surface on one or both sides; adhesive tape.",
+        "A sensation, pleasant or unpleasant, detected by inhaling air (or, the case of water-breathing animals, water) carrying airborne molecules of a substance."
+      ]
+    },
+    {
+      "word": "apartment",
+      "definition": "A complete domicile occupying only part of a building, especially one for rent; a flat.",
+      "correctIndex": 3,
+      "options": [
+        "To grasp or grip.",
+        "The act of congratulating.",
+        "The immature young of a marsupial, notably a junior kangaroo, but also a young wallaby, koala, etc.",
+        "A complete domicile occupying only part of a building, especially one for rent; a flat."
+      ]
+    },
+    {
+      "word": "letter",
+      "definition": "A symbol in an alphabet.",
+      "correctIndex": 2,
+      "options": [
+        "To roll or fold up; to wind round; to entwine.",
+        "An area of land set aside for environment preservation or recreation.",
+        "A symbol in an alphabet.",
+        "To provide an impetus for motion or other physical change, to move an object by means of the provision of force thereto."
+      ]
+    },
+    {
+      "word": "trip",
+      "definition": "A journey; an excursion or jaunt",
+      "correctIndex": 1,
+      "options": [
+        "A short, directed application of force; an act of pushing.",
+        "A journey; an excursion or jaunt",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect."
+      ]
+    },
+    {
+      "word": "mark",
+      "definition": "(heading) Boundary, land within a boundary.",
+      "correctIndex": 3,
+      "options": [
+        "A strip of fabric, especially from the edge of a piece of cloth.",
+        "To cease moving.",
+        "The immature young of a marsupial, notably a junior kangaroo, but also a young wallaby, koala, etc.",
+        "(heading) Boundary, land within a boundary."
+      ]
+    },
+    {
+      "word": "amazing",
+      "definition": "To fill with wonder and surprise; to astonish, astound, surprise or perplex.",
+      "correctIndex": 0,
+      "options": [
+        "To fill with wonder and surprise; to astonish, astound, surprise or perplex.",
+        "To show (someone) the way; to guide, conduct; to point, indicate.",
+        "Disturbance or disruption.",
+        "A telephone conversation."
+      ]
+    },
+    {
+      "word": "imagine",
+      "definition": "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
+      "correctIndex": 1,
+      "options": [
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "A short fanfic or prompt placing a reader insert in a novel scenario with a character or celebrity.",
+        "Used in speaking.",
+        "A thing that is extremely holy; used almost exclusively in Holy of Holies."
+      ]
+    },
+    {
+      "word": "pleasure",
+      "definition": "A state of being pleased or contented; gratification.",
+      "correctIndex": 2,
+      "options": [
+        "Of sinews and tendons.",
+        "A portion of something, especially a portion given or allotted to someone.",
+        "A state of being pleased or contented; gratification.",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect."
+      ]
+    },
+    {
+      "word": "list",
+      "definition": "A strip of fabric, especially from the edge of a piece of cloth.",
+      "correctIndex": 1,
+      "options": [
+        "To pay out (money).",
+        "A strip of fabric, especially from the edge of a piece of cloth.",
+        "A cutting-down of timber.",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc."
+      ]
+    },
+    {
+      "word": "calls",
+      "definition": "A telephone conversation.",
+      "correctIndex": 1,
+      "options": [
+        "To last, continue, endure.",
+        "A telephone conversation.",
+        "To pay out (money).",
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly."
+      ]
+    },
+    {
+      "word": "service",
+      "definition": "An act of being of assistance to someone.",
+      "correctIndex": 3,
+      "options": [
+        "A Christian house of worship; a building where Christian religious services take place.",
+        "The quality of being different.",
+        "A hit or strike with the leg, foot or knee.",
+        "An act of being of assistance to someone."
+      ]
+    },
+    {
+      "word": "difference",
+      "definition": "The quality of being different.",
+      "correctIndex": 0,
+      "options": [
+        "The quality of being different.",
+        "An extreme, a great extent.",
+        "To cease moving.",
+        "To adorn or grace; to honour; to make becoming, appropriate, or honourable."
+      ]
+    },
+    {
+      "word": "during",
+      "definition": "To last, continue, endure.",
+      "correctIndex": 0,
+      "options": [
+        "To last, continue, endure.",
+        "A hit or strike with the leg, foot or knee.",
+        "A thing that is extremely holy; used almost exclusively in Holy of Holies.",
+        "An extreme, a great extent."
+      ]
+    },
+    {
+      "word": "beer",
+      "definition": "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor.",
+      "correctIndex": 3,
+      "options": [
+        "To pay out (money).",
+        "A Christian house of worship; a building where Christian religious services take place.",
+        "To be under an obligation to give something back to someone or to perform some action for someone.",
+        "An alcoholic drink fermented from starch material, commonly barley malt, often with hops or some other substance to impart a bitter flavor."
+      ]
+    },
+    {
+      "word": "stopped",
+      "definition": "To cease moving.",
+      "correctIndex": 0,
+      "options": [
+        "To cease moving.",
+        "The act of congratulating.",
+        "A cutting-down of timber.",
+        "To prevent harm or difficulty."
+      ]
+    },
+    {
+      "word": "walking",
+      "definition": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
+      "correctIndex": 3,
+      "options": [
+        "Having green as its color.",
+        "To grasp or grip.",
+        "To adorn or grace; to honour; to make becoming, appropriate, or honourable.",
+        "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run."
+      ]
+    },
+    {
+      "word": "dangerous",
+      "definition": "Full of danger.",
+      "correctIndex": 0,
+      "options": [
+        "Full of danger.",
+        "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business suit or lounge suit), or a similar outfit for a woman.",
+        "A thing that is extremely holy; used almost exclusively in Holy of Holies.",
+        "To be under an obligation to give something back to someone or to perform some action for someone."
+      ]
+    },
+    {
+      "word": "scene",
+      "definition": "The location of an event that attracts attention.",
+      "correctIndex": 3,
+      "options": [
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "To contend in physical conflict, either singly or in war, battle etc.",
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+        "The location of an event that attracts attention."
+      ]
+    },
+    {
+      "word": "upset",
+      "definition": "Disturbance or disruption.",
+      "correctIndex": 2,
+      "options": [
+        "The act of congratulating.",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "Disturbance or disruption.",
+        "To grasp or grip."
+      ]
+    },
+    {
+      "word": "owe",
+      "definition": "To be under an obligation to give something back to someone or to perform some action for someone.",
+      "correctIndex": 1,
+      "options": [
+        "A hit or strike with the leg, foot or knee.",
+        "To be under an obligation to give something back to someone or to perform some action for someone.",
+        "A portion of something, especially a portion given or allotted to someone.",
+        "A short, directed application of force; an act of pushing."
+      ]
+    },
+    {
+      "word": "driving",
+      "definition": "To provide an impetus for motion or other physical change, to move an object by means of the provision of force thereto.",
+      "correctIndex": 3,
+      "options": [
+        "The act of jumping; a leap; a spring; a bound.",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "To provide an impetus for motion or other physical change, to move an object by means of the provision of force thereto."
+      ]
+    },
+    {
+      "word": "kick",
+      "definition": "A hit or strike with the leg, foot or knee.",
+      "correctIndex": 1,
+      "options": [
+        "The act of jumping; a leap; a spring; a bound.",
+        "A hit or strike with the leg, foot or knee.",
+        "The act of congratulating.",
+        "To form letters, words or symbols on a surface in order to communicate."
+      ]
+    },
+    {
+      "word": "joey",
+      "definition": "The immature young of a marsupial, notably a junior kangaroo, but also a young wallaby, koala, etc.",
+      "correctIndex": 1,
+      "options": [
+        "To contend in physical conflict, either singly or in war, battle etc.",
+        "The immature young of a marsupial, notably a junior kangaroo, but also a young wallaby, koala, etc.",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "To prevent harm or difficulty."
+      ]
+    },
+    {
+      "word": "fell",
+      "definition": "A cutting-down of timber.",
+      "correctIndex": 3,
+      "options": [
+        "The act of congratulating.",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "A rampart of earth, stones etc. built up for defensive purposes.",
+        "A cutting-down of timber."
+      ]
+    },
+    {
+      "word": "teach",
+      "definition": "To show (someone) the way; to guide, conduct; to point, indicate.",
+      "correctIndex": 3,
+      "options": [
+        "To roll or fold up; to wind round; to entwine.",
+        "To pay out (money).",
+        "To change place or posture; to go, in any manner, from one place or position to another.",
+        "To show (someone) the way; to guide, conduct; to point, indicate."
+      ]
+    },
+    {
+      "word": "green",
+      "definition": "Having green as its color.",
+      "correctIndex": 3,
+      "options": [
+        "A line or vector that is perpendicular to another line, surface, or plane.",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "A portion of something, especially a portion given or allotted to someone.",
+        "Having green as its color."
+      ]
+    },
+    {
+      "word": "cash",
+      "definition": "Money in the form of notes/bills and coins, as opposed to cheques/checks or electronic transactions.",
+      "correctIndex": 0,
+      "options": [
+        "Money in the form of notes/bills and coins, as opposed to cheques/checks or electronic transactions.",
+        "To roll or fold up; to wind round; to entwine.",
+        "The act of jumping; a leap; a spring; a bound.",
+        "An area of land set aside for environment preservation or recreation."
+      ]
+    },
+    {
+      "word": "honest",
+      "definition": "To adorn or grace; to honour; to make becoming, appropriate, or honourable.",
+      "correctIndex": 1,
+      "options": [
+        "An area of land set aside for environment preservation or recreation.",
+        "To adorn or grace; to honour; to make becoming, appropriate, or honourable.",
+        "The act of congratulating.",
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly."
+      ]
+    },
+    {
+      "word": "park",
+      "definition": "An area of land set aside for environment preservation or recreation.",
+      "correctIndex": 3,
+      "options": [
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "To prevent harm or difficulty.",
+        "Used in speaking.",
+        "An area of land set aside for environment preservation or recreation."
+      ]
+    },
+    {
+      "word": "position",
+      "definition": "A place or location.",
+      "correctIndex": 0,
+      "options": [
+        "A place or location.",
+        "A numerical value equal to 1,000 = 10 × 100 = 103",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "A Christian house of worship; a building where Christian religious services take place."
+      ]
+    },
+    {
+      "word": "broken",
+      "definition": "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+      "correctIndex": 0,
+      "options": [
+        "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "A rampart of earth, stones etc. built up for defensive purposes.",
+        "A short, directed application of force; an act of pushing."
+      ]
+    },
+    {
+      "word": "wrote",
+      "definition": "To form letters, words or symbols on a surface in order to communicate.",
+      "correctIndex": 3,
+      "options": [
+        "To prevent harm or difficulty.",
+        "A Christian house of worship; a building where Christian religious services take place.",
+        "An extreme, a great extent.",
+        "To form letters, words or symbols on a surface in order to communicate."
+      ]
+    },
+    {
+      "word": "max",
+      "definition": "An extreme, a great extent.",
+      "correctIndex": 1,
+      "options": [
+        "To prevent harm or difficulty.",
+        "An extreme, a great extent.",
+        "A line or vector that is perpendicular to another line, surface, or plane.",
+        "A portion of something, especially a portion given or allotted to someone."
+      ]
+    },
+    {
+      "word": "congratulations",
+      "definition": "The act of congratulating.",
+      "correctIndex": 2,
+      "options": [
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "The act of congratulating.",
+        "A kind or helpful deed; an instance of voluntarily assisting (someone)."
+      ]
+    },
+    {
+      "word": "fighting",
+      "definition": "To contend in physical conflict, either singly or in war, battle etc.",
+      "correctIndex": 0,
+      "options": [
+        "To contend in physical conflict, either singly or in war, battle etc.",
+        "A kind or helpful deed; an instance of voluntarily assisting (someone).",
+        "Flexible material in a roll with a sticky surface on one or both sides; adhesive tape.",
+        "The act of jumping; a leap; a spring; a bound."
+      ]
+    },
+    {
+      "word": "favor",
+      "definition": "A kind or helpful deed; an instance of voluntarily assisting (someone).",
+      "correctIndex": 3,
+      "options": [
+        "A short, directed application of force; an act of pushing.",
+        "A numerical value equal to 1,000 = 10 × 100 = 103",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "A kind or helpful deed; an instance of voluntarily assisting (someone)."
+      ]
+    },
+    {
+      "word": "wall",
+      "definition": "A rampart of earth, stones etc. built up for defensive purposes.",
+      "correctIndex": 1,
+      "options": [
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+        "A rampart of earth, stones etc. built up for defensive purposes.",
+        "Something that is number two in a series.",
+        "A line or vector that is perpendicular to another line, surface, or plane."
+      ]
+    },
+    {
+      "word": "seconds",
+      "definition": "Something that is number two in a series.",
+      "correctIndex": 1,
+      "options": [
+        "To prevent harm or difficulty.",
+        "Something that is number two in a series.",
+        "Used in speaking.",
+        "A line or vector that is perpendicular to another line, surface, or plane."
+      ]
+    },
+    {
+      "word": "push",
+      "definition": "A short, directed application of force; an act of pushing.",
+      "correctIndex": 3,
+      "options": [
+        "To put (something) in a place where it will be harder to discover or out of sight.",
+        "Similarly not.",
+        "A Christian house of worship; a building where Christian religious services take place.",
+        "A short, directed application of force; an act of pushing."
+      ]
+    },
+    {
+      "word": "normal",
+      "definition": "A line or vector that is perpendicular to another line, surface, or plane.",
+      "correctIndex": 3,
+      "options": [
+        "To roll or fold up; to wind round; to entwine.",
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business suit or lounge suit), or a similar outfit for a woman.",
+        "A line or vector that is perpendicular to another line, surface, or plane."
+      ]
+    },
+    {
+      "word": "machine",
+      "definition": "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+      "correctIndex": 0,
+      "options": [
+        "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+        "The most senior rank for an academic at a university or similar institution, informally also known as \"full professor.\" Abbreviated Prof.",
+        "Of sinews and tendons.",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc."
+      ]
+    },
+    {
+      "word": "spent",
+      "definition": "To pay out (money).",
+      "correctIndex": 3,
+      "options": [
+        "To prevent harm or difficulty.",
+        "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business suit or lounge suit), or a similar outfit for a woman.",
+        "A Christian house of worship; a building where Christian religious services take place.",
+        "To pay out (money)."
+      ]
+    },
+    {
+      "word": "speaking",
+      "definition": "Used in speaking.",
+      "correctIndex": 1,
+      "options": [
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+        "Used in speaking.",
+        "The act of jumping; a leap; a spring; a bound.",
+        "A numerical value equal to 1,000 = 10 × 100 = 103"
+      ]
+    },
+    {
+      "word": "jump",
+      "definition": "The act of jumping; a leap; a spring; a bound.",
+      "correctIndex": 0,
+      "options": [
+        "The act of jumping; a leap; a spring; a bound.",
+        "To grasp or grip.",
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+        "Of sinews and tendons."
+      ]
+    },
+    {
+      "word": "saved",
+      "definition": "To prevent harm or difficulty.",
+      "correctIndex": 3,
+      "options": [
+        "Similarly not.",
+        "Fuss, ado.",
+        "To grasp or grip.",
+        "To prevent harm or difficulty."
+      ]
+    },
+    {
+      "word": "hide",
+      "definition": "To put (something) in a place where it will be harder to discover or out of sight.",
+      "correctIndex": 0,
+      "options": [
+        "To put (something) in a place where it will be harder to discover or out of sight.",
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+        "Of sinews and tendons.",
+        "To grasp or grip."
+      ]
+    },
+    {
+      "word": "church",
+      "definition": "A Christian house of worship; a building where Christian religious services take place.",
+      "correctIndex": 3,
+      "options": [
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+        "A numerical value equal to 1,000 = 10 × 100 = 103",
+        "To grasp or grip.",
+        "A Christian house of worship; a building where Christian religious services take place."
+      ]
+    },
+    {
+      "word": "professor",
+      "definition": "The most senior rank for an academic at a university or similar institution, informally also known as \"full professor.\" Abbreviated Prof.",
+      "correctIndex": 1,
+      "options": [
+        "A thing that is extremely holy; used almost exclusively in Holy of Holies.",
+        "The most senior rank for an academic at a university or similar institution, informally also known as \"full professor.\" Abbreviated Prof.",
+        "To grasp or grip.",
+        "To change place or posture; to go, in any manner, from one place or position to another."
+      ]
+    },
+    {
+      "word": "share",
+      "definition": "A portion of something, especially a portion given or allotted to someone.",
+      "correctIndex": 1,
+      "options": [
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+        "A portion of something, especially a portion given or allotted to someone.",
+        "To change place or posture; to go, in any manner, from one place or position to another.",
+        "Of sinews and tendons."
+      ]
+    },
+    {
+      "word": "moved",
+      "definition": "To change place or posture; to go, in any manner, from one place or position to another.",
+      "correctIndex": 3,
+      "options": [
+        "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business suit or lounge suit), or a similar outfit for a woman.",
+        "Fuss, ado.",
+        "Of sinews and tendons.",
+        "To change place or posture; to go, in any manner, from one place or position to another."
+      ]
+    },
+    {
+      "word": "thousand",
+      "definition": "A numerical value equal to 1,000 = 10 × 100 = 103",
+      "correctIndex": 0,
+      "options": [
+        "A numerical value equal to 1,000 = 10 × 100 = 103",
+        "A thing that is extremely holy; used almost exclusively in Holy of Holies.",
+        "To roll or fold up; to wind round; to entwine.",
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat."
+      ]
+    },
+    {
+      "word": "holding",
+      "definition": "To grasp or grip.",
+      "correctIndex": 1,
+      "options": [
+        "Flexible material in a roll with a sticky surface on one or both sides; adhesive tape.",
+        "To grasp or grip.",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "Of sinews and tendons."
+      ]
+    },
+    {
+      "word": "fear",
+      "definition": "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+      "correctIndex": 2,
+      "options": [
+        "To roll or fold up; to wind round; to entwine.",
+        "Similarly not.",
+        "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+        "A loud, sharp sound as of a cork coming out of a bottle."
+      ]
+    },
+    {
+      "word": "tape",
+      "definition": "Flexible material in a roll with a sticky surface on one or both sides; adhesive tape.",
+      "correctIndex": 1,
+      "options": [
+        "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business suit or lounge suit), or a similar outfit for a woman.",
+        "Flexible material in a roll with a sticky surface on one or both sides; adhesive tape.",
+        "Of sinews and tendons.",
+        "To roll or fold up; to wind round; to entwine."
+      ]
+    },
+    {
+      "word": "suit",
+      "definition": "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business suit or lounge suit), or a similar outfit for a woman.",
+      "correctIndex": 3,
+      "options": [
+        "A thing that is extremely holy; used almost exclusively in Holy of Holies.",
+        "To roll or fold up; to wind round; to entwine.",
+        "Fuss, ado.",
+        "A set of clothes to be worn together, now especially a man's matching jacket and trousers (also business suit or lounge suit), or a similar outfit for a woman."
+      ]
+    },
+    {
+      "word": "holy",
+      "definition": "A thing that is extremely holy; used almost exclusively in Holy of Holies.",
+      "correctIndex": 1,
+      "options": [
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+        "A thing that is extremely holy; used almost exclusively in Holy of Holies.",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "Of sinews and tendons."
+      ]
+    },
+    {
+      "word": "involved",
+      "definition": "To roll or fold up; to wind round; to entwine.",
+      "correctIndex": 0,
+      "options": [
+        "To roll or fold up; to wind round; to entwine.",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "Similarly not.",
+        "Of sinews and tendons."
+      ]
+    },
+    {
+      "word": "books",
+      "definition": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+      "correctIndex": 3,
+      "options": [
+        "Of sinews and tendons.",
+        "Fuss, ado.",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc."
+      ]
+    },
+    {
+      "word": "neither",
+      "definition": "Similarly not.",
+      "correctIndex": 2,
+      "options": [
+        "Of sinews and tendons.",
+        "A loud, sharp sound as of a cork coming out of a bottle.",
+        "Similarly not.",
+        "Fuss, ado."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>English Vocabulary Size Test</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="app">
+    <header class="app-header">
+      <h1 class="logo">VocabTest</h1>
+      <div id="timer" class="timer hidden">00:00</div>
+    </header>
+
+    <main class="app-main">
+      <!-- Landing Screen -->
+      <section id="screen-landing" class="screen active">
+        <div class="landing">
+          <h2>English Vocabulary Size Test</h2>
+          <p class="subtitle">Estimate your English vocabulary size with a scientifically stratified sampling method.</p>
+          <div class="info-cards">
+            <div class="info-card">
+              <div class="info-icon">📊</div>
+              <h3>Stratified Testing</h3>
+              <p>11 frequency bands from basic (1-1K) to expert (32K-40K), ensuring accurate measurement across all levels.</p>
+            </div>
+            <div class="info-card">
+              <div class="info-icon">🎯</div>
+              <h3>Four-Choice Matching</h3>
+              <p>Match each word with its correct English definition from four options. Distractors come from the same frequency band.</p>
+            </div>
+            <div class="info-card">
+              <div class="info-icon">⏱️</div>
+              <h3>~25 Minutes</h3>
+              <p>110 questions across all bands. Take your time — accuracy matters more than speed.</p>
+            </div>
+          </div>
+          <div class="benchmarks-preview">
+            <h3>Benchmark References</h3>
+            <div class="benchmark-list">
+              <span class="benchmark-tag">高考英语 ~3,500</span>
+              <span class="benchmark-tag">CET-4 ~4,500</span>
+              <span class="benchmark-tag">CET-6 ~6,500</span>
+              <span class="benchmark-tag">考研英语 ~5,500</span>
+              <span class="benchmark-tag">雅思7+ ~9,000</span>
+              <span class="benchmark-tag">专八 ~13,000</span>
+              <span class="benchmark-tag">母语成人 ~17,000</span>
+            </div>
+          </div>
+          <button id="btn-start" class="btn btn-primary btn-lg">Start Test</button>
+        </div>
+      </section>
+
+      <!-- Test Screen -->
+      <section id="screen-test" class="screen">
+        <div class="test-container">
+          <div class="test-progress">
+            <div class="progress-bar">
+              <div id="progress-fill" class="progress-fill" style="width: 0%"></div>
+            </div>
+            <div class="progress-info">
+              <span id="band-label" class="band-label">Band 1: 1-1K</span>
+              <span id="question-counter" class="question-counter">1 / 10</span>
+            </div>
+          </div>
+
+          <div class="question-card">
+            <div class="word-display">
+              <span id="question-word" class="target-word">word</span>
+            </div>
+            <p class="instruction">Choose the correct definition:</p>
+            <div id="options-container" class="options">
+            </div>
+          </div>
+
+          <div class="test-nav">
+            <button id="btn-prev" class="btn btn-secondary" disabled>Previous</button>
+            <button id="btn-next" class="btn btn-primary" disabled>Next</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Results Screen -->
+      <section id="screen-results" class="screen">
+        <div class="results">
+          <h2>Your Results</h2>
+          <div class="vocab-estimate">
+            <div class="estimate-number" id="total-estimate">0</div>
+            <div class="estimate-label">Estimated Vocabulary Size</div>
+            <div class="estimate-range" id="estimate-range"></div>
+          </div>
+
+          <div class="results-grid">
+            <div class="results-section">
+              <h3>Band Breakdown</h3>
+              <div id="band-breakdown" class="band-breakdown"></div>
+            </div>
+
+            <div class="results-section">
+              <h3>Benchmark Comparison</h3>
+              <div id="benchmark-chart" class="benchmark-chart"></div>
+            </div>
+          </div>
+
+          <div class="results-stats">
+            <div class="stat">
+              <span class="stat-value" id="stat-total">0</span>
+              <span class="stat-label">Questions Answered</span>
+            </div>
+            <div class="stat">
+              <span class="stat-value" id="stat-correct">0</span>
+              <span class="stat-label">Correct Answers</span>
+            </div>
+            <div class="stat">
+              <span class="stat-value" id="stat-accuracy">0%</span>
+              <span class="stat-label">Overall Accuracy</span>
+            </div>
+            <div class="stat">
+              <span class="stat-value" id="stat-time">0:00</span>
+              <span class="stat-label">Time Taken</span>
+            </div>
+          </div>
+
+          <button id="btn-restart" class="btn btn-primary">Take Test Again</button>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
