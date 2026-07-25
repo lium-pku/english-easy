@@ -1,7 +1,8 @@
 import { TestEngine } from './test-engine.js';
 import { renderResults } from './results.js';
 
-const LETTERS = ['A', 'B', 'C', 'D'];
+const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
+const DEFINITION_OPTION_COUNT = 4;
 
 let engine = null;
 let timerInterval = null;
@@ -47,19 +48,29 @@ function renderQuestion() {
   const currentAnswer = engine.answers[engine.currentIndex];
 
   q.options.forEach((opt, i) => {
+    if (i === DEFINITION_OPTION_COUNT) {
+      const sep = document.createElement('div');
+      sep.className = 'options-separator';
+      container.appendChild(sep);
+    }
+
+    const isSpecial = i >= DEFINITION_OPTION_COUNT;
     const btn = document.createElement('button');
-    btn.className = 'option' + (currentAnswer === i ? ' selected' : '');
+    btn.className = (isSpecial ? 'option option-special' : 'option') + (currentAnswer === i ? ' selected' : '');
     btn.type = 'button';
 
-    const letter = document.createElement('span');
-    letter.className = 'option-letter';
-    letter.textContent = LETTERS[i];
+    if (!isSpecial) {
+      const letter = document.createElement('span');
+      letter.className = 'option-letter';
+      letter.textContent = LETTERS[i];
+      btn.appendChild(letter);
+    }
 
     const text = document.createElement('span');
     text.className = 'option-text';
     text.textContent = opt;
+    btn.appendChild(text);
 
-    btn.append(letter, text);
     btn.addEventListener('click', () => {
       engine.selectAnswer(i);
       container.querySelectorAll('.option').forEach(o => o.classList.remove('selected'));

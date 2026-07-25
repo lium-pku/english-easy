@@ -320,6 +320,34 @@ body {
   flex: 1;
 }
 
+.options-separator {
+  height: 1px;
+  background: var(--border);
+  margin: 0.4rem 0;
+}
+
+.option-special {
+  border-style: dashed;
+  border-color: var(--border);
+  background: var(--bg);
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  padding: 0.65rem 1rem;
+  justify-content: center;
+}
+
+.option-special:hover {
+  border-color: var(--text-secondary);
+  background: var(--surface);
+}
+
+.option-special.selected {
+  border-color: var(--primary);
+  border-style: solid;
+  background: #eef2ff;
+  color: var(--primary);
+}
+
 .test-nav {
   display: flex;
   justify-content: space-between;

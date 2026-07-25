@@ -5,9 +5,14 @@
   "type": "module",
   "scripts": {
     "generate": "node scripts/generate-data.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
     "start": "npx serve . -l 3000"
   },
   "dependencies": {
     "subtlex-word-frequencies": "^2.0.0"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.10"
   }
 }

@@ -139,7 +139,7 @@ async function fetchWithRateLimit(words, cache) {
   return results;
 }
 
-function shuffle(arr) {
+export function shuffle(arr) {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -148,9 +148,13 @@ function shuffle(arr) {
   return a;
 }
 
-function generateQuestions(bandWords, definitions) {
+export const OPTION_NONE_CORRECT = '以上意思都不正确';
+export const OPTION_DONT_KNOW = '不认识';
+export const NONE_CORRECT_RATIO = 0.3;
+
+export function generateQuestions(bandWords, definitions) {
   const withDefs = bandWords.filter(w => definitions[w]);
-  if (withDefs.length < 4) return [];
+  if (withDefs.length < 5) return [];
 
   const questions = [];
   const usedWords = new Set();
@@ -162,15 +166,29 @@ function generateQuestions(bandWords, definitions) {
     const distractorPool = withDefs.filter(
       w => w !== word && !usedWords.has(w) && definitions[w] !== correctDef
     );
-    if (distractorPool.length < 3) continue;
 
-    const distractors = shuffle(distractorPool).slice(0, 3);
-    const options = [correctDef, ...distractors.map(d => definitions[d])];
-    const shuffledIndices = shuffle([0, 1, 2, 3]);
-    const shuffledOptions = shuffledIndices.map(i => options[i]);
-    const correctIndex = shuffledIndices.indexOf(0);
+    const isNoneCorrect = Math.random() < NONE_CORRECT_RATIO;
+    const distractorsNeeded = isNoneCorrect ? 4 : 3;
+    if (distractorPool.length < distractorsNeeded) continue;
 
-    questions.push({ word, definition: correctDef, correctIndex, options: shuffledOptions });
+    const distractors = shuffle(distractorPool).slice(0, distractorsNeeded);
+
+    let definitionOptions;
+    let correctIndex;
+
+    if (isNoneCorrect) {
+      definitionOptions = shuffle(distractors.map(d => definitions[d]));
+      correctIndex = 4;
+    } else {
+      const fourOptions = [correctDef, ...distractors.map(d => definitions[d])];
+      const shuffledIndices = shuffle([0, 1, 2, 3]);
+      definitionOptions = shuffledIndices.map(i => fourOptions[i]);
+      correctIndex = shuffledIndices.indexOf(0);
+    }
+
+    const options = [...definitionOptions, OPTION_NONE_CORRECT, OPTION_DONT_KNOW];
+
+    questions.push({ word, definition: correctDef, correctIndex, options });
     usedWords.add(word);
   }
 
@@ -240,7 +258,10 @@ async function main() {
   console.log('\n=== Done! ===');
 }
 
-main().catch(err => {
-  console.error('Fatal error:', err);
-  process.exit(1);
-});
+const isMain = process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1];
+if (isMain) {
+  main().catch(err => {
+    console.error('Fatal error:', err);
+    process.exit(1);
+  });
+}
